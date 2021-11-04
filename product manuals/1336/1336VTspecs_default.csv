@@ -1,0 +1,18 @@
+A -- 1-6,Manufacturer,Series,B -- 8-11 (MODS),Voltage,Output Current Amps,Output Current kVA 380V AC,Output Current kVA 415V AC,Output Current kVA 460V AC,C -- 14-14,Enclosure Type,D -- 15-20 (MODS),Logic Interface Board,Control Interface Options,Connector
+1336VT,Allen Bradley/Rockwell Automation,1336 Adjustable Frequency AC Drive,B003,380-460V AC,5,3.3,3.6,4,0,Open style (IP00),FA2,BLANK,Basic control panel for open or NEMA Type 1 enclosures,BLANK
+,,,B005,380-460V AC,8,5.3,5.8,6.4,A,NEMA Type 1 (IP20),FC3,BLANK,Basic control panel for NEMA Type 4 enclosures,BLANK
+,,,B007,380-460V AC,11,7.2,7.9,8.8,,,FJ3,BLANK,Basic control panel for NEMA Type 12 enclosures,BLANK
+,,,B010,380-460V AC,14,9.2,10.1,11.2,,,L1,+5V DC TTL Logic Contact Closure Interface Board,BLANK,BLANK
+,,,B015,380-460V AC,21,13.8,15.1,16.7,,,L2,+24V DC Logic Interface Board,BLANK,BLANK
+,,,B020,380-460V AC,27,17.8,19.4,21.5,,,L3,115V AC Logic Interface Board,BLANK,BLANK
+,,,B025,380-460V AC,34,22.4,24.4,27.1,,,S1,BLANK,BLANK,Serial Port connector
+,,,B030,380-460V AC,40,26.3,28.8,31.9,,,,,,
+,,,B040,380-460V AC,52,34.2,37.4,41.4,,,,,,
+,,,B050,380-460V AC,65,42.8,46.7,51.8,,,,,,
+,,,B060,380-460V AC,77,50.7,55.3,61.3,,,,,,
+,,,B075,380-460V AC,96,63.2,69,76.5,,,,,,
+,,,B100,380-460V AC,124,81.6,89.1,98.8,,,,,,
+,,,B125,380-460V AC,156,102.7,112.1,124.3,,,,,,
+,,,B150,380-460V AC,180,118.5,129.4,143.4,,,,,,
+,,,B200,380-460V AC,240,158,172.5,191.2,,,,,,
+,,,B250,380-460V AC,300,197.4,215.6,239,,,,,,

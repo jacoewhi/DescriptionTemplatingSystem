@@ -1,0 +1,25 @@
+A -- 1-1,Manufacturer,Series,B -- 2-5,Product Type,Motor Model / Frame Size,C -- 3-3,Motor Winding KE Voltage Designator,D -- 4-8,Optical Encoder Line Count,Options,Factory Designated Special Options
+H,Allen Bradley,H,2005,Brushless Servo Motor,2005,H,34 V/krpm,F00AA,1000,Standard,Standard Flange
+,,,3007,Brushless Servo Motor,3007,K,16 V/krpm,F00AN,1000,Standard,NEMA 56C Flange
+,,,3016,Brushless Servo Motor,3016,M,30 V/krpm,F01AA,1000,90 VDC Brake,Standard Flange
+,,,3106,Brushless Servo Motor,3106,N,34 V/krpm,F01AN,1000,90 VDC Brake,NEMA 56C Flange
+,,,4030,Brushless Servo Motor,4030,P,60  V/krpm,F04AA,1000,24 VDC Brake,Standard Flange
+,,,4050,Brushless Servo Motor,4050,Q,80-85 V/krpm,F04AN,1000,24 VDC Brake,NEMA 56C Flange
+,,,4075,Brushless Servo Motor,4075,R,90 V/krpm,H00AA,2000 (STANDARD),Standard,Standard Flange
+,,,6100,Brushless Servo Motor,6100,,,H00AN,2000 (STANDARD),Standard,NEMA 56C Flange
+,,,6200,Brushless Servo Motor,6200,,,H01AA,2000 (STANDARD),90 VDC Brake,Standard Flange
+,,,6300,Brushless Servo Motor,6300,,,H01AN,2000 (STANDARD),90 VDC Brake,NEMA 56C Flange
+,,,,,,,,H04AA,2000 (STANDARD),24 VDC Brake,Standard Flange
+,,,,,,,,H04AN,2000 (STANDARD),24 VDC Brake,NEMA 56C Flange
+,,,,,,,,K00AA,5000,Standard,Standard Flange
+,,,,,,,,K00AN,5000,Standard,NEMA 56C Flange
+,,,,,,,,K01AA,5000,90 VDC Brake,Standard Flange
+,,,,,,,,K01AN,5000,90 VDC Brake,NEMA 56C Flange
+,,,,,,,,K04AA,5000,24 VDC Brake,Standard Flange
+,,,,,,,,K04AN,5000,24 VDC Brake,NEMA 56C Flange
+,,,,,,,,L00AA,500,Standard,Standard Flange
+,,,,,,,,L00AN,500,Standard,NEMA 56C Flange
+,,,,,,,,L01AA,500,90 VDC Brake,Standard Flange
+,,,,,,,,L01AN,500,90 VDC Brake,NEMA 56C Flange
+,,,,,,,,L04AA,500,24 VDC Brake,Standard Flange
+,,,,,,,,L04AN,500,24 VDC Brake,NEMA 56C Flange

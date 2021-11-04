@@ -1,0 +1,26 @@
+remove is/has a from in front of the multi spec sentences
+change multispec spec tags to spec1, spec2, spec3...
+create more varied multispec sentences if they aren't there
+uncapitalize anything but proper nouns and abbreviations
+search for periods and double spaces in the template config and value conversion
+check for commas in the value conversions
+check for lack of spaces where needed
+add commas after Additionally
+reformat [blank] to blank and remove it from additionally
+make sure value conversions have template groups where they should and don't where they shouldn't
+check for sentences in the template config that don't make sense like [brand] [spec]
+check for glossary terms that are already used in value conversions like has an Amp rating of 48 Amp
+check for the blank keyword not being rendered as an empty string
+check for any square brackets
+check for any double spaces
+check for any " ," or " ." occurrences
+check for weird a/an usage
+make sure 5 sentences are generated
+make sure specs are being randomly used as expected
+the [option] glossary tag should be option, card,  board, module, unit, option board
+check for ".,"
+check for incorrect a/an usages
+check for 8:00 AM instead of 8 A etc.
+if you get stuck on an infinite loop make sure there is at least one supporting sentence that does not have an [additionally] tag or "Furthermore,"
+
+

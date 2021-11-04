@@ -1,0 +1,102 @@
+Specification,value,value_conversion,,,,,,,template_group
+Amps,9.6,9.6 A,9.6 Amp,,,,,,Amps
+Amps,8.7,8.7 A,8.7 Amp,,,,,,Amps
+Amps,8,8 A,8 Amp,,,,,,Amps
+Amps,72,72 A,72 Amp,,,,,,Amps
+Amps,70,70 A,70 Amp,,,,,,Amps
+Amps,65,65 A,65 Amp,,,,,,Amps
+Amps,60,60 A,60 Amp,,,,,,Amps
+Amps,6.8,6.8 A,6.8 Amp,,,,,,Amps
+Amps,54,54 A,54 Amp,,,,,,Amps
+Amps,52,52 A,52 Amp,,,,,,Amps
+Amps,5,5 A,5 Amp,,,,,,Amps
+Amps,43,43 A,43 Amp,,,,,,Amps
+Amps,42,42 A,42 Amp,,,,,,Amps
+Amps,41,41 A,41 Amp,,,,,,Amps
+Amps,40,40 A,40 Amp,,,,,,Amps
+Amps,4.2,4.2 A,4.2 Amp,,,,,,Amps
+Amps,37,37 A,37 Amp,,,,,,Amps
+Amps,34,34 A,34 Amp,,,,,,Amps
+Amps,32,32 A,32 Amp,,,,,,Amps
+Amps,30,30 A,30 Amp,,,,,,Amps
+Amps,3.5,3.5 A,3.5 Amp,,,,,,Amps
+Amps,3.4,3.4 A,3.4 Amp,,,,,,Amps
+Amps,28,28 A,28 Amp,,,,,,Amps
+Amps,27,27 A,27 Amp,,,,,,Amps
+Amps,22,22 A,22 Amp,,,,,,Amps
+Amps,2.7,2.7 A,2.7 Amp,,,,,,Amps
+Amps,2.2,2.2 A,2.2 Amp,,,,,,Amps
+Amps,2.1,2.1 A,2.1 Amp,,,,,,Amps
+Amps,17,17 A,17 Amp,,,,,,Amps
+Amps,15.4,15.4 A,15.4 Amp,,,,,,Amps
+Amps,15.3,15.3 A,15.3 Amp,,,,,,Amps
+Amps,14,14 A,14 Amp,,,,,,Amps
+Amps,11.5,11.5 A,11.5 Amp,,,,,,Amps
+Amps,11, 11 A,11 Amp,,,,,,Amps
+Amps,1.7,1.7 A,1.7 Amp,,,,,,Amps
+Amps,1.3,1.3 A,1.3 Amp,,,,,,Amps
+Amps,1.1,1.1 A,1.1 Amp,,,,,,Amps
+Amps,0.9,0.9 A,0.9 Amp,,,,,,Amps
+Control,Standard,standard,standard control,,,,,,Control
+Control,Enhanced,enhanced,enhanced control,,,,,,Control
+Enclosure,"Wall/Machine Mount = IP66, NEMA/UL Type 4X/12 for indoor use only",wall/machine mount = IP66,wall/machine mount (IP66),,IP66,,,,Enclosure
+Enclosure,"Wall/Machine Mount - IP54, NEMA/UL Type 12",machine mount IP54,wall/machine mount (IP54),,IP54,,,,Enclosure
+Enclosure,"Panel Mount - IP 20, NEMA/UL Type 1",panel mount - IP 20,panel mount (IP20),,IP20 (panel mount),,,,Enclosure
+Enclosure,"Flange Mount - Front Chassis = IP 20, NEMA/UL Type 1, Rear Heatsink = IP66, NEMA/UL Type 4X/12 for indoor/outdoor use",flange mount IP 66,flange mount - front chassis (IP66),,IP20 (flange mount),,,,Enclosure
+Feedback,No Feedback - Enhanced Control,,Ignore,,,,,,
+Feedback,5V/12V Encoder w/Enhanced Control,5V/12V encoder with enhanced control,encoder (20A-ENC-1),,encoder (5V/12V),,,,Encoder
+Frame,E,,,,,,,,Frame
+Frame,D,,,,,,,,Frame
+Frame,C,,,,,,,,Frame
+Frame,B,,,,,,,,Frame
+Frame,A,,,,,,,,Frame
+HP,7.5,7.5 HP,7.5 horsepower,,,,,,HP
+HP,50,50 HP,50 horsepower,,,,,,HP
+HP,5,5 HP,5 horsepower,,,,,,HP
+HP,40,40 HP,40 horsepower,,,,,,HP
+HP,30,30 HP,30 horsepower,,,,,,HP
+HP,3,3 HP,3 horsepower,,,,,,HP
+HP,25,25 HP,25 horsepower,,,,,,HP
+HP,20,20 HP,20 horsepower,,,,,,HP
+HP,2,2 HP,2 horsepower,,,,,,HP
+HP,15,15 HP,15 horsepower,,,,,,HP
+HP,10,10 HP,10 horsepower,,,,,,HP
+HP,1,1 HP,1 horsepower,,,,,,HP
+HP,0.5,0.5 HP,0.5 horsepower,,,,,,HP
+Interface Module,Prog. Only LCD,prog. only LCD,progammer LCD,,,,,,HIM
+Interface Module,Full Numeric LCD,full numeric LCD,LCD and numeric keypad,,keypad LCD (20-HIM-A3),,,,HIM
+Interface Module,Blank Cover,blank cover,,,,,,,Blank HIM
+kW,7.5,7.5 kW,7.5 kilowatt,,,,,,kW
+kW,5.5,5.5 kW,5.5 kilowatt,,,,,,kW
+kW,4,4 kW,4 kilowatt,,,,,,kW
+kW,37,37 kW,37 kilowatt,,,,,,kW
+kW,30,30 kW,30 kilowatt,,,,,,kW
+kW,3.7,3.7 kW,3.7 kilowatt,,,,,,kW
+kW,22,22 kW,22 kilowatt,,,,,,kW
+kW,2.2,2.2 kW,2.2 kilowatt,,,,,,kW
+kW,18.5,18.5 kW,18.5 kilowatt,,,,,,kW
+kW,15,15 kW,15 kilowatt,,,,,,kW
+kW,11,11 kW,11 kilowatt,,,,,,kW
+kW,1.5,1.5 kW,1.5 kilowatt,,,,,,kW
+kW,0.75,0.75 kW,0.75 kilowatt,,,,,,kW
+kW,0.37,0.37 kW,0.37 kilowatt,,,,,,kW
+Network Type,Remote I/O,remote I/O,RIO communication,,remote I/O communication (20-COMM-R),,,,Communication Option
+Network Type,None,Ignore,,,,,,,
+Network Type,EtherNet/IP,EtherNet/IP,Ethernet,,Ethernet communcation (20-COMM-E),,,,Communication Option
+Network Type,DeviceNet,DeviceNet,DeviceNet (20-COMM-D),,DeviceNet communication (20-COMM-D),,,,Communication Option
+Network Type,ControlNet (Coax),ControlNet (Coax),ControlNet,,ControlNet communication(20-COMM-C),,,,Communication Option
+Ph.,3,ignore,,,,,,,
+Rating,"Not Filtered A & B Frames (Optional) C, D & E Frames",Ignore,,,,,,,
+Rating,"Filtered A & B Frames (Optional) C, D, & E Frames (Standard)",filter,emission filter,,,,,,Drive Feature
+Safe-Off,Yes,safe off,safe-off,,20A-DG01 (Safe Off),,,,Safe-Off
+Safe-Off,No,ignore,,,,,,,
+Safe-Off,N/A,ignore,,,,,,,
+Type,No Manual,ignore,,,,,,,
+Type,Manual,ignore,,,,,,,
+Voltage,600V AC,600V AC,600 VAC 3 phase,,600 VAC (60 Hz),,,,Voltage
+Voltage,480V AC,480V AC,480 VAC 3 phase,,480 VAC (50 Hz),,,,Voltage
+Voltage,400V AC,400V AC,400 VAC 3 phase,,400 VAC (50 Hz),,,,Voltage
+Voltage,240V AC,240V AC,240 VAC 3 phase,,240 VAC (60Hz),,,,Voltage
+w/Brake IGBT,Yes,brake,brake IGBT,,brake (IGBT),,,,Drive Feature
+w/Resistor,Yes,resistor,brake Resistor,,braking resistor,,,,Drive Feature
+w/Resistor,No,Ignore,,,,,,,

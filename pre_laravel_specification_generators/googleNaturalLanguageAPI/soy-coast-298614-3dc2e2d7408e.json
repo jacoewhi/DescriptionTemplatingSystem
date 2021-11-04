@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "soy-coast-298614",
+  "private_key_id": "3dc2e2d7408eb3c98fb4879060e52e98dc881c8d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCfvqMtBpPCLl7q\nF9I2+ezVmZ/G+/1ljlYkU8CBpm09XseR68wipA+zU75wqr15W8FwQkMmwW5kUDmX\nHjI1k7YLR3SKxFP+dwq2TttU2YShCQKwCAO+1iLISZ7d9BhgxDZVPOzslrlY/zox\nRDJRC6Fymkwm1+ujJ0MHoVZxTcOrBhPSsJT6+1bAoUL/4QSGfcmT0CmEjYrYz8Ej\nQTjpRF4cU9/Zuv97Jj7mNd14JiWWQOL+tSvn0q1JYuubMdhZN41q295TMtpAgq96\n5HyVXnSYXAvh8jBooUyzl2zNjNbrzvgb2QHy80ENCakaNJie4C7D/JKAcSRbFZTI\nILVf4X0RAgMBAAECggEAMldUewMAm4gbdzAsmhCm1yWDmaSd1VxGv0n5d6In+Nge\nkli5ywziucOhV0YnUdBdpG/tU5BPpqM1ku78KbA0BVfuXTDDu4RuRseRDStDRbBe\nPXU5IPHAole5Df83k38iFDiP/Xr+TBKalx4DsVC1/zSq3O7cnlzoHcZ1RF2aVRGk\npsHm/+2DMA8WbvclR9P85VskGthTsF+BwHBM6WvNcNatIK6wj6lHYYIQ8hE/BDIN\n6hybopYvWY7MKJ0ZRr8hS3YxDKwGLM7VceaSXTMqSrDBKs4cLoUZKcgHnpbHGKsF\nMf52wyFAzuXudS9o5EJG1EEK/7zEs1Y/ufDOB2TBFQKBgQDTVAiIyAxifjF2VyXe\n6YJ4UValJeP4SdSbeH3mDOlSYHZOWsYJfRgYP520rg51oC+YFWHvxc7nzOren3bt\n7DjP/riX6PXcRrVxbuDlBpS/sOhTAGxRW38eZf7L2q/I02K6unR5/oouTJjuS9A8\nNXrVPAMqToGbX5uuZ/0F/Z4wdwKBgQDBgyyBu7WJpyUi8Syim5C4qC13WtoIDqZv\np7zmCJXprRBm4F+ubhX/JkwrqdmZKSj6iczvXcypqXZIHb1YuJOYMSerRvXYUirs\nQPEVIycsaK9O4cFIN7ILaW8DQq8r7OObrwQpIsGZ6Hr56MIq6LS0DCJrfrPfAR3d\nM1+XiGfotwKBgDWoIIKaSIq5f9WMSxFOONJT1KwZ8sgX9uOCtHS00okX9PHwGlhO\nas+9V02I5CL5iRwUUcmPb/lrDjd4RbojQEmPY08u1z4WtfsXLAL6qMoDIPnyIY6G\nrMALJaac4AUdpvPCY9CV0H/w8uOOXFDtQ0Lg+ezEAiRxIhYmURg0TPYBAoGAIsGn\nrcmEKqwtvF/q723XiYMTX3ue65GODUHoaLykCGuAJaopJVA6fTBov/Lq1VqSNKWp\nfFixmMuKJhvJVXUZdV1mzZmaMHdZpENpya0drRlEW3uq1ojCXtBaExDYG6CZpO3D\nZowKj9U0uUw4C7LuOeRwDjSco/I0ZfWDNtlWKHMCgYBlVS2cTAvOdL7S9NX798DO\nu/sg1j9zq4htHvBSWYKTDynp8Eazgsm8+zzbonu/b1WmOQNXtCaaj8Nkxi9cCaHj\nHUqTwhtXqilN8X2WPS7/oP/+Grt2Rl9/7i0pigcMi88030bRLgoxQk4Ab/Flsp16\nlYng+rmeZMcw/SjPSjxgyA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ggoglecloudtranslationservicea@soy-coast-298614.iam.gserviceaccount.com",
+  "client_id": "107636710212095558457",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ggoglecloudtranslationservicea%40soy-coast-298614.iam.gserviceaccount.com"
+}

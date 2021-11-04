@@ -1,0 +1,32 @@
+A -- 1-5,Manufacturer,Series,Product Type,B -- 6-10,Voltage,Frame Series (Approximate stator size),Motor Length (magnet stack length),Rated Speed 460V,Rated Speed 380V,Motor Rated Torque,Motor Rated Output,Rotor Inertia,System Continuous Torque,System Peak Stall Torque,System Continuous Stall Current,System Peak Stall Current,1394 Axis Module,C -- 11-12,Flange and Shaft Series,D -- 13-14,Holding Brake
+1326AS,Allen Bradley,1326AS Series Low Inertia Brushless Servo Motors,Low Inertia Brushless Servo Motor,B210,460V AC,60mm,10,-,-,-,-,-,-,-,-,-,-,21,IEC metric flange with keyway,K3,2.26 N-m (20 lb in.) Holding brake with 24V DC coil for 1326AS-B3 frame series
+,,,,B310H,460V AC,75mm,10,6200 rpm,5120 rpm,0.7 N-m (6.1 lb-in.),0.3 KW,0.000045 kg-m^2 (0.0004 lb-in.-s^2),0.7 N-m (6.1 lb-in.),2.1 N-m (18 lb-in.),0.8 A,2.4 A,AM03,,,K4,10.2 N-m (90 lb in.) Holding brake with 24V DC coil for 1326AS-B4 frame series
+,,,,B410,460V AC,100mm,10,-,-,-,-,-,-,-,-,-,-,,,K6,36.7 N-m (325 lb in.) Holding brake with 24V DC coil for 1326AS-B6 frame series
+,,,,B610,460V AC,150mm,10,-,-,-,-,-,-,-,-,-,-,,,K8,50.9 N-m (450 lb in.) Holding brake with 24V DC coil for 1326AS-B8 frame series
+,,,,B810,460V AC,200mm,10,-,-,-,-,-,-,-,-,-,-,,,,
+,,,,B220H,460V AC,60mm,20,5500 rpm,5000 rpm,0.49 N-m (4.3 lb-in.),0.17 KW,0.00003 kg-m^2 (0.0003 lb-in.-s^2),0.49 N-m (4.3 lb-in.),1.24 N-m (11 lb-in.),0.57 A,1.7 A,AM03,,,,
+,,,,B320,460V AC,75mm,20,-,-,-,-,-,-,-,-,-,-,,,,
+,,,,B420G,460V AC,100mm,20,5250 rpm,4340 rpm,3.2 N-m (28 lb-in.),1.2 KW,0.0003 kg-m^2 (0.0027 lb-in.-s^2),3.2 N-m (28 lb-in.),"9.6 N-m (84 lb-in.) AM04, AM07 / 7.3 N-m (65 lb-in.) AM03",2.6 A,"7.8 A AM04, AM07 / 6 A AM03","AM03, AM04, AM07",,,,
+,,,,B620,460V AC,150mm,20,-,-,-,-,-,-,-,-,-,-,,,,
+,,,,B820,460V AC,200mm,20,-,-,-,-,-,-,-,-,-,-,,,,
+,,,,B230,460V AC,60mm,30,-,-,-,-,-,-,-,-,-,-,,,,
+,,,,B330H,460V AC,75mm,30,6500 rpm,5370 rpm,2 N-m (18 lb-in.),0.9 KW,0.00009 kg-m^2 (0.0008 lb-in.-s^2),2.1 N-m (18 lb-in.),5.6 N-m (50 lb-in.),2.1 A,6.0 A,"AM03, AM04, AM07",,,,
+,,,,B430,460V AC,100mm,30,-,-,-,-,-,-,-,-,-,-,,,,
+,,,,B630F,460V AC,150mm,30,4500 rpm,3720 rpm,10.7 N-m (95 lb-in.),2.4 KW,0.0014 kg-m^2 (0.012 lb-in.-s^2),10.7 N-m (95 lb-in.) AM50 / 10.3 N-m (91 lb-in.) AM07,25.4 N-m (225 lb-in.) AM50 / 20.6 N-m (182 lb-in.) AM07,7.8 A AM50 / 7.5 A AM07,18.5 A AM50 / 15 A AM07,"AM07, AM50",,,,
+,,,,B830,460V AC,200mm,30,-,-,-,-,-,-,-,-,-,-,,,,
+,,,,B240,460V AC,60mm,40,-,-,-,-,-,-,-,-,-,-,,,,
+,,,,B340,460V AC,75mm,40,-,-,-,-,-,-,-,-,-,-,,,,
+,,,,B440G,460V AC,100mm,40,5250 rpm,4340 rpm,64 N-m (56 lb-in.),2.0 KW,0.0005 kg-m^2 (0.0046 lb-in.-s^2),"6.4 N-m (56 lb-in.) AM07, AM50 / 5.3 N-m (47 lb-in.) AM04",19 N-m (168 lb-in.) AM50 / 17.6 N-m (156 lb-in.) AM07 / 10.5 N-m (93 lb-in.) AM04 / ,"5.4 A AM07, AM50 / 4.5 A AM04",16.2 A AM50 / 15.0 A AM07 / 9.0 A AM04,"AM04, AM07, AM50",,,,
+,,,,B640,460V AC,150mm,40,-,-,-,-,-,-,-,-,-,-,,,,
+,,,,B840E,460V AC,200mm,40,3000 rpm,2480 rpm,37.6 N-m (333 lb-in.),4.7 KW,0.0063 kg-m^2 (0.056 lb-in.-s^2),37.6 N-m (333 lb-in.),70 N-m (620 lb-in.) AM75 / 59 N-m (522 lb-in.) AM50,21.2 A,39.5 A AM75 / 33.2 A AM50,"AM50, AM75",,,,
+,,,,B260,460V AC,60mm,60,-,-,-,-,-,-,-,-,-,-,,,,
+,,,,B360,460V AC,75mm,60,-,-,-,-,-,-,-,-,-,-,,,,
+,,,,B460F,460V AC,100mm,60,4300 rpm,3550 rpm,9.0 N-m (80 lb-in.),2.8 KW,0.00075 kg-m^2 (0.0066 lb-in.-s^2),"9.0 N-m (80 lb-in.) AM07, AM50 / 6.6 N-m (58 lb-in.) AM04",27.1 N-m (240 lb-in.) AM50 / 21.9 N-m (194 lb-in.) AM07 / 13.1 N-m (116 lb-in.) AM04,"6.2 A AM07, AM50 / 4.5 A AM04",18.6 A AM50 / 15 A AM07 / 9 A AM04,"AM04, AM07, AM50",,,,
+,,,,B660E,460V AC,150mm,60,3000 rpm,2480 rpm,21.5 N-m (190 lb-in.),3.4 KW,0.0025 kg-m^2 (0.022 lb-in.-s^2),"21.5 N-m (190 lb-in.) AM50, AM75 / 13.7 N-m (121 lb-in.) AM07","54.2 N-m (480 lb-in.) AM50, AM75 / 27.3 N-m (242 lb-in.) AM07","11.8 A AM50, AM75 / 7.5 A AM07","29.8 A AM50, AM75 / 15 A AM07","AM07, AM50, AM75",,,,
+,,,,B860C,460V AC,200mm,60,2000 rpm,1650 rpm,49.3 N-m (436 lb-in.),6 KW,0.0094 kg-m^2 (0.083 lb-in.-s^2),49.3 N-m (436 lb-in.),124 N-m (1100 lb-in.) AM75 / 93 N-m (823 lb-in.) AM50,17.6 A,44.4 A AM75 / 33.2 A AM50,"AM50, AM75",,,,
+,,,,B290,460V AC,60mm,90,-,-,-,-,-,-,-,-,-,-,,,,
+,,,,B390,460V AC,75mm,90,-,-,-,-,-,-,-,-,-,-,,,,
+,,,,B490,460V AC,100mm,90,-,-,-,-,-,-,-,-,-,-,,,,
+,,,,B690E,460V AC,150mm,90,3000 rpm,2480 rpm,36.4 N-m (322 lb-in.),5 KW,0.0036 kg-m^2 (0.032 lb-in.-s^2),36.4 N-m (322 lb-in.),79.1 N-m (700 lb-in.) AM75 / 63.6 N-m (563 lb-in.) AM50,19 A,41.3 A AM75 / 33.2 A AM50,"AM50, AM75",,,,
+,,,,B890,460V AC,200mm,90,-,-,-,-,-,-,-,-,-,-,,,,
+,,,,RJ34,-,Right angle junction box for B3 and B4 series motors.,-,-,-,-,-,-,-,-,-,-,-,,,,

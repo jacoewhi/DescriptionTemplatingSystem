@@ -1,0 +1,43 @@
+A -- 1-1,Manufacturer,Series,B -- 2-5,Product Type,Motor Model / Frame Size,C -- 3-3,Motor Winding KE Voltage Designator,D -- 4-8,Optical Encoder Line Count,Options,Factory Designated Special Options
+F,Allen Bradley,F,4030,Brushless Servo Motor,4030,Q,66 V/krpm,F00AA,1000,Standard,Standard Flange
+,,,4050,Brushless Servo Motor,4050,R,85-89 V/krpm,F00AN,1000,Standard,NEMA 56C Flange
+,,,4075,Brushless Servo Motor,4075,,,F01AA,1000,90 VDC Brake,Standard Flange
+,,,6100,Brushless Servo Motor,6100,,,F01AN,1000,90 VDC Brake,NEMA 56C Flange
+,,,6200,Brushless Servo Motor,6200,,,F04AA,1000,24 VDC Brake,Standard Flange
+,,,6300,Brushless Servo Motor,6300,,,F04AN,1000,24 VDC Brake,NEMA 56C Flange
+,,,,,,,,H00AA,2000 (STANDARD),Standard,Standard Flange
+,,,,,,,,H00AN,2000 (STANDARD),Standard,NEMA 56C Flange
+,,,,,,,,H01AA,2000 (STANDARD),90 VDC Brake,Standard Flange
+,,,,,,,,H01AN,2000 (STANDARD),90 VDC Brake,NEMA 56C Flange
+,,,,,,,,H04AA,2000 (STANDARD),24 VDC Brake,Standard Flange
+,,,,,,,,H04AN,2000 (STANDARD),24 VDC Brake,NEMA 56C Flange
+,,,,,,,,J00AA,2500,Standard,Standard Flange
+,,,,,,,,J00AN,2500,Standard,NEMA 56C Flange
+,,,,,,,,J01AA,2500,90 VDC Brake,Standard Flange
+,,,,,,,,J01AN,2500,90 VDC Brake,NEMA 56C Flange
+,,,,,,,,J04AA,2500,24 VDC Brake,Standard Flange
+,,,,,,,,J04AN,2500,24 VDC Brake,NEMA 56C Flange
+,,,,,,,,K00AA,5000,Standard,Standard Flange
+,,,,,,,,K00AN,5000,Standard,NEMA 56C Flange
+,,,,,,,,K01AA,5000,90 VDC Brake,Standard Flange
+,,,,,,,,K01AN,5000,90 VDC Brake,NEMA 56C Flange
+,,,,,,,,K04AA,5000,24 VDC Brake,Standard Flange
+,,,,,,,,K04AN,5000,24 VDC Brake,NEMA 56C Flange
+,,,,,,,,L00AA,F-Series 00,Standard,Standard Flange
+,,,,,,,,L00AN,F-Series 00,Standard,NEMA 56C Flange
+,,,,,,,,L01AA,F-Series 00,90 VDC Brake,Standard Flange
+,,,,,,,,L01AN,F-Series 00,90 VDC Brake,NEMA 56C Flange
+,,,,,,,,L04AA,F-Series 00,24 VDC Brake,Standard Flange
+,,,,,,,,L04AN,F-Series 00,24 VDC Brake,NEMA 56C Flange
+,,,,,,,,M00AA,3000,Standard,Standard Flange
+,,,,,,,,M00AN,3000,Standard,NEMA 56C Flange
+,,,,,,,,M01AA,3000,90 VDC Brake,Standard Flange
+,,,,,,,,M01AN,3000,90 VDC Brake,NEMA 56C Flange
+,,,,,,,,M04AA,3000,24 VDC Brake,Standard Flange
+,,,,,,,,M04AN,3000,24 VDC Brake,NEMA 56C Flange
+,,,,,,,,N00AA,2000,Standard,Standard Flange
+,,,,,,,,N00AN,2000,Standard,NEMA 56C Flange
+,,,,,,,,N01AA,2000,90 VDC Brake,Standard Flange
+,,,,,,,,N01AN,2000,90 VDC Brake,NEMA 56C Flange
+,,,,,,,,N04AA,2000,24 VDC Brake,Standard Flange
+,,,,,,,,N04AN,2000,24 VDC Brake,NEMA 56C Flange

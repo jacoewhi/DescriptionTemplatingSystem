@@ -1,0 +1,49 @@
+A1 -- 1-5,Manufacturer,Series,A -- 7-7,Voltage,B -- 8-10,kW,HP,Top Spec,Second Spec,C -- 12-13,Enclosure Type,D -- 15-16,Language,E -- 17-20 (MODS),"Human Interface Module, Snap-In, IP20","Human Interface Module, IP65/54",Communication Options - B Frame & Up,Communication Options - All Frames,Control Interface Options,Analog Interface Options - Slot A,Analog Interface Options - Slot B,Common Mode Choke - F & G Frame,* -- Voltage -- kW,Frame
+1336F,Allen Bradley/Rockwell Automation,1336 PLUS II Adjustable Frequency AC Drive,AQ,200-240V AC or 310V DC,F05,0.37,0.5,0.5,0.37,AA,IP 20 (NEMA 1),EN,English,HASB,Snap-In Cradle/Blank Plate,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,200-240V AC or 310V DC -- .37-.75,A1
+,,,BR,380-480V AC or 513-620V DC,F07,0.56,0.75,0.75,0.56,AE,IP 20 (NEMA 1)/EMC,FR,French,HASP,Programmer Only,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,200-240V AC or 310V DC -- 1.2-1.5,A2
+,,,CW,500-600V AC or 775V DC,F10,0.75,1,1,0.75,AF,IP 65 (NEMA 4),DE,German,HCSP,Programmer Only & Upload/Download Capability,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,200-240V AC or 310V DC -- 2.2-3.7,A3
+,,,A,200-240V AC,F15,1.2,1.5,1.5,1.2,AJ,IP 54 (NEMA 12),IT,Italian,HAS1,Programmer/Controller w/Analog Pot,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,200-240V AC or 310V DC -- 5.5-5.5,A4
+,,,B,380-480V AC,F20,1.5,2,2,1.5,AN,IP 00 (Open),ES,Spanish,HCS1,Programmer/Controller w/Analog Pot & Upload/Download Capability,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,200-240V AC or 310V DC -- 5.5-11,B1/B2
+,,,BP,380-480V AC (F Frame),F30,2.2,3,3,2.2,,,JP,Japanese,HAS2,Programmer/Controller w/Digital Pot,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,200-240V AC or 310V DC -- 15-22,C
+,,,BX,Special Rating,F50,3.7,5,5,3.7,,,,,HCS2,Programmer/Dontroller w/Digital Pot & Upload/Download Capability,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,200-240V AC or 310V DC -- 30-45,D
+,,,C,500-600V AC,F75,5.5,7.5,7.5,5.5,,,,,HJP,BLANK,Programmer Only,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,200-240V AC or 310V DC --56-93,E
+,,,CP,500-600V AC (F Frame),007,5.5,7.5,7.5,5.5,,,,,HJ2,BLANK,Programmer/Controller w/Digital Pot,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,200-240V AC -- .37-.75,A1
+,,,Q,310V DC,010,7.5,10,10,7.5,,,,,GM1,BLANK,BLANK,Single Point Remote I/O B Frame,BLANK,BLANK,BLANK,BLANK,BLANK,200-240V AC -- 1.2-1.5,A2
+,,,R,513-620V DC,015,11,15,15,11,,,,,GM2,BLANK,BLANK,"RS-232/422/485, DF1 & DH485 B Frame",BLANK,BLANK,BLANK,BLANK,BLANK,200-240V AC -- 2.2-3.7,A3
+,,,RX,Special Rating,020,15,20,20,15,,,,,GM5,BLANK,BLANK,DeviceNet,BLANK,BLANK,BLANK,BLANK,BLANK,200-240V AC -- 5.5-5.5,A4
+,,,W,775V DC,025,18.5,25,25,18.5,,,,,GM6,BLANK,BLANK,Enhanced DeviceNet,BLANK,BLANK,BLANK,BLANK,BLANK,200-240V AC -- 5.5-11,B1/B2
+,,,,,030,22,30,30,22,,,,,GMS1,BLANK,BLANK,BLANK,GM1 with Snap-In Cradle,BLANK,BLANK,BLANK,BLANK,200-240V AC -- 15-22,C
+,,,,,040,30,40,40,30,,,,,GMS2,BLANK,BLANK,BLANK,GM2 with Snap-In Cradle,BLANK,BLANK,BLANK,BLANK,200-240V AC -- 30-45,D
+,,,,,050,37,50,50,37,,,,,GMS5,BLANK,BLANK,BLANK,GM5 with Snap-In Cradle,BLANK,BLANK,BLANK,BLANK,200-240V AC -- 56-93,E
+,,,,,060,45,60,60,45,,,,,GMS6,BLANK,BLANK,BLANK,GM6 with Snap-In Cradle,BLANK,BLANK,BLANK,BLANK,380-480V AC or 513-620V DC -- .37-1.2,A1
+,,,,,075,56,75,75,56,,,,,L4,BLANK,BLANK,BLANK,BLANK,TTL Contact,BLANK,BLANK,BLANK,380-480V AC or 513-620V DC -- 1.5-2.2,A2
+,,,,,100,75,100,100,75,,,,,L4E,BLANK,BLANK,BLANK,BLANK,TTL Contact & Encoder Feedback,BLANK,BLANK,BLANK,380-480V AC or 513-620V DC -- 3.7-3.7,A3
+,,,,,125,93,125,125,93,,,,,L7E,BLANK,BLANK,BLANK,BLANK,TTL Contact & Encoder Fdbck. For use with Encoder Loss Detection,BLANK,BLANK,BLANK,380-480V AC or 513-620V DC -- 5.5-15,A4
+,,,,,150,112,150,150,112,,,,,L5,BLANK,BLANK,BLANK,BLANK,24V AC/DC,BLANK,BLANK,BLANK,380-480V AC or 513-620V DC -- 11-22,B1/B2
+,,,,,200,149,200,200,149,,,,,L5E,BLANK,BLANK,BLANK,BLANK,24V AC/DC & Encoder Feedback,BLANK,BLANK,BLANK,380-480V AC or 513-620V DC -- 30-45,C
+,,,,,250,187,250,250,187,,,,,L8E,BLANK,BLANK,BLANK,BLANK,24V AC/DC & Encoder Feedback for use with Encoder Loss Detection,BLANK,BLANK,BLANK,380-480V AC or 513-620V DC -- 45-112,D
+,,,,,300,224,300,300,224,,,,,L6,BLANK,BLANK,BLANK,BLANK,115V AC,BLANK,BLANK,BLANK,380-480V AC or 513-620V DC -- 112-187,E
+,,,,,350,261,350,350,261,,,,,L6E,BLANK,BLANK,BLANK,BLANK,115V AC & Encoder Feedback,BLANK,BLANK,BLANK,380-480V AC or 513-620V DC -- 187-336,F
+,,,,,400,298,400,400,298,,,,,L9E,BLANK,BLANK,BLANK,BLANK,115V AC & Encoder Feedback for use with Encoder Loss Detection,BLANK,BLANK,BLANK,380-480V AC or 513-620V DC -- 187-448,G
+,,,,,450,336,450,450,336,,,,,LA2,BLANK,BLANK,BLANK,BLANK,BLANK,Two Isolated Configurable Inputs,BLANK,BLANK,380-480V AC -- .37-1.2,A1
+,,,,,500,373,500,500,373,,,,,LA6,BLANK,BLANK,BLANK,BLANK,BLANK,One Isolated Bi-polar Input (+/- 10V or +/- 20mA) and One Isolated Thermistor Input,,BLANK,380-480V AC -- 1.5-2.2,A2
+,,,,,600,448,600,600,448,,,,,LA7,BLANK,BLANK,BLANK,BLANK,BLANK,One isolated Bi-polar Input (+/- 10V or +/- 20mA) and One Isolated Configurable Input,,BLANK,380-480V AC -- 3.7-3.7,A3
+,,,,,,,,,,,,,,LA1,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,"Single-ended, Non-isolated Configurable (including Pot) Input & 2 Single-ended, Non-isolated Outputs (1 - Configurable, 1 - 20mA)",BLANK,380-480V AC -- 5.5-15,A4
+,,,,,,,,,,,,,,LA3,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,Two Isolated Configurable Outputs,BLANK,380-480V AC -- 11-22,B1/B2
+,,,,,,,,,,,,,,LA4,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,One Isolated Configurable Input & Output,BLANK,380-480V AC -- 30-45,C
+,,,,,,,,,,,,,,LA5,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,"Isolated Pulse Input, Non-isolated Pulse Output & Singled-ended, Non-isolated Configurable Output",,380-480V AC -- 45-112,D
+,,,,,,,,,,,,,,CM,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,Internal Common Mode Choke (factory installed),380-480V AC -- 112-187,E
+,,,,,,,,,,,,,,NCM,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,No Common Mode Choke,380-480V AC -- 187-336,F
+,,,,,,,,,,,,,,,,,,,,,,,380-480V AC -- 187-448,G
+,,,,,,,,,,,,,,,,,,,,,,,500-600V AC or 775V DC -- .75-15,A4
+,,,,,,,,,,,,,,,,,,,,,,,500-600V AC or 775V DC -- 18.5-45,C
+,,,,,,,,,,,,,,,,,,,,,,,500-600V AC or 775V DC -- 56-93,D
+,,,,,,,,,,,,,,,,,,,,,,,500-600V AC or 775V DC -- 112-224,E
+,,,,,,,,,,,,,,,,,,,,,,,500-600V AC or 775V DC -- 261-298,F
+,,,,,,,,,,,,,,,,,,,,,,,500-600V AC or 775V DC -- 224-448,G
+,,,,,,,,,,,,,,,,,,,,,,,500-600V AC -- .75-15,A4
+,,,,,,,,,,,,,,,,,,,,,,,500-600V AC -- 18.5-45,C
+,,,,,,,,,,,,,,,,,,,,,,,500-600V AC -- 56-93,D
+,,,,,,,,,,,,,,,,,,,,,,,500-600V AC -- 112-224,E
+,,,,,,,,,,,,,,,,,,,,,,,500-600V AC -- 261-298,F
+,,,,,,,,,,,,,,,,,,,,,,,500-600V AC -- 224-448,G

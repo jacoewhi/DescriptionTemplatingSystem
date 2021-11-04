@@ -1,0 +1,117 @@
+Specification,Specification_Occurrences,Value_Occurrences,value,value_conversion,Additional Values Conversions,template_group
+Analog Interface Options - Slot A,64,48,Two Isolated Configurable Inputs,Two Isolated Configurable Input,Two Isolated Configurable Inputs,Communication Option
+Analog Interface Options - Slot A,64,8,One Isolated Bi-polar Input (+/- 10V or +/- 20mA) and One Isolated Thermistor Input,,One Isolated Bi-polar Input (+/- 10V or +/- 20mA) and One Isolated Thermistor Input,Communication Option
+Analog Interface Options - Slot A,64,8,One isolated Bi-polar Input (+/- 10V or +/- 20mA) and One Isolated Configurable Input,,One isolated Bi-polar Input (+/- 10V or +/- 20mA) and One Isolated Configurable Input,Communication Option
+Analog Interface Options - Slot B,106,30,Two Isolated Configurable Outputs,Two Isolated Configurable Output,Two Isolated Configurable Output,Communication Option
+Analog Interface Options - Slot B,106,14,"Single-ended, Non-isolated Configurable (including Pot) Input & 2 Single-ended, Non-isolated Outputs (1 - Configurable, 1 - 20mA)","Single-ended, Non-isolated Configurable (including Pot) Input & 2 Single-ended, Non-isolated Output","Single-ended, Non-isolated Configurable (including Pot) Input and 2 Single-ended, Non-isolated Outputs (1 - Configurable, 1 - 20mA)",Communication Option
+Analog Interface Options - Slot B,106,50,One Isolated Configurable Input & Output,,One Isolated Configurable Input and Output,Communication Option
+Analog Interface Options - Slot B,106,12,"Isolated Pulse Input, Non-isolated Pulse Output & Singled-ended, Non-isolated Configurable Output",,"Isolated Pulse Input, Non-isolated Pulse Output and Singled-ended, Non-isolated Configurable Output",Communication Option
+Common Mode Choke - F & G Frame,6,4,No Common Mode Choke,,No Common Mode Choke,Choke
+Common Mode Choke - F & G Frame,6,2,Internal Common Mode Choke,,Internal Common Mode Choke,Choke
+Communication Options - All Frames,98,22,GM6 with Snap-In Cradle,,GM6 with Snap-In Cradle,Communication Option
+Communication Options - All Frames,98,28,GM5 with Snap-In Cradle,,GM5 with Snap-In Cradle,Communication Option
+Communication Options - All Frames,98,48,GM1 with Snap-In Cradle,,GM1 with Snap-In Cradle,Communication Option
+Communication Options - B Frame & Up,72,54,Single Point Remote I/O B Frame,Single Point Remote I/O,Single Point Remote I/O,Communication Option
+Communication Options - B Frame & Up,72,2,"RS-232/422/485, DF1 & DH485 B Frame","RS-232/422/485, DF1 & DH485","RS-232/422/485, DF1 and DH485",Communication Option
+Communication Options - B Frame & Up,72,2,Enhanced DeviceNet,,Enhanced DeviceNet,Communication Option
+Communication Options - B Frame & Up,72,14,DeviceNet,,DeviceNet,Communication Option
+Control Interface Options,864,14,TTL Contact & Encoder Feedback,,TTL Contact and Encoder Feedback,Communication Option
+Control Interface Options,864,4,TTL Contact & Encoder Fdbck. For use with Encoder Loss Detection,,TTL Contact and Encoder Feedback. For use with Encoder Loss Detection,Communication Option
+Control Interface Options,864,198,TTL Contact,,TTL Contact,Communication Option
+Control Interface Options,864,10,24V AC/DC & Encoder Feedback for use with Encoder Loss Detection,,24V AC or DC and Encoder Feedback for use with Encoder Loss Detection,Communication Option
+Control Interface Options,864,10,24V AC/DC & Encoder Feedback,,24V AC or DC and Encoder Feedback,Communication Option
+Control Interface Options,864,120,24V AC/DC,,24V AC or DC,Communication Option
+Control Interface Options,864,28,115V AC & Encoder Feedback for use with Encoder Loss Detection,,115V AC and Encoder Feedback for use with Encoder Loss Detection,Communication Option
+Control Interface Options,864,26,115V AC & Encoder Feedback,,115V AC and Encoder Feedback,Communication Option
+Control Interface Options,864,454,115V AC,,115V AC,Communication Option
+Enclosure Type,1192,22,IP 65 (NEMA 4),,IP 65 (NEMA 4),Enclosure 
+Enclosure Type,1192,30,IP 54 (NEMA 12),,IP 54 (NEMA 12),Enclosure 
+Enclosure Type,1192,118,IP 20 (NEMA 1)/EMC,,IP 20 (NEMA 1) and EMC,Enclosure 
+Enclosure Type,1192,626,IP 20 (NEMA 1),,IP 20 (NEMA 1),Enclosure 
+Enclosure Type,1192,396,IP 00 (Open),,IP 00 (Open),Enclosure 
+Frame,1396,4,G,,,Frame
+Frame,1396,10,F,,,Frame
+Frame,1396,32,E,,,Frame
+Frame,1396,76,D,,,Frame
+Frame,1396,82,C,,,Frame
+Frame,1396,282,B1/B2,,,Frame
+Frame,1396,186,A4,,,Frame
+Frame,1396,138,A3,,,Frame
+Frame,1396,230,A2,,,Frame
+Frame,1396,356,A1,,,Frame
+HP,1460,22,75,75 HP,75 Horsepower,HP
+HP,1460,172,7.5,7.5 HP,7.5 Horsepower,HP
+HP,1460,48,60,60 HP,60 Horsepower,HP
+HP,1460,2,500,500 HP,500 Horsepower,HP
+HP,1460,22,50,50 HP,50 Horsepower,HP
+HP,1460,130,5,5 HP,5 Horsepower,HP
+HP,1460,2,450,450 HP,450 Horsepower,HP
+HP,1460,60,40,40 HP,40 Horsepower,HP
+HP,1460,2,350,350 HP,350 Horsepower,HP
+HP,1460,2,300,300 HP,300 Horsepower,HP
+HP,1460,56,30,30 HP,30 Horsepower,HP
+HP,1460,118,3,3 HP,3 Horsepower,HP
+HP,1460,10,250,250 HP,250 Horsepower,HP
+HP,1460,44,25,25 HP,25 Horsepower,HP
+HP,1460,16,200,200 HP,200 Horsepower,HP
+HP,1460,48,20,20 HP,20 Horsepower,HP
+HP,1460,144,2,2 HP,2 Horsepower,HP
+HP,1460,12,150,150 HP,150 Horsepower,HP
+HP,1460,60,15,15 HP,15 Horsepower,HP
+HP,1460,20,125,125 HP,125 Horsepower,HP
+HP,1460,16,100,100 HP,100 Horsepower,HP
+HP,1460,58,10,10 HP,10 Horsepower,HP
+HP,1460,120,1.5,1.5 HP,1.5 Horsepower,HP
+HP,1460,208,1,1 HP,1 Horsepower,HP
+HP,1460,28,0.75,0.75 HP,0.75 Horsepower,HP
+HP,1460,40,0.5,0.5 HP,0.5 Horsepower,HP
+"Human Interface Module, IP65/54",26,24,Programmer/Controller w/Digital Pot,,Programmer/Controller with Digital Pot,HIM
+"Human Interface Module, IP65/54",26,2,Programmer Only,,Programmer Only,HIM
+"Human Interface Module, Snap-In, IP20",642,14,Snap-In Cradle/Blank Plate,,Snap-In Cradle/Blank Plate,HIM
+"Human Interface Module, Snap-In, IP20",642,146,Programmer/Controller w/Digital Pot & Upload/Download Capability,,Programmer/Controller with Digital Pot and Upload/Download Capability,HIM
+"Human Interface Module, Snap-In, IP20",642,232,Programmer/Controller w/Digital Pot,,Programmer/Controller with Digital Pot,HIM
+"Human Interface Module, Snap-In, IP20",642,48,Programmer/Controller w/Analog Pot & Upload/Download Capability,,Programmer/Controller with Analog Pot and Upload/Download Capability,HIM
+"Human Interface Module, Snap-In, IP20",642,98,Programmer/Controller w/Analog Pot,,Programmer/Controller with Analog Pot,HIM
+"Human Interface Module, Snap-In, IP20",642,34,Programmer Only & Upload/Download Capability,,Programmer Only and Upload/Download Capability,HIM
+"Human Interface Module, Snap-In, IP20",642,70,Programmer Only,,Programmer Only,HIM
+kW,1460,20,93,93 kW,93 kilowatt,kW
+kW,1460,16,75,75 kW,75 kilowatt,kW
+kW,1460,58,7.5,7.5 kW,7.5 kilowatt,kW
+kW,1460,22,56,56 kW,56 kilowatt,kW
+kW,1460,172,5.5,5.5 kW,5.5 kilowatt,kW
+kW,1460,48,45,45 kW,45 kilowatt,kW
+kW,1460,2,373,373 kW,373 kilowatt,kW
+kW,1460,22,37,37 kW,37 kilowatt,kW
+kW,1460,2,336,336 kW,336 kilowatt,kW
+kW,1460,60,30,30 kW,30 kilowatt,kW
+kW,1460,130,3.7,3.7 kW,3.7 kilowatt,kW
+kW,1460,2,261,261 kW,261 kilowatt,kW
+kW,1460,2,224,224 kW,224 kilowatt,kW
+kW,1460,56,22,22 kW,22 kilowatt,kW
+kW,1460,118,2.2,2.2 kW,2.2 kilowatt,kW
+kW,1460,10,187,187 kW,187 kilowatt,kW
+kW,1460,44,18.5,18.5 kW,18.5 kilowatt,kW
+kW,1460,48,15,15 kW,15 kilowatt,kW
+kW,1460,16,149,149 kW,149 kilowatt,kW
+kW,1460,12,112,112 kW,112 kilowatt,kW
+kW,1460,60,11,11 kW,11 kilowatt,kW
+kW,1460,144,1.5,1.5 kW,1.5 kilowatt,kW
+kW,1460,120,1.2,1.2 kW,1.2 kilowatt,kW
+kW,1460,208,0.75,0.75 kW,0.75 kilowatt,kW
+kW,1460,28,0.56,0.56 kW,0.56 kilowatt,kW
+kW,1460,40,0.37,0.37 kW,0.37 kilowatt,kW
+Language,1202,6,Spanish,,,Language
+Language,1202,36,Italian,,,Language
+Language,1202,42,German,,,Language
+Language,1202,8,French,,,Language
+Language,1202,1110,English,,,Language
+,,,,,,
+,,,,,,
+Voltage,1492,58,Special Rating,,,Voltage
+Voltage,1492,70,500-600V AC or 775V DC,500-600V AC or 775V DC,500-600 VAC or 775 VDC,Voltage
+Voltage,1492,26,500-600V AC,500-600V AC,500-600 VAC,Voltage
+Voltage,1492,704,380-480V AC or 513-620V DC,380-480V AC or 513-620V DC,380-480 VAC or 513-620 VDC,Voltage
+Voltage,1492,10,380-480V AC ,380-480V AC ,380-480 VAC ,Voltage
+Voltage,1492,296,380-480V AC,380-480V AC,380-480 VAC,Voltage
+Voltage,1492,138,200-240V AC or 310V DC,200-240V AC or 310V DC,200-240 VAC or 310 VDC,Voltage
+Voltage,1492,190,200-240V AC,200-240V AC,200-240 VAC,Voltage

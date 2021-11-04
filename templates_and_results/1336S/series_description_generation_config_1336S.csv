@@ -1,0 +1,50 @@
+Sentence Templates,,
+Type,Template,
+introduction,This [brand] [spec:primary] [type] [spec],
+introduction,This [brand] [type] [spec],
+introduction,This [type] [manufactured] by [brand] [spec],
+introduction,The [part number] [manufactured] by [brand] [spec],
+introduction,The [Brand] [Part Number] [Type] [spec],
+Secondary,This [type] [spec],?
+Secondary,"[additionally], this [type] [spec]",
+Secondary,This [type] [additionally] [spec],
+Secondary,"[additionally], it [spec]",
+Multi-Spec,"This [type] [spec1], [spec2], and [spec3]",
+Multi-Spec,"[additionally], it [spec1], [spec2], and [spec3]",
+Multi-Spec,This [type] [spec1] and [spec2],
+Multi-Spec,"[additionally], this [type] [spec1] and [spec2]",
+Multi-Spec,It [spec1] and [spec2],
+Multi-Spec,"[additionally], it [spec1] and [spec2]",
+,,
+Glossary,,
+Key,Values,
+brand,"Allen Bradley,Allen-Bradley,AB,Rockwell Automation,Allen-Bradley/Rockwell Automation",
+type,"drive,AC drive,adjustable frequency drive,1336 Plus drive,1336 Plus AC drive, VFD,sensorless vector drive",
+has,"has,comes with",
+installed,"installed,included,blank",
+him,"HIM unit,HIM module,human interface module,inferface module,blank",
+option,"option,card, board,module",
+unit,"unit,module",
+manufactured,"manufactured,made,built,blank",
+additionally,"additionally,in addition",
+,,
+Specifications,,
+Name,Template,Priority
+HIM65,[has] a [value] [him] [installed],
+HIM,[has] a [value] [him] [installed],
+Communication Option,[has] a [value] [option] [installed],
+Voltage,is powered with [value],P
+Voltage,"is a [value] [drive,VFD,adjustable frequency drive]",P
+Voltage,"requires [value] [power,blank]",P
+Voltage,has power requirements of [value],P
+HP,"[has] a [nominal,blank] [HP,horsepower,blank] rating of [value]",P
+HP,"is a [value] [drive,unit]",P
+kW,"[has] a [kW,blank] rating of [value]",P
+kW,"is a [value] [drive,AC drive,unit]",P
+Enclosure,"[has] a [value] [enclosure,enclosure type]",
+Enclosure,is contained in a [value] enclosure,
+Language,[has] [value] on the drive,
+Language,[has] a [value] [unit] [installed] on the drive,
+Language,[has] the [value] language [installed],
+Frame,"is a size [value] frame [unit,drive]",
+Frame,[has] a [value] frame size,

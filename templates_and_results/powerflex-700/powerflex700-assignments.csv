@@ -1,0 +1,175 @@
+Specification,value,value_conversion,Value_2,Value_3,,,,,template_group
+Amps,99,99 A,99 AMP,,,,,,Amps
+Amps,96,96 A,96 AMP,,,,,,Amps
+Amps,9.6,9.6 A,9.6 AMP,,,,,,Amps
+Amps,9,9 A,9 AMP,,,,,,Amps
+Amps,875,875 A,875 AMP,,,,,,Amps
+Amps,85,85 A,85 AMP,,,,,,Amps
+Amps,80,80 A,80 AMP,,,,,,Amps
+Amps,8.7,8.7 A,8.7 AMP,,,,,,Amps
+Amps,8,8 A,8 AMP,,,,,,Amps
+Amps,77,77 A,77 AMP,,,,,,Amps
+Amps,730,730 A,730 AMP,,,,,,Amps
+Amps,72,72 A,72 AMP,,,,,,Amps
+Amps,70,70 A,70 AMP,,,,,,Amps
+Amps,65,65 A,65 AMP,,,,,,Amps
+Amps,62,62 A,62 AMP,,,,,,Amps
+Amps,600,600 A,600 AMP,,,,,,Amps
+Amps,6.8,6.8 A,6.8 AMP,,,,,,Amps
+Amps,6.1,6.1 A,6.1 AMP,,,,,,Amps
+Amps,56,56 A,56 AMP,,,,,,Amps
+Amps,535,535 A,535 AMP,,,,,,Amps
+Amps,52,52 A,52 AMP,,,,,,Amps
+Amps,5,5 A,5 AMP,,,,,,Amps
+Amps,481,481 A,481 AMP,,,,,,Amps
+Amps,43,43 A,43 AMP,,,,,,Amps
+Amps,42,42 A,42 AMP,,,,,,Amps
+Amps,415,415 A,415 AMP,,,,,,Amps
+Amps,41,41 A,41 AMP,,,,,,Amps
+Amps,40,40 A,40 AMP,,,,,,Amps
+Amps,4.2,4.2 A,4.2 AMP,,,,,,Amps
+Amps,37,37 A,37 AMP,,,,,,Amps
+Amps,365,365 A,365 AMP,,,,,,Amps
+Amps,34,34 A,34 AMP,,,,,,Amps
+Amps,325,325 A,325 AMP,,,,,,Amps
+Amps,32,32 A,32 AMP,,,,,,Amps
+Amps,30,30 A,30 AMP,,,,,,Amps
+Amps,3.9,3.9 A,3.9 AMP,,,,,,Amps
+Amps,3.5,3.5 A,3.5 AMP,,,,,,Amps
+Amps,3.4,3.4 A,3.4 AMP,,,,,,Amps
+Amps,292,292 A,292 AMP,,,,,,Amps
+Amps,28,28 A,28 AMP,,,,,,Amps
+Amps,27,27 A,27 AMP,,,,,,Amps
+Amps,260,260 A,260 AMP,,,,,,Amps
+Amps,248,248 A,248 AMP,,,,,,Amps
+Amps,22,22 A,22 AMP,,,,,,Amps
+Amps,205,205 A,205 AMP,,,,,,Amps
+Amps,2.7,2.7 A,2.7 AMP,,,,,,Amps
+Amps,2.2,2.2 A,2.2 AMP,,,,,,Amps
+Amps,2.1,2.1 A,2.1 AMP,,,,,,Amps
+Amps,192,192 A,192 AMP,,,,,,Amps
+Amps,180,180 A,180 AMP,,,,,,Amps
+Amps,170,170 A,170 AMP,,,,,,Amps
+Amps,17,17 A,17 AMP,,,,,,Amps
+Amps,156,156 A,156 AMP,,,,,,Amps
+Amps,154,154 A,154 AMP,,,,,,Amps
+Amps,15.4,15.4 A,15.4 AMP,,,,,,Amps
+Amps,15.3,15.3 A,15.3 AMP,,,,,,Amps
+Amps,144,144 A,144 AMP,,,,,,Amps
+Amps,140,140 A,140 AMP,,,,,,Amps
+Amps,14,14 A,14 AMP,,,,,,Amps
+Amps,130,130 A,130 AMP,,,,,,Amps
+Amps,125,125 A,125 AMP,,,,,,Amps
+Amps,11.5,11.5 A,11.5 AMP,,,,,,Amps
+Amps,11,11 A,11 AMP,,,,,,Amps
+Amps,105,105 A,105 AMP,,,,,,Amps
+Amps,104,104 A,104 AMP,,,,,,Amps
+Amps,1.7,1.7 A,1.7 AMP,,,,,,Amps
+Amps,1.1,1.1 A,1.1 AMP,,,,,,Amps
+CE Filter,Yes,CE  filter,CE  filter,CE emmision  filter, filter,,,,Drive Feature
+CE Filter,No,No CE  filter,,,,,,,
+CM Choke,Yes,CM choke,common mode choke,CM choke,,,,,Drive Feature
+CM Choke,No,No CM choke,,,,,,,
+Control,Vector,vector,vector control,vect. control,,,,,Control
+Control,Standard,standard,standard control ,,,,,,Control
+Documentation,No Shipping Package (Internal Use Only),ignore,,,,,,,
+Documentation,No Manual,ignore,,,,,,,
+Documentation,Manual,ignore,,,,,,,
+Enclosure,Stand-Alone/Wall Mount,wall mount,stand alone,stand-alone/wall mount,,,,,Enclosure
+Enclosure,Roll-In,roll-In,roll in,,,,,,Enclosure
+Enclosure,Open/Flange Mount,open/flange mount,flange mount,open,IP00,,,,Enclosure
+Enclosure,"IP 20, NEMA/UL Type 1","IP 20, NEMA/UL type 1",IP20,NEMA/UL type 1 (IP20),(IP20),,,,Enclosure
+Frame,9,,,,,,,,Frame
+Frame,8,,,,,,,,Frame
+Frame,7,,,,,,,,Frame
+Frame,6,,,,,,,,Frame
+Frame,5,,,,,,,,Frame
+Frame,4,,,,,,,,Frame
+Frame,3,,,,,,,,Frame
+Frame,2,,,,,,,,Frame
+Frame,10,,,,,,,,Frame
+Frame,1,,,,,,,,Frame
+Frame,0,,,,,,,,Frame
+Hp,75,75 HP,75 horsepower,,,,,,HP
+Hp,700,700 HP,700 horsepower,,,,,,HP
+Hp,7.5,7.5 HP,7.5 horsepower,,,,,,HP
+Hp,600,600 HP,600 horsepower,,,,,,HP
+Hp,60,60 HP,60 horsepower,,,,,,HP
+Hp,500,500 HP,500 horsepower,,,,,,HP
+Hp,50,50 HP,50 horsepower,,,,,,HP
+Hp,5,5 HP,5 horsepower,,,,,,HP
+Hp,450,450 HP,450 horsepower,,,,,,HP
+Hp,400,400 HP,400 horsepower,,,,,,HP
+Hp,40,40 HP,40 horsepower,,,,,,HP
+Hp,350,350 HP,350 horsepower,,,,,,HP
+Hp,300,300 HP,300 horsepower,,,,,,HP
+Hp,30,30 HP,30 horsepower,,,,,,HP
+Hp,3,3 HP,3 horsepower,,,,,,HP
+Hp,250,250 HP,250 horsepower,,,,,,HP
+Hp,25,25 HP,25 horsepower,,,,,,HP
+Hp,200,200 HP,200 horsepower,,,,,,HP
+Hp,20,20 HP,20 horsepower,,,,,,HP
+Hp,2,2 HP,2 horsepower,,,,,,HP
+Hp,150,150 HP,150 horsepower,,,,,,HP
+Hp,15,15 HP,15 horsepower,,,,,,HP
+Hp,125,125 HP,125 horsepower,,,,,,HP
+Hp,100,100 HP,100 horsepower,,,,,,HP
+Hp,10,10 HP,10 horsepower,,,,,,HP
+Hp,1,1 HP,1 horsepower,,,,,,HP
+Hp,0.5,0.5 HP,0.5 horsepower,1/2 HP,,,,,HP
+I/O Volts,None,ignore,,,,,,,
+I/O Volts,,24V DC/AC,24 VDC or VAC,24 VDC or VAC I/O,,,,,Control
+I/O Volts,,24V DC,24 VDC,24 VDC I/O,,,,,Control
+I/O Volts,,115V AC,115 VAC,115 VAC I/O,,,,,Control
+kW,90,90 kW,90 kilowatt,,,,,,kW
+kW,75,75 kW,75 kilowatt,,,,,,kW
+kW,7.5,7.5 kW,7.5 kilowatt,,,,,,kW
+kW,55,55 kW,55 kilowatt,,,,,,kW
+kW,5.5,5.5 kW,5.5 kilowatt,,,,,,kW
+kW,45,45 kW,45 kilowatt,,,,,,kW
+kW,4,4 kW,4 kilowatt,,,,,,kW
+kW,37,37 kW,37 kilowatt,,,,,,kW
+kW,30,30 kW,30 kilowatt,,,,,,kW
+kW,22,22 kW,22 kilowatt,,,,,,kW
+kW,2.2,2.2 kW,2.2 kilowatt,,,,,,kW
+kW,18.5,18.5 kW,18.5 kilowatt,,,,,,kW
+kW,15,15 kW,15 kilowatt,,,,,,kW
+kW,132,132 kW,132 kilowatt,,,,,,kW
+kW,110,110 kW,110 kilowatt,,,,,,kW
+kW,11,11 kW,11 kilowatt,,,,,,kW
+kW,1.5,1.5 kW,1.5 kilowatt,,,,,,kW
+kW,0.75,0.75 kW,0.75 kilowatt,,,,,,kW
+Network Type,None,Ignore,,,,,,,
+Network Type,EtherNet/IP,EtherNet/IP,EtherNet ,22-COMM-E Ethernet,Ethernet (22-COMM-E),,,,Communication Option
+Network Type,DeviceNet,DeviceNet,DeviceNet,20-COMM-D Devicenet,Devicenet (20-COMM-D),,,,Communication Option
+Network Type,ControlNet (Coax),ControlNet (Coax),ControlNet,20-COMM-C ControlNet,ControlNet (20-COMM-C),,,,Communication Option
+Network Type,Remote I/O,Remote I/O,RIO,20-COMM-R Remote I/O,Remote I/O (20-COMM-R),,,,Communication Option
+Network Type,,,,,,,,,
+Operator Interface,"LCD Display, Full Numeric Keypad",LCD display and full numeric keypad,LCD with a full keypad,20-HIM-A3 LCD/keypad,LCD and keypad,,,,HIM
+Operator Interface,Keypad and LCD,,,,,,,,HIM
+Operator Interface,LCD with Keypad,LED display and key,,,,,,,HIM
+Operator Interface,LCD with Programmer,LED keypad and programmer,,,,,,,HIM
+Operator Interface,Blank Cover,blank cover,blank,,,,,,HIM
+Ph.,3,Ignore,,,,,,,
+Ph.,-,ignore,,,,,,,
+,Y,precharge,prechg.,,,,,,Drive Feature
+Prechg.,N,ignore,,,,,,,
+Prechg.,-,ignore,,,,,,,
+Type,Pump Off (for pump jack),Pump off,,,,,,,Drive Feature
+Type,None,ignore,,,,,,,Drive Feature
+Type,"Encoder, 12V/5V",encoder (12V/5V),12V/5V encoder,encoder,5V/12V encoder,,,,Encoder
+Type,Cascading Fan/Pump Control,,,,,,,,Drive Feature
+Type,82 Hz Maximum,,,,,,,,Drive Feature
+Type,60 Hz Maximum,,,,,,,,Drive Feature
+Voltage,810V DC,810V DC,810 VDC,,,,,,Voltage
+Voltage,650V DC,650V DC,650 VDC,,,,,,Voltage
+Voltage,600V AC,600V AC,600 VAC,600 VAC 3 phase,3 phase 600V AC ,,,,Voltage
+Voltage,540V DC,540V DC,540 VDC,,,,,,Voltage
+Voltage,480V AC,480V AC,480 VAC,480 VAC 3 phase,3 phase 480V AC ,,,,Voltage
+Voltage,400V AC,400V AC,400 VAC,400 VAC 3 phase,3 phase 400V AC,,,,Voltage
+Voltage,325V DC,325V DC,325 VDC,,,,,,Voltage
+Voltage,240V AC,240V AC,240 VAC,240 VAC 3 phase,3 phase 240V AC ,,,,Voltage
+w/Brake IGBT,Yes,brake IGBT,brake,,,,,,Drive Feature
+w/Brake IGBT,No,Ignore,,,,,,,
+w/Resistor,Yes,resistor,internal braking resistor,brake resistor,braking resistor,,,,Drive Feature
+w/Resistor,No,Ignore,,,,,,,

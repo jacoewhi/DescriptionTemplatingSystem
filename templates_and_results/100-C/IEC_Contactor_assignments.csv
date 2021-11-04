@@ -1,0 +1,127 @@
+Specification,value,,,,,,,,template groups
+Terminal Type,Standard,standard,,,,,,,Terminal Type
+Terminal Type,Spring Clamp,spring clamp,,,,,,,Terminal Type
+Terminal Type,Screwless,screwless,,,,,,,Terminal Type
+Terminal Type,Screw,standard,,,,,,,Terminal Type
+Contactor Amperage,9A,9 A,9 Amps,,,,,,Amps
+Contactor Amperage,97A,97 A,97 Amps,,,,,,Amps
+Contactor Amperage,96A,96 A,96 Amps,,,,,,Amps
+Contactor Amperage,90A,90 A,90 Amps,,,,,,Amps
+Contactor Amperage,860 A,860 A,860 Amps,,,,,,Amps
+Contactor Amperage,85A,85 A,85 Amps,,,,,,Amps
+Contactor Amperage,80A,80 A,80 Amps,,,,,,Amps
+Contactor Amperage,750 A,750 A,750 Amps,,,,,,Amps
+Contactor Amperage,72A,72 A,72 Amps,,,,,,Amps
+Contactor Amperage,65A,65 A,65 Amps,,,,,,Amps
+Contactor Amperage,60A,60 A,60 Amps,,,,,,Amps
+Contactor Amperage,5A,5 A,5 Amps,,,,,,Amps
+Contactor Amperage,580 A,580 A,580 Amps,,,,,,Amps
+Contactor Amperage,55A,55 A,55 Amps,,,,,,Amps
+Contactor Amperage,52A,52 A,52 Amps,,,,,,Amps
+Contactor Amperage,460 A,460 A,460 Amps,,,,,,Amps
+Contactor Amperage,43A,43 A,43 Amps,,,,,,Amps
+Contactor Amperage,40A,40 A,40 Amps,,,,,,Amps
+Contactor Amperage,400 A,400 A,400 Amps,,,,,,Amps
+Contactor Amperage,38A,38 A,38 Amps,,,,,,Amps
+Contactor Amperage,37A,37 A,37 Amps,,,,,,Amps
+Contactor Amperage,370 A,370 A,370 Amps,,,,,,Amps
+Contactor Amperage,30A,30 A,30 Amps,,,,,,Amps
+Contactor Amperage,305 A,305 A,305 Amps,,,,,,Amps
+Contactor Amperage,26A,26 A,26 Amps,,,,,,Amps
+Contactor Amperage,265 A,265 A,265 Amps,,,,,,Amps
+Contactor Amperage,23A,23 A,23 Amps,,,,,,Amps
+Contactor Amperage,205 A,205 A,205 Amps,,,,,,Amps
+Contactor Amperage,190 A,190 A,190 Amps,,,,,,Amps
+Contactor Amperage,16A,16 A,16 Amps,,,,,,Amps
+Contactor Amperage,146 A,146 A,146 Amps,,,,,,Amps
+Contactor Amperage,12A,12 A,12 Amps,,,,,,Amps
+Contactor Amperage,1260 A (AC-1 only),1260 A,1260 Amps,,,,,,Amps
+Contactor Amperage,116 A,116 A,116 Amps,,,,,,Amps
+Contactor Amperage,1060 A,1060 A,1060 Amps,,,,,,Amps
+Main Poles,4 N.O. 0 N.C.,4 N.O. poles,4 N.O. main contacts,4 normally open poles,4 normally open main contacts,,,,Main Contacts
+Main Poles,3 N.O. 1 N.C.,3 N.O. 1 N.C. poles,3 N.O. 1 N.C. main contacts,3 normally open 1 normally closed poles,3 normally open 1 normally closed main contacts,,,,Main Contacts
+Main Poles,3,3 N.O. poles,3 N.O. main contacts,3 normally open poles,3 normally open main contacts,,,,Main Contacts
+Main Poles,2 N.O. 2 N.C.,2 N.O. 2 N.C. poles,2 N.O. 2 N.C. main contacts,2 normally open 2 normally closed poles,2 normally open 2 normally closed main contacts,,,,Main Contacts
+Auxiliary Contacts,2 N.O. 2 N.C.,2 N.O. 2 N.C. auxiliary contacts,2 normally open 2 normally closed auxiliary contacts,,,,,,Auxiliary Contacts
+Auxiliary Contacts,2 N.O. 0 N.C.,2 N.O. auxiliary contacts,2 normally open auxiliary contacts,,,,,,Auxiliary Contacts
+Auxiliary Contacts,1 N.O. 5 N.C.,1 N.O. 5 N.C. auxiliary contacts,1 normally open 5 normally closed auxiliary contacts,,,,,,Auxiliary Contacts
+Auxiliary Contacts,1 N.O. 4 N.C.,1 N.O. 4 N.C. auxiliary contacts,1 normally open 4 normally closed auxiliary contacts,,,,,,Auxiliary Contacts
+Auxiliary Contacts,1 N.O. 1 N.C.,1 N.O. 1 N.C. auxiliary contacts,1 normally open 1 normally closed auxiliary contacts,,,,,,Auxiliary Contacts
+Auxiliary Contacts,1 N.O. 0 N.C.,1 N.O. auxiliary contact,1 normally open auxiliary contact,,,,,,Auxiliary Contacts
+Auxiliary Contacts,0 N.O. 6 N.C.,6 N.C. auxiliary contacts,6 normally closed auxiliary contacts,,,,,,Auxiliary Contacts
+Auxiliary Contacts,0 N.O. 5 N.C.,5 N.C. auxiliary contacts,5 normally closed auxiliary contacts,,,,,,Auxiliary Contacts
+Auxiliary Contacts,0 N.O. 4 N.C.,4 N.C. auxiliary contacts,4 normally closed auxiliary contacts,,,,,,Auxiliary Contacts
+Auxiliary Contacts,0 N.O. 2 N.C.,2 N.C. auxiliary contacts,2 normally closed auxiliary contacts,,,,,,Auxiliary Contacts
+Auxiliary Contacts,0 N.O. 1 N.C.,1 N.C. auxiliary contact,1 normally closed auxiliary contact,,,,,,Auxiliary Contacts
+Auxiliary Contacts,0 N.O. 0 N.C.,0 N.C. auxiliary contacts,0 normally closed auxiliary contacts,,,,,,
+Control Voltage,80V DC,80V DC,80 Volts DC,80 Volts direct current,,,,,Voltage
+Control Voltage,72V DC,72V DC,72 Volts DC,72 Volts direct current,,,,,Voltage
+Control Voltage,64V DC,64V DC,64 Volts DC,64 Volts direct current,,,,,Voltage
+Control Voltage,60V DC,60V DC,60 Volts DC,60 Volts direct current,,,,,Voltage
+Control Voltage,600V 60Hz,600V 60Hz,600 Volts at 60Hz,600 Volts at 60 Hertz,,,,,Voltage
+Control Voltage,"550V 50Hz, 600V 60Hz","550V 50Hz, 600V 60Hz","550 Volts at 50Hz, 600 Volts at 60Hz","550 Volts at 50 Hertz, 600 Volts at 60 Hertz",,,,,Voltage
+Control Voltage,500V 50Hz,500V 50Hz,500 Volts at 50Hz,500 Volts at 50 Hertz,,,,,Voltage
+Control Voltage,48V DC,48V DC,48 Volts DC,48 Volts direct current,,,,,Voltage
+Control Voltage,48V AC 50Hz,48V AC 50Hz,48 Volts AC at 50Hz,48 Volts alternating current at 50 Hertz,,,,,Voltage
+Control Voltage,48V AC 50/60Hz,48V AC 50/60Hz,48 Volts AC at 50Hz or 60Hz,48 Volts alternating current at 50 Hertz or 60 Hertz,,,,,Voltage
+Control Voltage,480V 60Hz,480V 60Hz,480 Volts at 60Hz,480 Volts at 60 Hertz,,,,,Voltage
+Control Voltage,48-72V DC,48-72V DC,48-72 Volts DC,48-72 Volts direct current,,,,,Voltage
+Control Voltage,48-130V AC/DC(w/ PLC input),48-130V AC/DC (with PLC input),48-130 Volts AC/DC (with PLC input),48-130 Volts alternating current/direct current (with programmable logic controller input),,,,,Voltage
+Control Voltage,48-130V AC/DC,48-130V AC/DC,48-130 Volts AC/DC,48-130 Volts alternating current/direct current,,,,,Voltage
+Control Voltage,"440V 50Hz, 480V 60Hz","440V 50Hz, 480V 60Hz","440 Volts at 50Hz, 480 Volts at 60Hz","440 Volts at 50 Hertz, 480 Volts at 60 Hertz",,,,,Voltage
+Control Voltage,440V 50/60Hz,440V 50/60Hz,440 Volts at 50Hz or 60Hz,440 Volts at 50 Hertz or 60 Hertz,,,,,Voltage
+Control Voltage,"42V AC 50Hz, 48V AC 60Hz","42V AC 50Hz, 48V AC 60Hz","42 Volts AC at 50Hz, 48 Volts AC at 60Hz","42 Volts alternating current at 50 Hertz, 48 Volts alternating current at 60 Hertz",,,,,Voltage
+Control Voltage,400V 50/60Hz,400V 50/60Hz,400 Volts at 50Hz or 60Hz,400 Volts at 50 Hertz or 60 Hertz,,,,,Voltage
+Control Voltage,400-415V 50Hz,400-415V 50Hz,400-415 Volts at 50Hz,400-415 Volts at 50 Hertz,,,,,Voltage
+Control Voltage,380V 60Hz,380V 60Hz,380 Volts at 60Hz,380 Volts at 60 Hertz,,,,,Voltage
+Control Voltage,"380-400V 50Hz, 440V 60Hz","380-400V 50Hz, 440V 60Hz","380-400 Volts at 50Hz, 440 Volts at 60Hz","380-400 Volts at 50 Hertz, 440 Volts at 60 Hertz",,,,,Voltage
+Control Voltage,36V DC,36V DC,36 Volts DC,36 Volts direct current,,,,,Voltage
+Control Voltage,36V AC 50Hz,36V AC 50Hz,36 Volts AC at 50Hz,36 Volts alternating current at 50 Hertz,,,,,Voltage
+Control Voltage,36-48V DC,36-48V DC,36-48 Volts DC,36-48 Volts direct current,,,,,Voltage
+Control Voltage,347V 60Hz,347V 60Hz,347 Volts at 60Hz,347 Volts at 60 Hertz,,,,,Voltage
+Control Voltage,"32V AC 50Hz, 36V AC 60Hz","32V AC 50Hz, 36V AC 60Hz","32 Volts AC at 50Hz, 36 Volts AC at 60Hz","32 Volts alternating current at 50 Hertz, 36 Volts alternating current at 60 Hertz",,,,,Voltage
+Control Voltage,250V DC,250V DC,250 Volts DC,250 Volts direct current,,,,,Voltage
+Control Voltage,250-500V AC/DC(w/ PLC input),250-500V AC/DC (with PLC input),250-500 Volts AC/DC (with PLC input),250-500 Volts alternating current/direct current (with programmable logic controller input),,,,,Voltage
+Control Voltage,250-500V AC/DC,250-500V AC/DC,250-500 Volts AC/DC,250-500 Volts alternating current/direct current,,,,,Voltage
+Control Voltage,24V DC,24V DC,24 Volts DC,24 Volts direct current,,,,,Voltage
+Control Voltage,24V AC 60Hz,24V AC 60Hz,24 Volts AC at 60Hz,24 Volts alternating current at 60 Hertz,,,,,Voltage
+Control Voltage,24V AC 50Hz,24V AC 50Hz,24 Volts AC at 50Hz,24 Volts alternating current at 50 Hertz,,,,,Voltage
+Control Voltage,24V AC 50/60Hz,24V AC 50/60Hz,24 Volts AC at 50Hz or 60Hz,24 Volts alternating current at 50 Hertz or 60 Hertz,,,,,Voltage
+Control Voltage,"240V AC 50Hz, 277V AC 60Hz","240V AC 50Hz, 277V AC 60Hz","240 Volts AC at 50Hz, 277 Volts AC at 60Hz","240 Volts alternating current at 50 Hertz, 277 Volts alternating current at 60 Hertz",,,,,Voltage
+Control Voltage,240V 60Hz,240V 60Hz,240 Volts at 60Hz,240 Volts at 60 Hertz,,,,,Voltage
+Control Voltage,240V 50/60Hz,240V 50/60Hz,240 Volts at 50Hz or 60Hz,240 Volts at 50 Hertz or 60 Hertz,,,,,Voltage
+Control Voltage,24-60V AC-DC(w/ PLC input),24-60V AC-DC(with PLC input),24-60 Volts AC-DC(with PLC input),24-60 Volts alternating current-direct current(with programmable logic controller input),,,,,Voltage
+Control Voltage,24-60V AC 20-60V DC,24-60V AC 20-60V DC,24-60 Volts AC 20-60 Volts DC,24-60 Volts alternating current 20-60 Volts direct current,,,,,Voltage
+Control Voltage,230V DC,230V DC,230 Volts DC,230 Volts direct current,,,,,Voltage
+Control Voltage,230V 50/60Hz,230V 50/60Hz,230 Volts at 50Hz or 60Hz,230 Volts at 50 Hertz or 60 Hertz,,,,,Voltage
+Control Voltage,230-240V AC 50Hz,230-240V AC 50Hz,230-240 Volts AC at 50Hz,230-240 Volts alternating current at 50 Hertz,,,,,Voltage
+Control Voltage,220V DC,220V DC,220 Volts DC,220 Volts direct current,,,,,Voltage
+Control Voltage,220-250V DC,220-250V DC,220-250 Volts DC,220-250 Volts direct current,,,,,Voltage
+Control Voltage,220-230V AC 50Hz,220-230V AC 50Hz,220-230 Volts AC at 50Hz,220-230 Volts alternating current at 50 Hertz,,,,,Voltage
+Control Voltage,208V AC 60Hz,208V AC 60Hz,208 Volts AC at 60Hz,208 Volts alternating current at 60 Hertz,,,,,Voltage
+Control Voltage,"200V AC 50Hz, 200-220V AC 60Hz","200V AC 50Hz, 200-220V AC 60Hz","200 Volts AC at 50Hz, 200-220 Volts AC at 60Hz","200 Volts alternating current at 50 Hertz, 200-220 Volts alternating current at 60 Hertz",,,,,Voltage
+Control Voltage,200-230V 50/60Hz,200-230V 50/60Hz,200-230 Volts at 50Hz or 60Hz,200-230 Volts at 50 Hertz or 60 Hertz,,,,,Voltage
+Control Voltage,"200-220V AC 50Hz, 208-240V AC 60Hz","200-220V AC 50Hz, 208-240V AC 60Hz","200-220 Volts AC at 50Hz, 208-240 Volts AC at 60Hz","200-220 Volts alternating current at 50 Hertz, 208-240 Volts alternating current at 60 Hertz",,,,,Voltage
+Control Voltage,12V DC,12V DC,12 Volts DC,12 Volts direct current,,,,,Voltage
+Control Voltage,12V AC 60Hz,12V AC 60Hz,12 Volts AC at 60Hz,12 Volts alternating current at 60 Hertz,,,,,Voltage
+Control Voltage,12V AC 50Hz,12V AC 50Hz,12 Volts AC at 50Hz,12 Volts alternating current at 50 Hertz,,,,,Voltage
+Control Voltage,127V AC 50Hz,127V AC 50Hz,127 Volts AC at 50Hz,127 Volts alternating current at 50 Hertz,,,,,Voltage
+Control Voltage,125V DC,125V DC,125 Volts DC,125 Volts direct current,,,,,Voltage
+Control Voltage,120V AC 50Hz,120V AC 50Hz,120 Volts AC at 50Hz,120 Volts alternating current at 50 Hertz,,,,,Voltage
+Control Voltage,12-20V DC,12-20V DC,12-20 Volts DC,12-20 Volts direct current,,,,,Voltage
+Control Voltage,115V DC,115V DC,115 Volts DC,115 Volts direct current,,,,,Voltage
+Control Voltage,110V DC,110V DC,110 Volts DC,110 Volts direct current,,,,,Voltage
+Control Voltage,"110V AC 50Hz, 120V AC 60Hz","110V AC 50Hz, 120V AC 60Hz","110 Volts AC at 50Hz, 120 Volts AC at 60Hz","110 Volts alternating current at 50 Hertz, 120 Volts alternating current at 60 Hertz",,,,,Voltage
+Control Voltage,110V AC 50/60Hz,110V AC 50/60Hz,110 Volts AC at 50Hz or 60Hz,110 Volts alternating current at 50 Hertz or 60 Hertz,,,,,Voltage
+Control Voltage,110-125V DC,110-125V DC,110-125 Volts DC,110-125 Volts direct current,,,,,Voltage
+Control Voltage,"100V AC 50Hz, 100-110V AC 60Hz","100V AC 50Hz, 100-110V AC 60Hz","100 Volts AC at 50Hz, 100-110 Volts AC at 60Hz","100 Volts alternating current at 50 Hertz, 100-110 Volts alternating current at 60 Hertz",,,,,Voltage
+Control Voltage,100-250V AC/DC(w/ PLC input),100-250V AC/DC (with PLC input),100-250 Volts AC/DC (with PLC input),100-250 Volts alternating current/direct current (with programmable logic controller input),,,,,Voltage
+Control Voltage,100-250V AC/DC,100-250V AC/DC,100-250 Volts AC/DC,100-250 Volts alternating current/direct current,,,,,Voltage
+Control Frequency,60Hz,,,,,,,,
+Control Frequency,50Hz,,,,,,,,
+Control Frequency,50/60Hz,,,,,,,,
+Control Frequency,"50, 60Hz",,,,,,,,
+Options,With gold-plated bifurcated auxiliary contacts,gold-plated bifurcated auxiliary contacts,bifurcated auxiliary contacts,,,,,,Options
+Options,With cross-stamped front-mount auxiliary contacts,cross-stamped front-mount auxiliary contacts,front-mount auxiliary contacts,,,,,,Options
+Options,With Built-in Lugs,built-in lugs,,,,,,,Options
+Options,Bar Connections,bar connections,,,,,,,Options

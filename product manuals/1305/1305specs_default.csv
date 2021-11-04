@@ -1,0 +1,17 @@
+A -- 1-4,Manufacturer,Series,Enclosure,B -- 6-10 (MODS),Voltage,Three-Phase Input HP,Three-Phase Input kW,Three-Phase Output Current,Single-Phase Input HP,Single-Phase Input kW,Single-Phase Output Current,C -- 11-12 (MODS),Language,Human Interface Module,D -- 12-17,Human Interface Module
+1305,Allen Bradley/Rockwell Automation,1305 Adjustable Frequency AC Drive,IP30 (NEMA Type 1),AA01A,"200-240V, Single-Phase or 200-230V, Three-Phase 50/60Hz",BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,DE,German,BLANK,HAP,Programmer Only
+,,,,AA02A,"200-240V, Single-Phase or 200-230V, Three-Phase 50/60Hz",0.5,0.37,2.3A,0.25,0.19,1.2A,ES,Spanish,BLANK,HA1,HIM with Analog Speed Pot
+,,,,AA03A,"200-240V, Single-Phase or 200-230V, Three-Phase 50/60Hz",0.75,0.55,3A,0.5,0.37,2.3A,IT,Italian,BLANK,HA2,HIM with Digital Up-Down Keys
+,,,,AA04A,"200-240V, Single-Phase or 200-230V, Three-Phase 50/60Hz",1,0.75,4.5A,0.75,0.55,3A,FR,French,BLANK,,
+,,,,AA06A,"200-240V, Single-Phase or 200-230V, Three-Phase 50/60Hz",BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,HAP,BLANK,Programmer Only,,
+,,,,AA08A,"200-240V, Single-Phase or 200-230V, Three-Phase 50/60Hz",2,1.5,8A,1,0.75,4.5A,HA1,BLANK,HIM with Analog Speed Pot,,
+,,,,AA09A,"200-240V, Single-Phase or 200-230V, Three-Phase 50/60Hz",BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,HA2,BLANK,HIM with Digital Up-Down Keys,,
+,,,,AA12A,"200-240V, Single-Phase or 200-230V, Three-Phase 50/60Hz",3,2.2,12A,2,1.5,8A,,,,,
+,,,,BA01A,"380-460V, Three-Phase 50/60 Hz",0.5,0.37,1.3A,BLANK,BLANK,BLANK,,,,,
+,,,,BA02A,"380-460V, Three-Phase 50/60 Hz",0.75,0.55,1.6A,BLANK,BLANK,BLANK,,,,,
+,,,,BA03A,"380-460V, Three-Phase 50/60 Hz",1,0.75,2.3A,BLANK,BLANK,BLANK,,,,,
+,,,,BA04A,"380-460V, Three-Phase 50/60 Hz",2,1.5,4A,BLANK,BLANK,BLANK,,,,,
+,,,,BA06A,"380-460V, Three-Phase 50/60 Hz",3,2.2,6A,BLANK,BLANK,BLANK,,,,,
+,,,,BA08A,"380-460V, Three-Phase 50/60 Hz",BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,,,,,
+,,,,BA09A,"380-460V, Three-Phase 50/60 Hz",5,4,9A,BLANK,BLANK,BLANK,,,,,
+,,,,BA12A,"380-460V, Three-Phase 50/60 Hz",BLANK,BLANK,BLANK,BLANK,BLANK,BLANK,,,,,

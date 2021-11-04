@@ -1,0 +1,54 @@
+Sentence Templates,,
+Type,Template,
+introduction,This [brand] [spec:primary] [type] [spec],
+introduction,This [brand] [type] [spec],
+introduction,This [type] [manufactured] by [brand] [spec],
+introduction,The [part number] [manufactured] by [brand] [spec],
+introduction,The [Brand] [Part Number] [Type] [spec],
+Secondary,This [type] [spec],?
+Secondary,"[additionally], this [type] [spec]",
+Secondary,This [type] [additionally] [spec],
+Secondary,"[additionally], it [spec]",
+Secondary,It [spec],
+Secondary,"[additionally], this [brand] [type] [spec]",
+Multi-Spec,"This [type] [spec1], [spec2], and [spec3]",
+Multi-Spec,"[additionally], it [spec1], [spec2], and [spec3]",
+Multi-Spec,This [type] [spec1] and [spec2],
+Multi-Spec,"[additionally], this [type] [spec1] and [spec2]",
+Multi-Spec,It [spec1] and [spec2],
+Multi-Spec,"[additionally], it [spec1] and [spec2]",
+,,
+Glossary,,
+Key,Values,
+brand,"Allen Bradley, Allen-Bradley, AB, Rockwell Automation, Allen-Bradley/Rockwell Automation",
+type,"PowerFlex 700, AC drive, variable frequency drive, VFD, PF700, PowerFlex 700 AC drive, drive",
+has,"has, comes with",
+installed,"installed, included, blank",
+him,"HIM unit, human interface module, interface module, blank",
+option,"option, card, board, module, unit, option board, blank",
+unit,"unit, module",
+manufactured,"manufactured, made, built, blank",
+additionally,"additionally, in addition, also",
+,,
+Specifications,,
+Name,Template,Priority
+HIM,[has] a [value] [him] [installed],
+Communication Option,[has] a [value] [option] [installed],
+Voltage,is powered with [value],P
+Voltage,"is a [value] [drive, VFD, variable frequency drive]",P
+Voltage,"[requires, utilizes, needs] [value] [power, blank] [to operate, blank]",P
+Voltage,has power requirements of [value],P
+HP,"[has] a [HP, horsepower,blank] [output, blank] rating of [value]",P
+HP,"is a [value] [drive, unit]",P
+kW,"[has] a [kW, blank] [output, blank] rating of [value]",P
+kW,"is a [value] [drive, AC drive, VFD]",P
+Enclosure,"[has] a [value] [enclosure, enclosure type, blank] [rating, blank]",
+Enclosure,"is [contained, housed] in a [value] [enclosure, enclosure type]",
+Frame,"is a size [value] frame [unit, drive,]",
+Frame,[has] a [value] frame size,
+Drive Feature,"[has, comes with] a [value] [installed]",
+Drive Feature,"[includes, has, features] a [value]",
+Amps,"[has] a [amperage,blank] [output, ND Output, blank] rating of [value]",P
+Amps,"is a [value] [drive, unit]",P
+Control,"[has] a [value] [cassette, blank] [option] [installed]",
+Encoder,"[has,comes with, includes] a [value] [option]",

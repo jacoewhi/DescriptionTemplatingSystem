@@ -1,0 +1,51 @@
+A1 -- 1-5,Manufacturer,Series,A -- 7-7,Voltage,B -- 8-10,kW,HP,C -- 12-13,Enclosure Type,D -- 15-16,Language,E -- 17-20 (MODS),"Human Interface Module, IP 20","Human Interface Module, IP 65/54",Communication Options,Control Interface Options,Adapter Options,* -- Voltage -- kW,Frame
+1336,Allen Bradley/Rockwell Automation,1336 Adjustable Frequency AC Drive,AQ,200-240V AC or 310V DC,F05,0.37,0.5,AA,NEMA 1 (IP20),EN,English/English,HAB,Blank - No functionality,BLANK,BLANK,BLANK,BLANK,200-240V AC or 310V DC -- .37-.75,A1
+,,,BR,380-480V AC or 513+/-620V DC,F07,0.56,0.75,AE,NEMA 1 (IP20)/EMC 0.37-45kW (0.5-60HP) only,FR,English/French,HAP,Programmer Only,BLANK,BLANK,BLANK,BLANK,200-240V AC or 310V DC -- 1.2-1.5 ,A2
+,,,CW,500-600V AC or 775V DC,F10,0.75,1,AF,NEMA 4 (IP65),ES,English/Spanish,HA1,Programmer/Controller w/Analog Pot,BLANK,BLANK,BLANK,BLANK,200-240V AC or 310V DC -- 2.2-3.7,A3
+,,,A,200-240V AC,F15,1.2,1.5,AJ,NEMA 12 (IP54),DE,English/German,HA2,Programmer/Controller w/Digital Pot,BLANK,BLANK,BLANK,BLANK,200-240V AC or 310V DC -- 5.5-11,B
+,,,B,380-480V AC,F20,1.5,2,AN,Open (IP00),IT,English/Italian,HJP,BLANK,Programmer Only,BLANK,BLANK,BLANK,200-240V AC or 310V DC -- 15-22,C
+,,,BP,380-480V AC (F Frame),F30,2.2,3,,,PT,English/Portugese,HJ2,BLANK,Programmer/Controller w/Digital Pot,BLANK,BLANK,BLANK,200-240V AC or 310V DC -- 30-45,D
+,,,BX,Special Rating,F50,3.7,5,,,,,GM1,BLANK,BLANK,Single Point Remote I/O,BLANK,BLANK,200-240V AC or 310V DC --56-75,E
+,,,C,500-600V AC,F75,5.5,7.5,,,,,GM2,BLANK,BLANK,"RS-232/422/485, DF1, & DH485",BLANK,BLANK,200-240V AC -- .37-.75,A1
+,,,Q,310V DC,7,5.5,7.5,,,,,GM5,BLANK,BLANK,DeviceNet,BLANK,BLANK,200-240V AC -- 1.2-1.5,A2
+,,,R,513-620V DC,10,7.5,10,,,,,L4,BLANK,BLANK,BLANK,TTL Contact,BLANK,200-240V AC -- 2.2-3.7,A3
+,,,RX,Special Rating,15,11,15,,,,,L7E,BLANK,BLANK,BLANK,TTL Contact & Encoder Feedback,BLANK,200-240V AC -- 5.5-11,B
+,,,W,775V DC,20,15,20,,,,,L5,BLANK,BLANK,BLANK,24V AC/DC,BLANK,200-240V AC -- 15-22,C
+,,,,,25,18.5,25,,,,,L8E,BLANK,BLANK,BLANK,24V AC/DC & Encoder Feedback,BLANK,200-240V AC -- 30-45,D
+,,,,,30,22,30,,,,,L6,BLANK,BLANK,BLANK,115V AC,BLANK,200-240V AC -- 56-75,E
+,,,,,40,30,40,,,,,L9E,BLANK,BLANK,BLANK,115V AC & Encoder Feedback,BLANK,380-480V AC or 513-620V DC -- .37-1.2,A1
+,,,,,50,37,50,,,,,GT1EN,BLANK,BLANK,BLANK,BLANK,PLC Communication Adapter English,380-480V AC or 513-620V DC -- 1.5-2.2,A2
+,,,,,60,45,60,,,,,GT2EN,BLANK,BLANK,BLANK,BLANK,Standard Adapter English,380-480V AC or 513-620V DC -- 3.7-3.7,A3
+,,,,,75,56,75,,,,,GTO,BLANK,BLANK,BLANK,BLANK,No Adapter,380-480V AC or 513-620V DC -- 5.5-7.5,A4
+,,,,,100,75,100,,,,,,,,,,,380-480V AC or 513-620V DC -- 5.5-22,B
+,,,,,125,93,125,,,,,,,,,,,380-480V AC or 513-620V DC -- 30-45,C
+,,,,,150,112,150,,,,,,,,,,,380-480V AC or 513-620V DC -- 45-112,D
+,,,,,200,149,200,,,,,,,,,,,380-480V AC or 513-620V DC -- 112-187,E
+,,,,,250,187,250,,,,,,,,,,,380-480V AC or 513-620V DC -- 224-336,F
+,,,,,300,224,300,,,,,,,,,,,380-480V AC or 513-620V DC -- 224-448,G
+,,,,,350,261,350,,,,,,,,,,,380-480V AC or 513-620V DC -- 522-597,H
+,,,,,400,298,400,,,,,,,,,,,380-480V AC -- .37-1.2,A1
+,,,,,450,336,450,,,,,,,,,,,380-480V AC -- 1.5-2.2,A2
+,,,,,500,373,500,,,,,,,,,,,380-480V AC -- 3.7-3.7,A3
+,,,,,600,448,600,,,,,,,,,,,380-480V AC -- 5.5-7.5,A4
+,,,,,650,485,650,,,,,,,,,,,380-480V AC -- 5.5-22,B
+,,,,,,,,,,,,,,,,,,380-480V AC -- 30-45,C
+,,,,,,,,,,,,,,,,,,380-480V AC -- 45-112,D
+,,,,,,,,,,,,,,,,,,380-480V AC -- 112-187,E
+,,,,,,,,,,,,,,,,,,380-480V AC -- 224-336,F
+,,,,,,,,,,,,,,,,,,380-480V AC -- 224-448,G
+,,,,,,,,,,,,,,,,,,380-480V AC -- 522-597,H
+,,,,,,,,,,,,,,,,,,500-600V AC or 775V DC -- .75-3.7,A4
+,,,,,,,,,,,,,,,,,,500-600V AC or 775V DC -- 5.5-15,B
+,,,,,,,,,,,,,,,,,,500-600V AC or 775V DC -- 18.5-45,C
+,,,,,,,,,,,,,,,,,,500-600V AC or 775V DC -- 56-93,D
+,,,,,,,,,,,,,,,,,,500-600V AC or 775V DC -- 112-224,E
+,,,,,,,,,,,,,,,,,,500-600V AC or 775V DC -- 224-448,G
+,,,,,,,,,,,,,,,,,,500-600V AC or 775V DC -- 522-597,H
+,,,,,,,,,,,,,,,,,,500-600V AC -- .75-3.7,A4
+,,,,,,,,,,,,,,,,,,500-600V AC -- 5.5-15,B
+,,,,,,,,,,,,,,,,,,500-600V AC -- 18.5-45,C
+,,,,,,,,,,,,,,,,,,500-600V AC -- 56-93,D
+,,,,,,,,,,,,,,,,,,500-600V AC -- 112-224,E
+,,,,,,,,,,,,,,,,,,500-600V AC -- 224-448,G
+,,,,,,,,,,,,,,,,,,500-600V AC -- 522-597,H

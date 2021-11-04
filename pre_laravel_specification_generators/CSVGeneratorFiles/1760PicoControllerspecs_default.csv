@@ -1,0 +1,23 @@
+A -- 1-4,Manufacturer,Series,B -- 5-10,Product Type,Description,Inputs,Outputs,Line Power,Real Time Clock,Display,Suitable for use with Expansion Modules,C -- 11-12,Real Time Clock,Display,Suitable for use with Expansion Modules
+1760,Allen Bradley,Pico Controllers Bulletin 1760,L12AWA,Electronic Control Relays,120/240V ac Pico,8 (100 to 240V ac),4 (relay),100 to 240V ac,Yes,Yes,No,NC,No,Yes,No
+,,,L18AWA,Electronic Control Relays,120/240V ac Pico,12 (100 to 240V ac),6 (relay),100 to 240V ac,Yes,Yes,No,ND,Yes,No,No
+,,,L12BWB,Electronic Control Relays,24V dc Pico,8 (24V dc),4 (relay),24V dc,Yes,Yes,No,EX,Yes,Yes,Yes
+,,,L12BBB,Electronic Control Relays,24V dc Pico,8 (24V dc),4 (MOSFET),24V dc,Yes,Yes,No,EXND,Yes,No,Yes
+,,,L18BWB,Electronic Control Relays,24V dc Pico,12 (24V dc),6 (relay),24V dc,Yes,Yes,No,,,,
+,,,L20BBB,Electronic Control Relays,24V dc Pico,12 (24V dc),8 (MOSFET),24V dc,Yes,Yes,No,,,,
+,,,L18DWD,Electronic Control Relays,24V/12V dc Pico,12 (12V dc),6 (relay),12V dc,Yes,Yes,No,,,,
+,,,L12DWD,Electronic Control Relays,12V dc Pico,8 (12V dc),4 (relay),12V dc,Yes,Yes,No,,,,
+,,,L12NWN,Electronic Control Relays,24V ac Pico,8 (24V ac),4 (relay),24V dc,Yes,Yes,No,,,,
+,,,L18NWN,Electronic Control Relays,24V ac Pico,12 (24V ac),6 (relay),24V dc,Yes,Yes,No,,,,
+,,,IA12XOW6I,Expansion Module,Expansion Modules,12 (100 to 240V ac),6 (relay),100 to 240V ac,-,-,-,,,,
+,,,IB12XOB8,Expansion Module,Expansion Modules,12 (24V dc),8 (transistor),24V dc,-,-,-,,,,
+,,,IA12XOW4I,Expansion Module,Expansion Modules,12 (100 to 240V ac),4 (relay),100 to 240V ac,-,-,-,,,,
+,,,IB12XOW6I,Expansion Module,Expansion Modules with Connector,12 (24V dc),6 (relay),24V dc,-,-,-,,,,
+,,,OW2,Expansion Module,Expansion Modules,12 (24V dc),2 (relay),24V dc,-,-,-,,,,
+,,,RPLCONN,Expansion Module,Expansion Module Replacement Connector,-,-,-,-,-,-,,,,
+,,,MM1,Memory Module,Memory Modules,-,-,-,-,-,-,,,,
+,,,MM2,Memory Module,Memory Modules,-,-,-,-,-,-,,,,
+,,,SIM,Input/Output Simulator,Input/Output Simulator,-,-,-,-,-,-,,,,
+,,,PICOSOFT,Programming Software,Programming Software,-,-,-,-,-,-,,,,
+,,,CBL,Programming Cable,Programming Cable,-,-,-,-,-,-,,,,
+,,,MM2B,"Memory Module with Input/Output Simulator, Programming Software, and Programming Cable","Memory Modules with Input/Output Simulator, Programming Software, and Programming Cable",-,-,-,-,-,-,,,,

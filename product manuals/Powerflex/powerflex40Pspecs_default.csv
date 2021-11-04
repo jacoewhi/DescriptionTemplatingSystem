@@ -1,0 +1,9 @@
+A -- 1-3,Manufacturer,Series,B -- 5-5,Voltage,Ph.,C1 -- 6-8 (240V),Amps,kW,HP,C2 -- 6-8 (480V),Amps,kW,HP,C3 -- 6-8 (600V),Amps,kW,HP,D -- 9-9,Enclosure,E -- 10-10,HIM Version,F -- 11-11,EMC Filter,G -- 12-12,Version
+22D,Allen Bradley / Rockwell Automation,PowerFlex 40P Adjustable Frequency AC Drive,B,240V AC,3,2P3,2.3,0.4,0.5,1P4,1.4,0.4,0.5,1P7,1.7,0.75,1,N,Panel Mount - IP 20 (NEMA Type Open),1,Display/Fault Reset Only,0,Not Filtered,4,Standard
+,,,D,480V AC,3,5P0,5,0.75,1,2P3,2.3,0.75,1,3P0,3,1.5,2,F,Flange Mount - IP 20 (NEMA Type Open),2,Display/Fault Reset Only (Plate Drive),,,,
+,,,E,600V AC,3,8P0,8,1.5,2,4P0,4,1.5,2,4P2,4.2,2.2,3,H,Plate Drive - IP 20 (NEMA Type Open),,,,,,
+,,,,,,012,12,2.2,3,6P0,6,2.2,3,6P6,6.6,4,5,,,,,,,,
+,,,,,,017,17.5,3.7,5,010,10.5,4,5,9P9,9.9,5.5,7.5,,,,,,,,
+,,,,,,024,24,5.5,7.5,012,12,5.5,7.5,012,12,7.5,10,,,,,,,,
+,,,,,,033,33,7.5,10,017,17,7.5,10,019,19,11,15,,,,,,,,
+,,,,,,,,,,024,24,11,15,,,,,,,,,,,,

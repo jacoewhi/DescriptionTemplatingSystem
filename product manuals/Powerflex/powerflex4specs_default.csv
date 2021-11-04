@@ -1,0 +1,21 @@
+A -- 1-3,Manufacturer,Series,B -- 5-5,Voltage,Ph.,C -- 9-9,Enclosure,D -- 10-10,HIM Interface Module,E -- 11-11,Emission Class Rating,F -- 12-12,Type,* -- 6-8 -- Voltage -- Type,Amps,kW,HP
+22A,Allen Bradley/Rockwell Automation,PowerFlex 4 Adjustable Frequency AC Drive,V,120V AC,1,N,Panel Mount - IP 20 (NEMA Type Open),1,Fixed Keypad,0,Not Filtered,3,No Brake IGBT,1P5 -- 120V AC -- Standard,1.5,0.2,0.25
+,,,A,240V AC,1,F,Flange Mount - IP 20 (NEMA Type Open),,,1,Filtered,4,Standard,2P3 -- 120V AC -- Standard,2.3,0.4,0.5
+,,,B,240V AC,3,H,Replacement Plate Drive - IP 20 (NEMA Type Open),,,,,,,4P5 -- 120V AC -- Standard,4.5,0.75,1
+,,,D,480V AC,3,,,,,,,,,6P0 -- 120V AC -- Standard,6,1.1,1.5
+,,,,,,,,,,,,,,1P5 -- 240V AC -- Standard,1.5,0.2,0.25
+,,,,,,,,,,,,,,2P3 -- 240V AC -- Standard,2.3,0.4,0.5
+,,,,,,,,,,,,,,4P5 -- 240V AC -- Standard,4.5,0.75,1
+,,,,,,,,,,,,,,8P0 -- 240V AC -- Standard,8,1.5,2
+,,,,,,,,,,,,,,012 -- 240V AC -- Standard,12,2.2,3
+,,,,,,,,,,,,,,017 -- 240V AC -- Standard,17.5,3.7,5
+,,,,,,,,,,,,,,1P4 -- 240V AC -- No Brake IGBT,1.4,0.2,0.25
+,,,,,,,,,,,,,,2P1 -- 240V AC -- No Brake IGBT,2.1,0.4,0.5
+,,,,,,,,,,,,,,3P6 -- 240V AC -- No Brake IGBT,3.6,0.75,1
+,,,,,,,,,,,,,,6P8 -- 240V AC -- No Brake IGBT,6.8,1.5,2
+,,,,,,,,,,,,,,9P6 -- 240V AC -- No Brake IGBT,9.6,2.2,3
+,,,,,,,,,,,,,,1P4 -- 480V AC -- Standard,1.4,0.4,0.5
+,,,,,,,,,,,,,,2P3 -- 480V AC -- Standard,2.3,0.75,1
+,,,,,,,,,,,,,,4P0 -- 480V AC -- Standard,4,1.5,2
+,,,,,,,,,,,,,,6P0 -- 480V AC -- Standard,6,2.2,3
+,,,,,,,,,,,,,,8P7 -- 480V AC -- Standard,8.7,3.7,5

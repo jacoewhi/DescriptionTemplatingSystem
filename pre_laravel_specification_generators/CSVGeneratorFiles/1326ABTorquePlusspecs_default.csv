@@ -1,0 +1,10 @@
+A -- 1-6,Manufacturer,Series,B -- 1-1,Product Type,C -- 1-1,Frame Series,D -- 1-2,Motor magnet stack length,E -- 1-1,Rated Speed,F -- 1-1,Flange and Shaft Series,Feedbacks,G -- 1-1,Standard Options,Feedbacks
+1326AB,Allen Bradley,460V Torque Plus Series,B,Ferrite AC Servo Motor,4,108 mm frame diameter (115 mm bolt center),10,10mm,G,460V 5000 rpm/380V 4000 rpm,21,IEC Metric Flange with keyway,-,L,IP67 environmental rating only for all frame series,
+,,,MOD,Modification Kit,5,149 mm frame diameter (165 mm bolt center),20,20mm,J,460V 7250 rpm/380V 6000 rpm,M,-,Multi-turn high-resolution feedback,K4,8.1 N-m (72 lb-in.) Holding brake with 24V DC coil for 1326AB-B4 frame series,
+,,,,,7,194 mm frame diameter (215 mm bolt center),30,30mm,E,460V 3000 rpm/380V 2500 rpm,S,-,Single-turn high-resolution feedback,K5,13.6 N-m (120 lb-in.) Holding brake with 24V DC coil for 1326AB-B5 frame series,
+,,,,,,,40,40mm,H,460V 6000 rpm/380V 5000 rpm,,,,K7,41 N-m (140 lb-in.) Holding brake with 24V DC coil for 1326AB-B7 frame series,
+,,,,,,,60,60mm,F,460V 5000 rpm/380V 4100 rpm,,,,K4L,8.1 N-m (72 lb-in.) Holding brake with 24V DC coil for 1326AB-B4 frame series with IP67 environmental rating,
+,,,,,,,15,15mm,C,460V 2200 rpm/380V 1800 rpm,,,,K5L,13.6 N-m (120 lb-in.) Holding brake with 24V DC coil for 1326AB-B5 frame series with IP67 environmental rating,
+,,,,,,,,,,,,,,K7L,41 N-m (140 lb-in.) Holding brake with 24V DC coil for 1326AB-B7 frame series with IP67 environmental rating,
+,,,,,,,,,,,,,,M,-,Multi-turn high-resolution feedback
+,,,,,,,,,,,,,,S,-,Single-turn high-resolution feedback

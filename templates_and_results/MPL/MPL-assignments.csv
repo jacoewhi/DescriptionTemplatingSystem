@@ -1,0 +1,44 @@
+Specification,value,,,,,,,,
+Brake,No brake,brake,,braking,24 DC brake,braking capability,,,Brake No
+Brake,24V DC brake,24V DC brake,brake,24 VDC brake,24 DC brake,braking feature,,,Brake Yes
+Connectors,"Circular DIN, right angle, 180 degree rotatable","circular DIN, right angle, 180 degrees rotatable",circular DIN (right angle), circular DIN (180 degrees rotatable),circular DIN,right angle DIN,DIN style (circular),,Connectors
+Connectors,"Circular bayonet, facing shaft","circular bayonet, facing shaft",circular bayonet(facing shaft),circular bayonet,circular bayonet forward facing,bayonet style,bayonet,,Connectors
+Factory Designated Options,Standard,,,,,,,,
+Feeback,"Single-turn, 128 sin/cos, absolute encoder (Hiperface protocol)",single-turn high-resolution (128 sin/cos),single-turn hyperface,single-turn absolute (high-resolution),single turn (absolute),high-resolution single turn (128 sin/cos),single Turn (hyperface protocol) absolute,,Encoder
+Feeback,Single-turn high-resolution encoder,single-turn high-resolution (1024 sin/cos),single turn,single-turn absolute,single turn (high-resolution),high-resolution single turn,single Turn (hyperface protocol),,Encoder
+Feeback,"Multi-turn, 128 sin/cos, absolute encoder (Hiperface protocol)",multi-turn high-resolution  (128 sin/cos),multi-turn hyperface,multi-turn absolute (high-resolution),multi-turn (absolute),high-resolution multi-turn (128 sin/cos),multi-turn (hyperface protocol) absolute,,Encoder
+Feeback,Multi-turn high-resolution encoder,multi-turn high-resolution  (1024 sin/cos),multi-turn,multi-turn absolute,multi-turn (high-resolution),high-resolution multi-turn,multi-turn (hyperface protocol),,Encoder
+Feeback,2000 line encoder,2000 line,hall ,hall 2000 Line,2000 lines/revolution,hall incremental,,,Encoder
+Feeback,2-pole-resolver,2-pole resolver,resolver,2 pole,,,,,Encoder
+Frame Size,130 mm,130 millimeter,130 mm,,,,,,Frame Size
+Frame Size,63 mm,63 millimeter,63 mm,,,,,,Frame Size
+Frame Size,75 mm ,75 millimeter ,75 mm ,,,,,,Frame Size
+Frame Size,300 mm,300 millimeter,300 mm,,,,,,Frame Size
+Frame Size,265 mm,265 millimeter,265 mm,,,,,,Frame Size
+Frame Size,215 mm large frame motors,215 millimeter,215 mm,,,,,,Frame Size
+Frame Size,165 mm,165 millimeter,165 mm,,,,,,Frame Size
+Frame Size,115 mm ,115 millimeter ,115 mm ,,,,,,Frame Size
+Frame Size,100 mm,100 millimeter,100 mm,,,,,,Frame Size
+Magnetic Stack Length,8 in,8 in,8 in.,8 inch,,,,,Magnetic Stack Length
+Magnetic Stack Length,6 in,6 in,6 in.,6 inch,,,,,Magnetic Stack Length
+Magnetic Stack Length,4 in,4 in,4 in.,4 inch,,,,,Magnetic Stack Length
+Magnetic Stack Length,3 in ,3 in ,3 in. ,3 inch ,,,,,Magnetic Stack Length
+Magnetic Stack Length,2 in,2 in,2 in.,2 inch,,,,,Magnetic Stack Length
+Magnetic Stack Length,1 in,1 in,1 in.,1 inch,,,,,Magnetic Stack Length
+Mounting Flange,IEC Metric,,,,,,,,
+Rated Speed,8000 rpm,8000 rpm,8000 RPM,8000 revolutions per minute,,,,,Rated Speed
+Rated Speed,7000 rpm,7000 rpm,7000 RPM,7000 revolutions per minute,,,,,Rated Speed
+Rated Speed,6000 rpm,6000 rpm,6000 RPM,6000 revolutions per minute,,,,,Rated Speed
+Rated Speed,5000 rpm,5000 rpm,5000 RPM,5000 revolutions per minute,,,,,Rated Speed
+Rated Speed,4000 rpm,4000 rpm,4000 RPM,4000 revolutions per minute,,,,,Rated Speed
+Rated Speed,3750 rpm,3750 rpm,3750 RPM,3750 revolutions per minute,,,,,Rated Speed
+Rated Speed,3500 rpm,3500 rpm,3500 RPM,3500 revolutions per minute,,,,,Rated Speed
+Rated Speed,3000 rpm,3000 rpm,3000 RPM,3000 revolutions per minute,,,,,Rated Speed
+Rated Speed,2500 rpm,2500 rpm,2500 RPM,2500 revolutions per minute,,,,,Rated Speed
+Rated Speed,2000 rpm,2000 rpm,2000 RPM,2000 revolutions per minute,,,,,Rated Speed
+Rated Speed,1500 rpm,1500 rpm,1500 RPM,1500 revolutions per minute,,,,,Rated Speed
+Rated Speed,1000 rpm,1000 rpm,1000 RPM,1000 revolutions per minute,,,,,Rated Speed
+Shaft Key/Seal,Shaft key/no shaft seal,"shaft key, but no shaft seal",shaft key,keyed shaft,"shaft key, with no shaft seal",,,,Key
+Shaft Key/Seal,No shaft key/no shaft seal,no shaft key and no shaft seal,no shaft key,,,,,,No Key
+Voltage Class,400V,400 VAC,230 volt,230V AC,400V,400 volt,230 AC,,Voltage
+Voltage Class,200V,200 VAC,460 volt,460V AC,200V,200 volt,460 AC,,Voltage

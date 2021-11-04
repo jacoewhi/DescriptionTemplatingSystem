@@ -1,0 +1,303 @@
+"Product Number",MPN,Manufacturer,Series,"Product Type","Terminal Type",Options,"Contactor Amperage","Control Voltage","Auxiliary Contacts","Main Poles"
+100-E-09-EJ-01,100-E09EJ01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"24-60V AC-DC(w/ PLC input)","0 N.O. 1 N.C.",3
+100-E-09-EJ-10,100-E09EJ10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"24-60V AC-DC(w/ PLC input)","1 N.O. 0 N.C.",3
+100-E-09-EJ-200,100-E09EJ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"24-60V AC-DC(w/ PLC input)","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-09-EJ-400,100-E09EJ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"24-60V AC-DC(w/ PLC input)","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-09-EQ-01,100-E09EQ01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"12-20V DC","0 N.O. 1 N.C.",3
+100-E-09-EQ-10,100-E09EQ10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"12-20V DC","1 N.O. 0 N.C.",3
+100-E-09-EQ-200,100-E09EQ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"12-20V DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-09-EQ-400,100-E09EQ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"12-20V DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-09-KD-01,100-E09KD01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"100-250V AC/DC","0 N.O. 1 N.C.",3
+100-E-09-KD-10,100-E09KD10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"100-250V AC/DC","1 N.O. 0 N.C.",3
+100-E-09-KD-200,100-E09KD200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"100-250V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-09-KD-400,100-E09KD400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"100-250V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-09-KJ-01,100-E09KJ01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"24-60V AC 20-60V DC","0 N.O. 1 N.C.",3
+100-E-09-KJ-10,100-E09KJ10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"24-60V AC 20-60V DC","1 N.O. 0 N.C.",3
+100-E-09-KJ-200,100-E09KJ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-09-KJ-400,100-E09KJ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-09-KN-01,100-E09KN01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"250-500V AC/DC","0 N.O. 1 N.C.",3
+100-E-09-KN-10,100-E09KN10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"250-500V AC/DC","1 N.O. 0 N.C.",3
+100-E-09-KN-200,100-E09KN200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"250-500V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-09-KN-400,100-E09KN400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"250-500V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-09-KY-01,100-E09KY01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"48-130V AC/DC","0 N.O. 1 N.C.",3
+100-E-09-KY-10,100-E09KY10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"48-130V AC/DC","1 N.O. 0 N.C.",3
+100-E-09-KY-200,100-E09KY200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"48-130V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-09-KY-400,100-E09KY400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"48-130V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-09-QJ-01,100-E09QJ01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"24V DC","0 N.O. 1 N.C.",3
+100-E-09-QJ-10,100-E09QJ10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"24V DC","1 N.O. 0 N.C.",3
+100-E-09-QJ-200,100-E09QJ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"24V DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-09-QJ-400,100-E09QJ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",9A,"24V DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-1060-ED-11,100-E1060ED11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","1060 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-116-ED-11,100-E116ED11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","116 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-116-ED-11-L,100-E116ED11L,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","116 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-116-EN-11,100-E116EN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","116 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-116-EN-11-L,100-E116EN11L,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","116 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-116-KD-11,100-E116KD11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","116 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+100-E-116-KD-11-L,100-E116KD11L,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","116 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+100-E-116-KJ-11,100-E116KJ11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","116 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+100-E-116-KJ-11-L,100-E116KJ11L,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","116 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+100-E-116-KN-11,100-E116KN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","116 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+100-E-116-KN-11-L,100-E116KN11L,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","116 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+100-E-116-KY-11,100-E116KY11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","116 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+100-E-116-KY-11-L,100-E116KY11L,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","116 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+100-E-1260-ED-11,100-E1260ED11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","1260 A (AC-1 only)","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-1260-EJ-11,100-E1260EJ11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","1260 A (AC-1 only)","24-60V AC-DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-1260-EY-11,100-E1260EY11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","1260 A (AC-1 only)","48-130V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-12-EJ-01,100-E12EJ01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",12A,"24-60V AC-DC(w/ PLC input)","0 N.O. 1 N.C.",3
+100-E-12-EJ-10,100-E12EJ10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",12A,"24-60V AC-DC(w/ PLC input)","1 N.O. 0 N.C.",3
+100-E-12-EQ-01,100-E12EQ01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",12A,"12-20V DC","0 N.O. 1 N.C.",3
+100-E-12-EQ-10,100-E12EQ10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",12A,"12-20V DC","1 N.O. 0 N.C.",3
+100-E-12-KD-01,100-E12KD01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",12A,"100-250V AC/DC","0 N.O. 1 N.C.",3
+100-E-12-KD-10,100-E12KD10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",12A,"100-250V AC/DC","1 N.O. 0 N.C.",3
+100-E-12-KJ-01,100-E12KJ01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",12A,"24-60V AC 20-60V DC","0 N.O. 1 N.C.",3
+100-E-12-KJ-10,100-E12KJ10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",12A,"24-60V AC 20-60V DC","1 N.O. 0 N.C.",3
+100-E-12-KN-01,100-E12KN01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",12A,"250-500V AC/DC","0 N.O. 1 N.C.",3
+100-E-12-KN-10,100-E12KN10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",12A,"250-500V AC/DC","1 N.O. 0 N.C.",3
+100-E-12-KY-01,100-E12KY01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",12A,"48-130V AC/DC","0 N.O. 1 N.C.",3
+100-E-12-KY-10,100-E12KY10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",12A,"48-130V AC/DC","1 N.O. 0 N.C.",3
+100-E-12-QJ-01,100-E12QJ01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",12A,"24V DC","0 N.O. 1 N.C.",3
+100-E-12-QJ-10,100-E12QJ10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",12A,"24V DC","1 N.O. 0 N.C.",3
+100-E-146-ED-11,100-E146ED11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","146 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-146-ED-11-L,100-E146ED11L,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","146 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-146-EN-11,100-E146EN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","146 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-146-EN-11-L,100-E146EN11L,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","146 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-146-KD-11,100-E146KD11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","146 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+100-E-146-KD-11-L,100-E146KD11L,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","146 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+100-E-146-KJ-11,100-E146KJ11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","146 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+100-E-146-KJ-11-L,100-E146KJ11L,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","146 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+100-E-146-KN-11,100-E146KN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","146 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+100-E-146-KN-11-L,100-E146KN11L,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","146 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+100-E-146-KY-11,100-E146KY11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","146 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+100-E-146-KY-11-L,100-E146KY11L,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","146 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+100-E-16-EJ-01,100-E16EJ01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"24-60V AC-DC(w/ PLC input)","0 N.O. 1 N.C.",3
+100-E-16-EJ-10,100-E16EJ10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"24-60V AC-DC(w/ PLC input)","1 N.O. 0 N.C.",3
+100-E-16-EJ-200,100-E16EJ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"24-60V AC-DC(w/ PLC input)","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-16-EJ-400,100-E16EJ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"24-60V AC-DC(w/ PLC input)","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-16-EQ-01,100-E16EQ01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"12-20V DC","0 N.O. 1 N.C.",3
+100-E-16-EQ-10,100-E16EQ10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"12-20V DC","1 N.O. 0 N.C.",3
+100-E-16-EQ-200,100-E16EQ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"12-20V DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-16-EQ-400,100-E16EQ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"12-20V DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-16-KD-01,100-E16KD01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"100-250V AC/DC","0 N.O. 1 N.C.",3
+100-E-16-KD-10,100-E16KD10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"100-250V AC/DC","1 N.O. 0 N.C.",3
+100-E-16-KD-200,100-E16KD200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"100-250V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-16-KD-400,100-E16KD400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"100-250V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-16-KJ-01,100-E16KJ01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"24-60V AC 20-60V DC","0 N.O. 1 N.C.",3
+100-E-16-KJ-10,100-E16KJ10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"24-60V AC 20-60V DC","1 N.O. 0 N.C.",3
+100-E-16-KJ-200,100-E16KJ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-16-KJ-400,100-E16KJ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-16-KN-01,100-E16KN01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"250-500V AC/DC","0 N.O. 1 N.C.",3
+100-E-16-KN-10,100-E16KN10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"250-500V AC/DC","1 N.O. 0 N.C.",3
+100-E-16-KN-200,100-E16KN200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"250-500V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-16-KN-400,100-E16KN400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"250-500V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-16-KY-01,100-E16KY01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"48-130V AC/DC","0 N.O. 1 N.C.",3
+100-E-16-KY-10,100-E16KY10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"48-130V AC/DC","1 N.O. 0 N.C.",3
+100-E-16-KY-200,100-E16KY200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"48-130V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-16-KY-400,100-E16KY400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"48-130V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-16-QJ-01,100-E16QJ01,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"24V DC","0 N.O. 1 N.C.",3
+100-E-16-QJ-10,100-E16QJ10,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"24V DC","1 N.O. 0 N.C.",3
+100-E-16-QJ-200,100-E16QJ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"24V DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-16-QJ-400,100-E16QJ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",16A,"24V DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-190-ED-11,100-E190ED11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","190 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-190-EN-11,100-E190EN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","190 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-190-KD-11,100-E190KD11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","190 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+100-E-190-KJ-11,100-E190KJ11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","190 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+100-E-190-KN-11,100-E190KN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","190 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+100-E-190-KY-11,100-E190KY11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","190 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+100-E-205-ED-11,100-E205ED11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","205 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-205-EN-11,100-E205EN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","205 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-205-KD-11,100-E205KD11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","205 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+100-E-205-KJ-11,100-E205KJ11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","205 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+100-E-205-KN-11,100-E205KN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","205 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+100-E-205-KY-11,100-E205KY11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","205 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+100-E-265-ED-11,100-E265ED11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","265 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-265-EN-11,100-E265EN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","265 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-265-KD-11,100-E265KD11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","265 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+100-E-265-KJ-11,100-E265KJ11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","265 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+100-E-265-KN-11,100-E265KN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","265 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+100-E-265-KY-11,100-E265KY11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","265 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+100-E-26-EJ-00,100-E26EJ00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"24-60V AC-DC(w/ PLC input)","0 N.O. 0 N.C.",3
+100-E-26-EJ-200,100-E26EJ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"24-60V AC-DC(w/ PLC input)","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-26-EJ-400,100-E26EJ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"24-60V AC-DC(w/ PLC input)","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-26-EQ-00,100-E26EQ00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"12-20V DC","0 N.O. 0 N.C.",3
+100-E-26-EQ-200,100-E26EQ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"12-20V DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-26-EQ-400,100-E26EQ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"12-20V DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-26-KD-00,100-E26KD00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"100-250V AC/DC","0 N.O. 0 N.C.",3
+100-E-26-KD-200,100-E26KD200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"100-250V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-26-KD-400,100-E26KD400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"100-250V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-26-KJ-00,100-E26KJ00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.",3
+100-E-26-KJ-200,100-E26KJ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-26-KJ-400,100-E26KJ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-26-KN-00,100-E26KN00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"250-500V AC/DC","0 N.O. 0 N.C.",3
+100-E-26-KN-200,100-E26KN200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"250-500V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-26-KN-400,100-E26KN400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"250-500V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-26-KY-00,100-E26KY00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"48-130V AC/DC","0 N.O. 0 N.C.",3
+100-E-26-KY-200,100-E26KY200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"48-130V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-26-KY-400,100-E26KY400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"48-130V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-26-QJ-00,100-E26QJ00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"24V DC","0 N.O. 0 N.C.",3
+100-E-26-QJ-200,100-E26QJ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"24V DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-26-QJ-400,100-E26QJ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",26A,"24V DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-305-ED-11,100-E305ED11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","305 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-305-EN-11,100-E305EN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","305 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-305-KD-11,100-E305KD11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","305 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+100-E-305-KJ-11,100-E305KJ11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","305 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+100-E-305-KN-11,100-E305KN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","305 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+100-E-305-KY-11,100-E305KY11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","305 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+100-E-30-EJ-00,100-E30EJ00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",30A,"24-60V AC-DC(w/ PLC input)","0 N.O. 0 N.C.",3
+100-E-30-EQ-00,100-E30EQ00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",30A,"12-20V DC","0 N.O. 0 N.C.",3
+100-E-30-KD-00,100-E30KD00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",30A,"100-250V AC/DC","0 N.O. 0 N.C.",3
+100-E-30-KJ-00,100-E30KJ00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",30A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.",3
+100-E-30-KN-00,100-E30KN00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",30A,"250-500V AC/DC","0 N.O. 0 N.C.",3
+100-E-30-KY-00,100-E30KY00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",30A,"48-130V AC/DC","0 N.O. 0 N.C.",3
+100-E-30-QJ-00,100-E30QJ00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",30A,"24V DC","0 N.O. 0 N.C.",3
+100-E-370-ED-11,100-E370ED11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","370 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-370-EN-11,100-E370EN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","370 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-370-KD-11,100-E370KD11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","370 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+100-E-370-KJ-11,100-E370KJ11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","370 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+100-E-370-KN-11,100-E370KN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","370 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+100-E-370-KY-11,100-E370KY11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","370 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+100-E-38-EJ-00,100-E38EJ00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"24-60V AC-DC(w/ PLC input)","0 N.O. 0 N.C.",3
+100-E-38-EJ-200,100-E38EJ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"24-60V AC-DC(w/ PLC input)","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-38-EJ-400,100-E38EJ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"24-60V AC-DC(w/ PLC input)","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-38-EQ-00,100-E38EQ00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"12-20V DC","0 N.O. 0 N.C.",3
+100-E-38-EQ-200,100-E38EQ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"12-20V DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-38-EQ-400,100-E38EQ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"12-20V DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-38-KD-00,100-E38KD00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"100-250V AC/DC","0 N.O. 0 N.C.",3
+100-E-38-KD-200,100-E38KD200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"100-250V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-38-KD-400,100-E38KD400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"100-250V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-38-KJ-00,100-E38KJ00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.",3
+100-E-38-KJ-200,100-E38KJ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-38-KJ-400,100-E38KJ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-38-KN-00,100-E38KN00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"250-500V AC/DC","0 N.O. 0 N.C.",3
+100-E-38-KN-200,100-E38KN200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"250-500V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-38-KN-400,100-E38KN400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"250-500V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-38-KY-00,100-E38KY00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"48-130V AC/DC","0 N.O. 0 N.C.",3
+100-E-38-KY-200,100-E38KY200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"48-130V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-38-KY-400,100-E38KY400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"48-130V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-38-QJ-00,100-E38QJ00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"24V DC","0 N.O. 0 N.C.",3
+100-E-38-QJ-200,100-E38QJ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"24V DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-38-QJ-400,100-E38QJ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",38A,"24V DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-400-ED-11,100-E400ED11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","400 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-400-EJ-11,100-E400EJ11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","400 A","24-60V AC-DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-400-EN-11,100-E400EN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","400 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-400-EY-11,100-E400EY11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","400 A","48-130V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-40-KD-00,100-E40KD00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",40A,"100-250V AC/DC","0 N.O. 0 N.C.",3
+100-E-40-KD-200,100-E40KD200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",40A,"100-250V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-40-KD-400,100-E40KD400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",40A,"100-250V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-40-KJ-00,100-E40KJ00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",40A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.",3
+100-E-40-KJ-200,100-E40KJ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",40A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-40-KJ-400,100-E40KJ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",40A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-40-KN-00,100-E40KN00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",40A,"250-500V AC/DC","0 N.O. 0 N.C.",3
+100-E-40-KN-200,100-E40KN200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",40A,"250-500V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-40-KN-400,100-E40KN400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",40A,"250-500V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-40-KY-00,100-E40KY00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",40A,"48-130V AC/DC","0 N.O. 0 N.C.",3
+100-E-40-KY-200,100-E40KY200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",40A,"48-130V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-40-KY-400,100-E40KY400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",40A,"48-130V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-460-ED-11,100-E460ED11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","460 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-460-EJ-11,100-E460EJ11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","460 A","24-60V AC-DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-460-EN-11,100-E460EN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","460 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-460-EY-11,100-E460EY11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","460 A","48-130V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-52-KD-00,100-E52KD00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",52A,"100-250V AC/DC","0 N.O. 0 N.C.",3
+100-E-52-KD-400,100-E52KD400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",52A,"100-250V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-52-KJ-00,100-E52KJ00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",52A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.",3
+100-E-52-KJ-400,100-E52KJ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",52A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-52-KN-00,100-E52KN00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",52A,"250-500V AC/DC","0 N.O. 0 N.C.",3
+100-E-52-KN-400,100-E52KN400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",52A,"250-500V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-52-KY-00,100-E52KY00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",52A,"48-130V AC/DC","0 N.O. 0 N.C.",3
+100-E-52-KY-400,100-E52KY400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",52A,"48-130V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-580-ED-11,100-E580ED11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","580 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-580-EJ-11,100-E580EJ11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","580 A","24-60V AC-DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-580-EN-11,100-E580EN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","580 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-580-EY-11,100-E580EY11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","580 A","48-130V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-65-KD-00,100-E65KD00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",65A,"100-250V AC/DC","0 N.O. 0 N.C.",3
+100-E-65-KJ-00,100-E65KJ00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",65A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.",3
+100-E-65-KN-00,100-E65KN00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",65A,"250-500V AC/DC","0 N.O. 0 N.C.",3
+100-E-65-KY-00,100-E65KY00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",65A,"48-130V AC/DC","0 N.O. 0 N.C.",3
+100-E-750-ED-11,100-E750ED11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","750 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-750-EJ-11,100-E750EJ11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","750 A","24-60V AC-DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-750-EN-11,100-E750EN11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","750 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-750-EY-11,100-E750EY11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","750 A","48-130V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-80-KD-00,100-E80KD00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",80A,"100-250V AC/DC","0 N.O. 0 N.C.",3
+100-E-80-KD-200,100-E80KD200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",80A,"100-250V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-80-KD-400,100-E80KD400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",80A,"100-250V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-80-KJ-00,100-E80KJ00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",80A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.",3
+100-E-80-KJ-200,100-E80KJ200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",80A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-80-KJ-400,100-E80KJ400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",80A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-80-KN-00,100-E80KN00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",80A,"250-500V AC/DC","0 N.O. 0 N.C.",3
+100-E-80-KN-200,100-E80KN200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",80A,"250-500V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-80-KN-400,100-E80KN400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",80A,"250-500V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-80-KY-00,100-E80KY00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",80A,"48-130V AC/DC","0 N.O. 0 N.C.",3
+100-E-80-KY-200,100-E80KY200,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",80A,"48-130V AC/DC","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-E-80-KY-400,100-E80KY400,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",80A,"48-130V AC/DC","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-E-860-ED-11,100-E860ED11,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","860 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+100-E-96-KD-00,100-E96KD00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",96A,"100-250V AC/DC","0 N.O. 0 N.C.",3
+100-E-96-KJ-00,100-E96KJ00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",96A,"24-60V AC 20-60V DC","0 N.O. 0 N.C.",3
+100-E-96-KN-00,100-E96KN00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",96A,"250-500V AC/DC","0 N.O. 0 N.C.",3
+100-E-96-KY-00,100-E96KY00,"Allen Bradley","MCS-E Contactor","Large Frame IEC Contactor",Standard,"Bar Connections",96A,"48-130V AC/DC","0 N.O. 0 N.C.",3
+104-E-116-ED-22,104-E116ED22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","116 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-116-ED-22-L,104-E116ED22L,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","116 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-116-EN-22,104-E116EN22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","116 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-116-EN-22-L,104-E116EN22L,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","116 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-116-KD-22,104-E116KD22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","116 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+104-E-116-KD-22-L,104-E116KD22L,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","116 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+104-E-116-KJ-22,104-E116KJ22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","116 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+104-E-116-KJ-22-L,104-E116KJ22L,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","116 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+104-E-116-KN-22,104-E116KN22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","116 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+104-E-116-KN-22-L,104-E116KN22L,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","116 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+104-E-116-KY-22,104-E116KY22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","116 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+104-E-116-KY-22-L,104-E116KY22L,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","116 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+104-E-146-ED-22,104-E146ED22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","146 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-146-ED-22-L,104-E146ED22L,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","146 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-146-EN-22,104-E146EN22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","146 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-146-EN-22-L,104-E146EN22L,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","146 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-146-KD-22,104-E146KD22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","146 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+104-E-146-KD-22-L,104-E146KD22L,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","146 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+104-E-146-KJ-22,104-E146KJ22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","146 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+104-E-146-KJ-22-L,104-E146KJ22L,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","146 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+104-E-146-KN-22,104-E146KN22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","146 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+104-E-146-KN-22-L,104-E146KN22L,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","146 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+104-E-146-KY-22,104-E146KY22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","146 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+104-E-146-KY-22-L,104-E146KY22L,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"With Built-in Lugs","146 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+104-E-190-ED-22,104-E190ED22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","190 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-190-EN-22,104-E190EN22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","190 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-190-KD-22,104-E190KD22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","190 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+104-E-190-KJ-22,104-E190KJ22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","190 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+104-E-190-KN-22,104-E190KN22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","190 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+104-E-190-KY-22,104-E190KY22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","190 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+104-E-205-ED-22,104-E205ED22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","205 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-205-EN-22,104-E205EN22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","205 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-205-KD-22,104-E205KD22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","205 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+104-E-205-KJ-22,104-E205KJ22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","205 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+104-E-205-KN-22,104-E205KN22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","205 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+104-E-205-KY-22,104-E205KY22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","205 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+104-E-265-ED-22,104-E265ED22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","265 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-265-EN-22,104-E265EN22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","265 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-265-KD-22,104-E265KD22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","265 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+104-E-265-KJ-22,104-E265KJ22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","265 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+104-E-265-KN-22,104-E265KN22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","265 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+104-E-265-KY-22,104-E265KY22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","265 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+104-E-305-ED-22,104-E305ED22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","305 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-305-EN-22,104-E305EN22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","305 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-305-KD-22,104-E305KD22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","305 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+104-E-305-KJ-22,104-E305KJ22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","305 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+104-E-305-KN-22,104-E305KN22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","305 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+104-E-305-KY-22,104-E305KY22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","305 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+104-E-370-ED-22,104-E370ED22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","370 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-370-EN-22,104-E370EN22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","370 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-370-KD-22,104-E370KD22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","370 A","100-250V AC/DC","1 N.O. 1 N.C.",3
+104-E-370-KJ-22,104-E370KJ22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","370 A","24-60V AC 20-60V DC","1 N.O. 1 N.C.",3
+104-E-370-KN-22,104-E370KN22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","370 A","250-500V AC/DC","1 N.O. 1 N.C.",3
+104-E-370-KY-22,104-E370KY22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","370 A","48-130V AC/DC","1 N.O. 1 N.C.",3
+104-E-400-ED-22,104-E400ED22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","400 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-400-EJ-22,104-E400EJ22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","400 A","24-60V AC-DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-400-EN-22,104-E400EN22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","400 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-400-EY-22,104-E400EY22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","400 A","48-130V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-460-ED-22,104-E460ED22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","460 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-460-EJ-22,104-E460EJ22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","460 A","24-60V AC-DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-460-EN-22,104-E460EN22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","460 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-460-EY-22,104-E460EY22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","460 A","48-130V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-580-ED-22,104-E580ED22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","580 A","100-250V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-580-EJ-22,104-E580EJ22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","580 A","24-60V AC-DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-580-EN-22,104-E580EN22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","580 A","250-500V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-580-EY-22,104-E580EY22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","580 A","48-130V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-750-EJ-22,104-E750EJ22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","750 A","24-60V AC-DC(w/ PLC input)","1 N.O. 1 N.C.",3
+104-E-750-EY-22,104-E750EY22,"Allen Bradley","MCS-E Reversing Contactor","Large Frame IEC Contactor",Standard,"Bar Connections","750 A","48-130V AC/DC(w/ PLC input)","1 N.O. 1 N.C.",3

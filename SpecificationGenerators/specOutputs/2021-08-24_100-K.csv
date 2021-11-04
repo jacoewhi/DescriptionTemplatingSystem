@@ -1,0 +1,687 @@
+"Product Number",MPN,Series,Manufacturer,"Product Type","Terminal Type","Contactor Amperage","Control Voltage","Control Frequency","Auxiliary Contacts","Main Poles",Options
+100-K,100-K-VCM,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K,100-K-VLM,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K,100-K-VPM,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K,100-K-VTM,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-05-B-01,100-K05B01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"480V 60Hz",60Hz,"0 N.O. 1 N.C.",3
+100-K-05-B-01-M,100-K05B01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"480V 60Hz",60Hz,"0 N.O. 1 N.C.",3
+100-K-05-B-10,100-K05B10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"480V 60Hz",60Hz,"1 N.O. 0 N.C.",3
+100-K-05-B-10-M,100-K05B10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"480V 60Hz",60Hz,"1 N.O. 0 N.C.",3
+100-K-05-B-200,100-K05B200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-B-200-M,100-K05B200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-B-300,100-K05B300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-B-300-M,100-K05B300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-B-400,100-K05B400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-B-400-M,100-K05B400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-D-01,100-K05D01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 1 N.C.",3
+100-K-05-D-01-M,100-K05D01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 1 N.C.",3
+100-K-05-D-10,100-K05D10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","1 N.O. 0 N.C.",3
+100-K-05-D-10-M,100-K05D10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","1 N.O. 0 N.C.",3
+100-K-05-D-200,100-K05D200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-D-200-M,100-K05D200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-D-300,100-K05D300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-D-300-M,100-K05D300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-D-400,100-K05D400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-D-400-M,100-K05D400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-DJ-01,100-K05DJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 1 N.C.",3
+100-K-05-DJ-01-M,100-K05DJ01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 1 N.C.",3
+100-K-05-DJ-10,100-K05DJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"1 N.O. 0 N.C.",3
+100-K-05-DJ-10-M,100-K05DJ10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"1 N.O. 0 N.C.",3
+100-K-05-DJ-200,100-K05DJ200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-DJ-200-M,100-K05DJ200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-DJ-300,100-K05DJ300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-DJ-300-M,100-K05DJ300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-DJ-400,100-K05DJ400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-DJ-400-M,100-K05DJ400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-KA-01,100-K05KA01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"240V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-05-KA-01-M,100-K05KA01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"240V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-05-KA-10,100-K05KA10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"240V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-05-KA-10-M,100-K05KA10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"240V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-05-KA-200,100-K05KA200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-KA-200-M,100-K05KA200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-KA-300,100-K05KA300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-KA-300-M,100-K05KA300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-KA-400,100-K05KA400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-KA-400-M,100-K05KA400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-KF-01,100-K05KF01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"230V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-05-KF-01-M,100-K05KF01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"230V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-05-KF-10,100-K05KF10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"230V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-05-KF-10-M,100-K05KF10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"230V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-05-KF-200,100-K05KF200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-KF-200-M,100-K05KF200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-KF-300,100-K05KF300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-KF-300-M,100-K05KF300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-KF-400,100-K05KF400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-KF-400-M,100-K05KF400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-KG-01,100-K05KG01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"200V AC 50Hz, 200-220V AC 60Hz","50, 60Hz","0 N.O. 1 N.C.",3
+100-K-05-KG-10,100-K05KG10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"200V AC 50Hz, 200-220V AC 60Hz","50, 60Hz","1 N.O. 0 N.C.",3
+100-K-05-KG-10-M,100-K05KG10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"200V AC 50Hz, 200-220V AC 60Hz","50, 60Hz","1 N.O. 0 N.C.",3
+100-K-05-KG-200,100-K05KG200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"200V AC 50Hz, 200-220V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-KG-300,100-K05KG300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"200V AC 50Hz, 200-220V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-KG-400,100-K05KG400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"200V AC 50Hz, 200-220V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-KJ-01,100-K05KJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-05-KJ-01-M,100-K05KJ01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-05-KJ-10,100-K05KJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V AC 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-05-KJ-10-M,100-K05KJ10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V AC 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-05-KJ-200,100-K05KJ200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-KJ-200-M,100-K05KJ200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-KJ-300,100-K05KJ300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-KJ-300-M,100-K05KJ300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-KJ-400,100-K05KJ400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-KJ-400-M,100-K05KJ400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-KN-01,100-K05KN01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"400V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-05-KN-01-M,100-K05KN01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"400V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-05-KN-10,100-K05KN10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"400V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-05-KN-10-M,100-K05KN10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"400V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-05-KN-200,100-K05KN200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-KN-200-M,100-K05KN200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-KN-300,100-K05KN300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-KN-300-M,100-K05KN300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-KN-400,100-K05KN400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-KN-400-M,100-K05KN400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-KQ-10,100-K05KQ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"1 N.O. 0 N.C.",3
+100-K-05-KV-01,100-K05KV01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 1 N.C.",3
+100-K-05-KY-01,100-K05KY01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"48V AC 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-05-KY-10,100-K05KY10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"48V AC 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-05-KY-400,100-K05KY400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"48V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-N-01,100-K05N01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"380-400V 50Hz, 440V 60Hz","50, 60Hz","0 N.O. 1 N.C.",3
+100-K-05-N-10,100-K05N10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"380-400V 50Hz, 440V 60Hz","50, 60Hz","1 N.O. 0 N.C.",3
+100-K-05-VC-01,100-K05VC01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"600V 60Hz",60Hz,"0 N.O. 1 N.C.",3
+100-K-05-VC-01-M,100-K05VC01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"600V 60Hz",60Hz,"0 N.O. 1 N.C.",3
+100-K-05-VC-10,100-K05VC10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"600V 60Hz",60Hz,"1 N.O. 0 N.C.",3
+100-K-05-VC-10-M,100-K05VC10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"600V 60Hz",60Hz,"1 N.O. 0 N.C.",3
+100-K-05-VC-200,100-K05VC200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-VC-200-M,100-K05VC200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-VC-300,100-K05VC300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-VC-300-M,100-K05VC300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-VC-400,100-K05VC400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-VC-400-M,100-K05VC400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-VE-01,100-K05VE01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 1 N.C.",3
+100-K-05-VG-01,100-K05VG01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 1 N.C.",3
+100-K-05-WD-01,100-K05WD01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 1 N.C.",3
+100-K-05-WD-01-M,100-K05WD01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 1 N.C.",3
+100-K-05-WD-10,100-K05WD10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"1 N.O. 0 N.C.",3
+100-K-05-WD-10-M,100-K05WD10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"1 N.O. 0 N.C.",3
+100-K-05-WF-01,100-K05WF01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 1 N.C.",3
+100-K-05-WF-01-M,100-K05WF01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 1 N.C.",3
+100-K-05-WF-10,100-K05WF10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"1 N.O. 0 N.C.",3
+100-K-05-WF-10-M,100-K05WF10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"1 N.O. 0 N.C.",3
+100-K-05-WJ-01,100-K05WJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 1 N.C.",3
+100-K-05-WJ-01-M,100-K05WJ01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 1 N.C.",3
+100-K-05-WJ-10,100-K05WJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"1 N.O. 0 N.C.",3
+100-K-05-WJ-10-M,100-K05WJ10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"1 N.O. 0 N.C.",3
+100-K-05-ZA-01,100-K05ZA01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"220V DC",-,"0 N.O. 1 N.C.",3
+100-K-05-ZA-01-M,100-K05ZA01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"220V DC",-,"0 N.O. 1 N.C.",3
+100-K-05-ZA-10,100-K05ZA10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"220V DC",-,"1 N.O. 0 N.C.",3
+100-K-05-ZA-10-M,100-K05ZA10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"220V DC",-,"1 N.O. 0 N.C.",3
+100-K-05-ZA-200,100-K05ZA200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"220V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-ZA-200-M,100-K05ZA200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"220V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-ZA-300,100-K05ZA300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"220V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-ZA-300-M,100-K05ZA300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"220V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-ZA-400,100-K05ZA400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"220V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-ZA-400-M,100-K05ZA400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"220V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-ZD-01,100-K05ZD01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V DC",-,"0 N.O. 1 N.C.",3
+100-K-05-ZD-01-M,100-K05ZD01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V DC",-,"0 N.O. 1 N.C.",3
+100-K-05-ZD-10,100-K05ZD10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V DC",-,"1 N.O. 0 N.C.",3
+100-K-05-ZD-10-M,100-K05ZD10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V DC",-,"1 N.O. 0 N.C.",3
+100-K-05-ZD-200,100-K05ZD200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-ZD-200-M,100-K05ZD200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-ZD-300,100-K05ZD300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-ZD-300-M,100-K05ZD300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-ZD-400,100-K05ZD400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-ZD-400-M,100-K05ZD400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-ZE-01,100-K05ZE01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 1 N.C.",3
+100-K-05-ZJ-01,100-K05ZJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 1 N.C.",3
+100-K-05-ZJ-01-M,100-K05ZJ01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 1 N.C.",3
+100-K-05-ZJ-10,100-K05ZJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"1 N.O. 0 N.C.",3
+100-K-05-ZJ-10-M,100-K05ZJ10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"1 N.O. 0 N.C.",3
+100-K-05-ZJ-200,100-K05ZJ200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-ZJ-200-M,100-K05ZJ200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-ZJ-300,100-K05ZJ300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-ZJ-300-M,100-K05ZJ300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-ZJ-400,100-K05ZJ400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-ZJ-400-M,100-K05ZJ400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-ZQ-01,100-K05ZQ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"12V DC",-,"0 N.O. 1 N.C.",3
+100-K-05-ZQ-01-M,100-K05ZQ01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"12V DC",-,"0 N.O. 1 N.C.",3
+100-K-05-ZQ-10,100-K05ZQ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"12V DC",-,"1 N.O. 0 N.C.",3
+100-K-05-ZQ-10-M,100-K05ZQ10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"12V DC",-,"1 N.O. 0 N.C.",3
+100-K-05-ZQ-200,100-K05ZQ200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"12V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-ZQ-200-M,100-K05ZQ200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"12V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-ZQ-300,100-K05ZQ300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"12V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-ZQ-300-M,100-K05ZQ300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"12V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-ZQ-400,100-K05ZQ400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"12V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-ZQ-400-M,100-K05ZQ400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"12V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-ZS-01,100-K05ZS01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"125V DC",-,"0 N.O. 1 N.C.",3
+100-K-05-ZS-01-M,100-K05ZS01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"125V DC",-,"0 N.O. 1 N.C.",3
+100-K-05-ZS-10,100-K05ZS10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"125V DC",-,"1 N.O. 0 N.C.",3
+100-K-05-ZS-10-M,100-K05ZS10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"125V DC",-,"1 N.O. 0 N.C.",3
+100-K-05-ZS-200,100-K05ZS200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"125V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-ZS-200-M,100-K05ZS200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"125V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-ZS-300,100-K05ZS300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"125V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-ZS-300-M,100-K05ZS300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"125V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-ZS-400,100-K05ZS400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"125V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-ZS-400-M,100-K05ZS400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"125V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-ZT-01,100-K05ZT01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"250V DC",-,"0 N.O. 1 N.C.",3
+100-K-05-ZT-01-M,100-K05ZT01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"250V DC",-,"0 N.O. 1 N.C.",3
+100-K-05-ZT-10,100-K05ZT10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"250V DC",-,"1 N.O. 0 N.C.",3
+100-K-05-ZT-10-M,100-K05ZT10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"250V DC",-,"1 N.O. 0 N.C.",3
+100-K-05-ZT-200,100-K05ZT200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"250V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-ZT-200-M,100-K05ZT200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"250V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-ZT-300,100-K05ZT300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"250V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-ZT-300-M,100-K05ZT300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"250V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-ZT-400,100-K05ZT400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"250V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-ZT-400-M,100-K05ZT400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"250V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-05-ZW-01,100-K05ZW01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 1 N.C.",3
+100-K-05-ZW-10,100-K05ZW10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"1 N.O. 0 N.C.",3
+100-K-05-ZY-01,100-K05ZY01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 1 N.C.",3
+100-K-05-ZY-10,100-K05ZY10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"1 N.O. 0 N.C.",3
+100-K-05-ZY-200-M,100-K05ZY200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-ZY-300-M,100-K05ZY300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-ZZ-200,100-K05ZZ200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-ZZ-200-M,100-K05ZZ200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-05-ZZ-300,100-K05ZZ300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-05-ZZ-300-M,100-K05ZZ300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-B-01,100-K09B01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"480V 60Hz",60Hz,"0 N.O. 1 N.C.",3
+100-K-09-B-01-M,100-K09B01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"480V 60Hz",60Hz,"0 N.O. 1 N.C.",3
+100-K-09-B-10,100-K09B10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"480V 60Hz",60Hz,"1 N.O. 0 N.C.",3
+100-K-09-B-10-M,100-K09B10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"480V 60Hz",60Hz,"1 N.O. 0 N.C.",3
+100-K-09-B-200,100-K09B200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-B-200-M,100-K09B200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-B-300,100-K09B300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-B-300-M,100-K09B300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-B-400,100-K09B400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-B-400-M,100-K09B400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-D-01,100-K09D01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 1 N.C.",3
+100-K-09-D-01-M,100-K09D01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 1 N.C.",3
+100-K-09-D-10,100-K09D10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","1 N.O. 0 N.C.",3
+100-K-09-D-10-M,100-K09D10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","1 N.O. 0 N.C.",3
+100-K-09-D-200,100-K09D200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-D-200-M,100-K09D200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-D-300,100-K09D300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-D-300-M,100-K09D300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-D-400,100-K09D400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-D-400-M,100-K09D400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-DJ-01,100-K09DJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 1 N.C.",3
+100-K-09-DJ-01-M,100-K09DJ01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 1 N.C.",3
+100-K-09-DJ-10,100-K09DJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"1 N.O. 0 N.C.",3
+100-K-09-DJ-10-M,100-K09DJ10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"1 N.O. 0 N.C.",3
+100-K-09-DJ-200,100-K09DJ200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-DJ-200-M,100-K09DJ200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-DJ-300,100-K09DJ300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-DJ-300-M,100-K09DJ300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-DJ-400,100-K09DJ400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-DJ-400-M,100-K09DJ400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-KA-01,100-K09KA01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"240V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-09-KA-01-M,100-K09KA01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"240V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-09-KA-10,100-K09KA10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"240V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-09-KA-10-M,100-K09KA10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"240V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-09-KA-200,100-K09KA200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-KA-200-M,100-K09KA200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-KA-300,100-K09KA300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-KA-300-M,100-K09KA300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-KA-400,100-K09KA400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-KA-400-M,100-K09KA400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-KF-01,100-K09KF01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"230V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-09-KF-01-M,100-K09KF01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"230V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-09-KF-10,100-K09KF10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"230V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-09-KF-10-M,100-K09KF10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"230V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-09-KF-200,100-K09KF200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-KF-200-M,100-K09KF200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-KF-300,100-K09KF300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-KF-300-M,100-K09KF300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-KF-400,100-K09KF400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-KF-400-M,100-K09KF400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-KG-01,100-K09KG01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"200V AC 50Hz, 200-220V AC 60Hz","50, 60Hz","0 N.O. 1 N.C.",3
+100-K-09-KG-10,100-K09KG10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"200V AC 50Hz, 200-220V AC 60Hz","50, 60Hz","1 N.O. 0 N.C.",3
+100-K-09-KG-200,100-K09KG200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"200V AC 50Hz, 200-220V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-KG-300,100-K09KG300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"200V AC 50Hz, 200-220V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-KG-400,100-K09KG400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"200V AC 50Hz, 200-220V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-KJ-01,100-K09KJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-09-KJ-01-M,100-K09KJ01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-09-KJ-10,100-K09KJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V AC 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-09-KJ-10-M,100-K09KJ10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V AC 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-09-KJ-200,100-K09KJ200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-KJ-200-M,100-K09KJ200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-KJ-300,100-K09KJ300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-KJ-300-M,100-K09KJ300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-KJ-400,100-K09KJ400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-KJ-400-M,100-K09KJ400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-KN-01,100-K09KN01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"400V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-09-KN-01-M,100-K09KN01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"400V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-09-KN-10,100-K09KN10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"400V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-09-KN-10-M,100-K09KN10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"400V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-09-KN-200,100-K09KN200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-KN-200-M,100-K09KN200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-KN-300,100-K09KN300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-KN-300-M,100-K09KN300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-KN-400,100-K09KN400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-KN-400-M,100-K09KN400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-KQ-10,100-K09KQ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"1 N.O. 0 N.C.",3
+100-K-09-KR-10,100-K09KR10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"1 N.O. 0 N.C.",3
+100-K-09-KW-01,100-K09KW01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 1 N.C.",3
+100-K-09-KW-10,100-K09KW10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"1 N.O. 0 N.C.",3
+100-K-09-KW-400,100-K09KW400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-KY-01,100-K09KY01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"48V AC 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-09-KY-10,100-K09KY10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"48V AC 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-09-KY-10-M,100-K09KY10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"48V AC 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-09-KY-200,100-K09KY200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"48V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-KY-300,100-K09KY300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"48V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-KY-400,100-K09KY400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"48V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-N-01,100-K09N01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"380-400V 50Hz, 440V 60Hz","50, 60Hz","0 N.O. 1 N.C.",3
+100-K-09-N-10,100-K09N10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"380-400V 50Hz, 440V 60Hz","50, 60Hz","1 N.O. 0 N.C.",3
+100-K-09-N-400,100-K09N400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"380-400V 50Hz, 440V 60Hz","50, 60Hz","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-VC-01,100-K09VC01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"600V 60Hz",60Hz,"0 N.O. 1 N.C.",3
+100-K-09-VC-01-M,100-K09VC01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"600V 60Hz",60Hz,"0 N.O. 1 N.C.",3
+100-K-09-VC-10,100-K09VC10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"600V 60Hz",60Hz,"1 N.O. 0 N.C.",3
+100-K-09-VC-10-M,100-K09VC10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"600V 60Hz",60Hz,"1 N.O. 0 N.C.",3
+100-K-09-VC-200,100-K09VC200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-VC-200-M,100-K09VC200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-VC-300,100-K09VC300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-VC-300-M,100-K09VC300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-VC-400,100-K09VC400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-VC-400-M,100-K09VC400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-VT-10,100-K09VT10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"1 N.O. 0 N.C.",3
+100-K-09-VU-01,100-K09VU01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 1 N.C.",3
+100-K-09-WD-01,100-K09WD01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 1 N.C.",3
+100-K-09-WD-01-M,100-K09WD01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 1 N.C.",3
+100-K-09-WD-10,100-K09WD10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"1 N.O. 0 N.C.",3
+100-K-09-WD-10-M,100-K09WD10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"1 N.O. 0 N.C.",3
+100-K-09-WF-01,100-K09WF01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 1 N.C.",3
+100-K-09-WF-01-M,100-K09WF01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 1 N.C.",3
+100-K-09-WF-10,100-K09WF10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"1 N.O. 0 N.C.",3
+100-K-09-WF-10-M,100-K09WF10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"1 N.O. 0 N.C.",3
+100-K-09-WJ-01,100-K09WJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 1 N.C.",3
+100-K-09-WJ-01-M,100-K09WJ01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 1 N.C.",3
+100-K-09-WJ-10,100-K09WJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"1 N.O. 0 N.C.",3
+100-K-09-WJ-10-M,100-K09WJ10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"1 N.O. 0 N.C.",3
+100-K-09-ZA-01,100-K09ZA01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"220V DC",-,"0 N.O. 1 N.C.",3
+100-K-09-ZA-01-M,100-K09ZA01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"220V DC",-,"0 N.O. 1 N.C.",3
+100-K-09-ZA-10,100-K09ZA10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"220V DC",-,"1 N.O. 0 N.C.",3
+100-K-09-ZA-10-M,100-K09ZA10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"220V DC",-,"1 N.O. 0 N.C.",3
+100-K-09-ZA-200,100-K09ZA200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"220V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-ZA-200-M,100-K09ZA200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"220V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-ZA-300,100-K09ZA300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"220V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-ZA-300-M,100-K09ZA300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"220V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-ZA-400,100-K09ZA400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"220V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-ZA-400-M,100-K09ZA400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"220V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-ZD-01,100-K09ZD01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V DC",-,"0 N.O. 1 N.C.",3
+100-K-09-ZD-01-M,100-K09ZD01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V DC",-,"0 N.O. 1 N.C.",3
+100-K-09-ZD-10,100-K09ZD10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V DC",-,"1 N.O. 0 N.C.",3
+100-K-09-ZD-10-M,100-K09ZD10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V DC",-,"1 N.O. 0 N.C.",3
+100-K-09-ZD-200,100-K09ZD200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-ZD-200-M,100-K09ZD200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-ZD-300,100-K09ZD300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-ZD-300-M,100-K09ZD300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-ZD-400,100-K09ZD400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-ZD-400-M,100-K09ZD400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-ZE-01,100-K09ZE01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 1 N.C.",3
+100-K-09-ZJ-01,100-K09ZJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 1 N.C.",3
+100-K-09-ZJ-01-M,100-K09ZJ01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 1 N.C.",3
+100-K-09-ZJ-10,100-K09ZJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"1 N.O. 0 N.C.",3
+100-K-09-ZJ-10-M,100-K09ZJ10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"1 N.O. 0 N.C.",3
+100-K-09-ZJ-200,100-K09ZJ200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-ZJ-200-M,100-K09ZJ200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-ZJ-300,100-K09ZJ300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-ZJ-300-M,100-K09ZJ300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-ZJ-400,100-K09ZJ400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-ZJ-400-M,100-K09ZJ400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-ZQ-01,100-K09ZQ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"12V DC",-,"0 N.O. 1 N.C.",3
+100-K-09-ZQ-01-M,100-K09ZQ01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"12V DC",-,"0 N.O. 1 N.C.",3
+100-K-09-ZQ-10,100-K09ZQ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"12V DC",-,"1 N.O. 0 N.C.",3
+100-K-09-ZQ-10-M,100-K09ZQ10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"12V DC",-,"1 N.O. 0 N.C.",3
+100-K-09-ZQ-200,100-K09ZQ200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"12V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-ZQ-200-M,100-K09ZQ200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"12V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-ZQ-300,100-K09ZQ300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"12V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-ZQ-300-M,100-K09ZQ300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"12V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-ZQ-400,100-K09ZQ400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"12V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-ZQ-400-M,100-K09ZQ400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"12V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-ZR-01-M,100-K09ZR01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 1 N.C.",3
+100-K-09-ZR-400-M,100-K09ZR400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-ZS-01,100-K09ZS01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"125V DC",-,"0 N.O. 1 N.C.",3
+100-K-09-ZS-01-M,100-K09ZS01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"125V DC",-,"0 N.O. 1 N.C.",3
+100-K-09-ZS-10,100-K09ZS10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"125V DC",-,"1 N.O. 0 N.C.",3
+100-K-09-ZS-10-M,100-K09ZS10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"125V DC",-,"1 N.O. 0 N.C.",3
+100-K-09-ZS-200,100-K09ZS200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"125V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-ZS-200-M,100-K09ZS200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"125V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-ZS-300,100-K09ZS300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"125V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-ZS-300-M,100-K09ZS300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"125V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-ZS-400,100-K09ZS400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"125V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-ZS-400-M,100-K09ZS400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"125V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-ZT-01,100-K09ZT01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"250V DC",-,"0 N.O. 1 N.C.",3
+100-K-09-ZT-01-M,100-K09ZT01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"250V DC",-,"0 N.O. 1 N.C.",3
+100-K-09-ZT-10,100-K09ZT10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"250V DC",-,"1 N.O. 0 N.C.",3
+100-K-09-ZT-10-M,100-K09ZT10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"250V DC",-,"1 N.O. 0 N.C.",3
+100-K-09-ZT-200,100-K09ZT200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"250V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-ZT-200-M,100-K09ZT200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"250V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-ZT-300,100-K09ZT300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"250V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-ZT-300-M,100-K09ZT300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"250V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-09-ZT-400,100-K09ZT400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"250V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-ZT-400-M,100-K09ZT400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"250V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-ZU-10,100-K09ZU10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"1 N.O. 0 N.C.",3
+100-K-09-ZU-400,100-K09ZU400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-ZW-01,100-K09ZW01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 1 N.C.",3
+100-K-09-ZW-10,100-K09ZW10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"1 N.O. 0 N.C.",3
+100-K-09-ZY-01,100-K09ZY01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 1 N.C.",3
+100-K-09-ZY-10,100-K09ZY10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"1 N.O. 0 N.C.",3
+100-K-09-ZY-200,100-K09ZY200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-09-ZY-400,100-K09ZY400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-09-ZZ-01,100-K09ZZ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"0 N.O. 1 N.C.",3
+100-K-09-ZZ-10,100-K09ZZ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,-,-,"1 N.O. 0 N.C.",3
+100-K-12-B-01,100-K12B01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"480V 60Hz",60Hz,"0 N.O. 1 N.C.",3
+100-K-12-B-01-M,100-K12B01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"480V 60Hz",60Hz,"0 N.O. 1 N.C.",3
+100-K-12-B-10,100-K12B10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"480V 60Hz",60Hz,"1 N.O. 0 N.C.",3
+100-K-12-B-10-M,100-K12B10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"480V 60Hz",60Hz,"1 N.O. 0 N.C.",3
+100-K-12-B-200,100-K12B200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-B-200-M,100-K12B200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-B-300,100-K12B300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-B-300-M,100-K12B300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-B-400,100-K12B400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-B-400-M,100-K12B400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"480V 60Hz",60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-D-01,100-K12D01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 1 N.C.",3
+100-K-12-D-01-M,100-K12D01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 1 N.C.",3
+100-K-12-D-10,100-K12D10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","1 N.O. 0 N.C.",3
+100-K-12-D-10-M,100-K12D10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","1 N.O. 0 N.C.",3
+100-K-12-D-200,100-K12D200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-D-200-M,100-K12D200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-D-300,100-K12D300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-D-300-M,100-K12D300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-D-400,100-K12D400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-D-400-M,100-K12D400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-DJ-01,100-K12DJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 1 N.C.",3
+100-K-12-DJ-01-M,100-K12DJ01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 1 N.C.",3
+100-K-12-DJ-10,100-K12DJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"1 N.O. 0 N.C.",3
+100-K-12-DJ-10-M,100-K12DJ10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"1 N.O. 0 N.C.",3
+100-K-12-DJ-200,100-K12DJ200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-DJ-200-M,100-K12DJ200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-DJ-300,100-K12DJ300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-DJ-300-M,100-K12DJ300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-DJ-400,100-K12DJ400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-DJ-400-M,100-K12DJ400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-KA-01,100-K12KA01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"240V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-12-KA-01-M,100-K12KA01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"240V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-12-KA-10,100-K12KA10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"240V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-12-KA-10-M,100-K12KA10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"240V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-12-KA-200,100-K12KA200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-KA-200-M,100-K12KA200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-KA-300,100-K12KA300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-KA-300-M,100-K12KA300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-KA-400,100-K12KA400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-KA-400-M,100-K12KA400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"240V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-KF-01,100-K12KF01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"230V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-12-KF-01-M,100-K12KF01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"230V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-12-KF-10,100-K12KF10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"230V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-12-KF-10-M,100-K12KF10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"230V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-12-KF-200,100-K12KF200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-KF-200-M,100-K12KF200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-KF-300,100-K12KF300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-KF-300-M,100-K12KF300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-KF-400,100-K12KF400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-KF-400-M,100-K12KF400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"230V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-KG-01,100-K12KG01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"200V AC 50Hz, 200-220V AC 60Hz","50, 60Hz","0 N.O. 1 N.C.",3
+100-K-12-KG-10,100-K12KG10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"200V AC 50Hz, 200-220V AC 60Hz","50, 60Hz","1 N.O. 0 N.C.",3
+100-K-12-KG-10-M,100-K12KG10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"200V AC 50Hz, 200-220V AC 60Hz","50, 60Hz","1 N.O. 0 N.C.",3
+100-K-12-KG-200,100-K12KG200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"200V AC 50Hz, 200-220V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-KG-300,100-K12KG300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"200V AC 50Hz, 200-220V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-KG-400,100-K12KG400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"200V AC 50Hz, 200-220V AC 60Hz","50, 60Hz","0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-KJ-01,100-K12KJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-12-KJ-01-M,100-K12KJ01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-12-KJ-10,100-K12KJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V AC 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-12-KJ-10-M,100-K12KJ10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V AC 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-12-KJ-200,100-K12KJ200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-KJ-200-M,100-K12KJ200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-KJ-300,100-K12KJ300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-KJ-300-M,100-K12KJ300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-KJ-400,100-K12KJ400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-KJ-400-M,100-K12KJ400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-KN-01,100-K12KN01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"400V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-12-KN-01-M,100-K12KN01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"400V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-12-KN-10,100-K12KN10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"400V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-12-KN-10-M,100-K12KN10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"400V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-12-KN-200,100-K12KN200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-KN-200-M,100-K12KN200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-KN-300,100-K12KN300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-KN-300-M,100-K12KN300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-KN-400,100-K12KN400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-KN-400-M,100-K12KN400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"400V 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-KQ-01,100-K12KQ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 1 N.C.",3
+100-K-12-KQ-10,100-K12KQ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"1 N.O. 0 N.C.",3
+100-K-12-KW-01,100-K12KW01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 1 N.C.",3
+100-K-12-KW-200,100-K12KW200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-KY-01,100-K12KY01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"48V AC 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-K-12-KY-10,100-K12KY10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"48V AC 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-K-12-KY-300,100-K12KY300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"48V AC 50/60Hz",50/60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-N-01,100-K12N01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"380-400V 50Hz, 440V 60Hz","50, 60Hz","0 N.O. 1 N.C.",3
+100-K-12-N-10,100-K12N10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"380-400V 50Hz, 440V 60Hz","50, 60Hz","1 N.O. 0 N.C.",3
+100-K-12-VC-01,100-K12VC01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"600V 60Hz",60Hz,"0 N.O. 1 N.C.",3
+100-K-12-VC-01-M,100-K12VC01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"600V 60Hz",60Hz,"0 N.O. 1 N.C.",3
+100-K-12-VC-10,100-K12VC10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"600V 60Hz",60Hz,"1 N.O. 0 N.C.",3
+100-K-12-VC-10-M,100-K12VC10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"600V 60Hz",60Hz,"1 N.O. 0 N.C.",3
+100-K-12-VC-200,100-K12VC200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-VC-200-M,100-K12VC200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-VC-300,100-K12VC300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-VC-300-M,100-K12VC300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-VC-400,100-K12VC400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-VC-400-M,100-K12VC400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"600V 60Hz",60Hz,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-WD-01,100-K12WD01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 1 N.C.",3
+100-K-12-WD-01-M,100-K12WD01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 1 N.C.",3
+100-K-12-WD-10,100-K12WD10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"1 N.O. 0 N.C.",3
+100-K-12-WD-10-M,100-K12WD10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"1 N.O. 0 N.C.",3
+100-K-12-WF-01,100-K12WF01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 1 N.C.",3
+100-K-12-WF-01-M,100-K12WF01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 1 N.C.",3
+100-K-12-WF-10,100-K12WF10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"1 N.O. 0 N.C.",3
+100-K-12-WF-10-M,100-K12WF10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"1 N.O. 0 N.C.",3
+100-K-12-WJ-01,100-K12WJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 1 N.C.",3
+100-K-12-WJ-01-M,100-K12WJ01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 1 N.C.",3
+100-K-12-WJ-10,100-K12WJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"1 N.O. 0 N.C.",3
+100-K-12-WJ-10-M,100-K12WJ10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"1 N.O. 0 N.C.",3
+100-K-12-ZA-01,100-K12ZA01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"220V DC",-,"0 N.O. 1 N.C.",3
+100-K-12-ZA-01-M,100-K12ZA01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"220V DC",-,"0 N.O. 1 N.C.",3
+100-K-12-ZA-10,100-K12ZA10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"220V DC",-,"1 N.O. 0 N.C.",3
+100-K-12-ZA-10-M,100-K12ZA10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"220V DC",-,"1 N.O. 0 N.C.",3
+100-K-12-ZD-01,100-K12ZD01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"110V DC",-,"0 N.O. 1 N.C.",3
+100-K-12-ZD-01-M,100-K12ZD01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"110V DC",-,"0 N.O. 1 N.C.",3
+100-K-12-ZD-10,100-K12ZD10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"110V DC",-,"1 N.O. 0 N.C.",3
+100-K-12-ZD-10-M,100-K12ZD10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"110V DC",-,"1 N.O. 0 N.C.",3
+100-K-12-ZD-400,100-K12ZD400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"110V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-ZE-01,100-K12ZE01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 1 N.C.",3
+100-K-12-ZG-01,100-K12ZG01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 1 N.C.",3
+100-K-12-ZG-10,100-K12ZG10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"1 N.O. 0 N.C.",3
+100-K-12-ZG-400,100-K12ZG400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-ZJ-01,100-K12ZJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 1 N.C.",3
+100-K-12-ZJ-01-M,100-K12ZJ01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 1 N.C.",3
+100-K-12-ZJ-10,100-K12ZJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"1 N.O. 0 N.C.",3
+100-K-12-ZJ-10-M,100-K12ZJ10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"1 N.O. 0 N.C.",3
+100-K-12-ZJ-200,100-K12ZJ200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-ZJ-200-M,100-K12ZJ200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-ZJ-300,100-K12ZJ300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-ZJ-300-M,100-K12ZJ300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-ZJ-400,100-K12ZJ400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-ZJ-400-M,100-K12ZJ400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-ZQ-01,100-K12ZQ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"12V DC",-,"0 N.O. 1 N.C.",3
+100-K-12-ZQ-01-M,100-K12ZQ01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"12V DC",-,"0 N.O. 1 N.C.",3
+100-K-12-ZQ-10,100-K12ZQ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"12V DC",-,"1 N.O. 0 N.C.",3
+100-K-12-ZQ-10-M,100-K12ZQ10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"12V DC",-,"1 N.O. 0 N.C.",3
+100-K-12-ZQ-200,100-K12ZQ200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"12V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-ZQ-200-M,100-K12ZQ200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"12V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-ZQ-300,100-K12ZQ300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"12V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-ZQ-300-M,100-K12ZQ300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"12V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-ZQ-400,100-K12ZQ400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"12V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-ZQ-400-M,100-K12ZQ400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"12V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-ZR-01,100-K12ZR01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 1 N.C.",3
+100-K-12-ZR-10,100-K12ZR10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"1 N.O. 0 N.C.",3
+100-K-12-ZS-01,100-K12ZS01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"125V DC",-,"0 N.O. 1 N.C.",3
+100-K-12-ZS-01-M,100-K12ZS01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"125V DC",-,"0 N.O. 1 N.C.",3
+100-K-12-ZS-10,100-K12ZS10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"125V DC",-,"1 N.O. 0 N.C.",3
+100-K-12-ZS-10-M,100-K12ZS10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"125V DC",-,"1 N.O. 0 N.C.",3
+100-K-12-ZS-200,100-K12ZS200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"125V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-ZS-200-M,100-K12ZS200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"125V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-ZS-300,100-K12ZS300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"125V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-ZS-300-M,100-K12ZS300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"125V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-ZS-400,100-K12ZS400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"125V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-ZS-400-M,100-K12ZS400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"125V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-ZT-01,100-K12ZT01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"250V DC",-,"0 N.O. 1 N.C.",3
+100-K-12-ZT-01-M,100-K12ZT01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"250V DC",-,"0 N.O. 1 N.C.",3
+100-K-12-ZT-10,100-K12ZT10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"250V DC",-,"1 N.O. 0 N.C.",3
+100-K-12-ZT-10-M,100-K12ZT10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"250V DC",-,"1 N.O. 0 N.C.",3
+100-K-12-ZT-200,100-K12ZT200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"250V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-ZT-200-M,100-K12ZT200M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"250V DC",-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-12-ZT-300,100-K12ZT300,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"250V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-ZT-300-M,100-K12ZT300M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"250V DC",-,"0 N.O. 0 N.C.","3 N.O. 1 N.C."
+100-K-12-ZT-400,100-K12ZT400,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"250V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-ZT-400-M,100-K12ZT400M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"250V DC",-,"0 N.O. 0 N.C.","4 N.O. 0 N.C."
+100-K-12-ZU-01,100-K12ZU01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 1 N.C.",3
+100-K-12-ZU-10,100-K12ZU10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"1 N.O. 0 N.C.",3
+100-K-12-ZW-01,100-K12ZW01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 1 N.C.",3
+100-K-12-ZW-10,100-K12ZW10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"1 N.O. 0 N.C.",3
+100-K-12-ZY-01,100-K12ZY01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 1 N.C.",3
+100-K-12-ZY-10,100-K12ZY10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"1 N.O. 0 N.C.",3
+100-K-12-ZZ-01,100-K12ZZ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 1 N.C.",3
+100-K-12-ZZ-10,100-K12ZZ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"1 N.O. 0 N.C.",3
+100-K-12-ZZ-200,100-K12ZZ200,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 0 N.C.","2 N.O. 2 N.C."
+100-K-FA-02-E,100-KFA02E,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FA-02-EM,100-KFA02EM,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FA-04-E,100-KFA04E,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FA-04-EM,100-KFA04EM,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FA-11-E,100-KFA11E,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FA-11-EM,100-KFA11EM,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FA-13-E,100-KFA13E,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FA-13-EM,100-KFA13EM,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FA-20-E,100-KFA20E,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FA-20-EM,100-KFA20EM,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FA-22-Z,100-KFA22Z,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FA-22-ZM,100-KFA22ZM,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FA-31-Z,100-KFA31Z,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FA-31-ZM,100-KFA31ZM,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FA-40-E,100-KFA40E,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FA-40-EM,100-KFA40EM,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FB-11-M,100-KFB11M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FB-22-M,100-KFB22M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FC-02,100-KFC02,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FC-02-M,100-KFC02M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FC-04,100-KFC04,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FC-04-M,100-KFC04M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FC-11,100-KFC11,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FC-11-M,100-KFC11M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FC-13,100-KFC13,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FC-13-M,100-KFC13M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FC-20,100-KFC20,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FC-20-M,100-KFC20M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FC-22,100-KFC22,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FC-22-M,100-KFC22M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FC-31,100-KFC31,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FC-31-M,100-KFC31M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FC-40,100-KFC40,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FC-40-M,100-KFC40M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-FS-C,100-KFSC280,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,"550V 50Hz, 600V 60Hz","50, 60Hz",-,-
+100-K-FS-C,100-KFSC280M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,"550V 50Hz, 600V 60Hz","50, 60Hz",-,-
+100-K-FS-C,100-KFSC480,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,"550V 50Hz, 600V 60Hz","50, 60Hz",-,-
+100-K-FS-C,100-KFSC480M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,"550V 50Hz, 600V 60Hz","50, 60Hz",-,-
+100-K-FS-C,100-KFSC50,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,"550V 50Hz, 600V 60Hz","50, 60Hz",-,-
+100-K-FS-C,100-KFSC50M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,"550V 50Hz, 600V 60Hz","50, 60Hz",-,-
+100-K-FS-D,100-KFSD250,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz",-,-
+100-K-FS-D,100-KFSD250M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz",-,-
+100-K-FS-V,100-KFSV136,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,"32V AC 50Hz, 36V AC 60Hz","50, 60Hz",-,-
+100-K-FS-V,100-KFSV136M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,"32V AC 50Hz, 36V AC 60Hz","50, 60Hz",-,-
+100-K-FS-V,100-KFSV277,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,"32V AC 50Hz, 36V AC 60Hz","50, 60Hz",-,-
+100-K-FS-V,100-KFSV277M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,"32V AC 50Hz, 36V AC 60Hz","50, 60Hz",-,-
+100-K-FS-V,100-KFSV55,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,"32V AC 50Hz, 36V AC 60Hz","50, 60Hz",-,-
+100-K-FS-V,100-KFSV55M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,"32V AC 50Hz, 36V AC 60Hz","50, 60Hz",-,-
+100-K-MC-H,100-KMCH,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,"208V AC 60Hz",60Hz,-,-
+100-K-PR,100-KPR,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-KR-05-D-01,100-KR05D01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",5A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 1 N.C.",3
+100-KR-05-D-01-M,100-KR05D01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",5A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 1 N.C.",3
+100-KR-05-D-10,100-KR05D10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",5A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","1 N.O. 0 N.C.",3
+100-KR-05-D-10-M,100-KR05D10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",5A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","1 N.O. 0 N.C.",3
+100-KR-05-DJ-01,100-KR05DJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",5A,"24V DC",-,"0 N.O. 1 N.C.",3
+100-KR-05-DJ-01-M,100-KR05DJ01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",5A,"24V DC",-,"0 N.O. 1 N.C.",3
+100-KR-05-DJ-10,100-KR05DJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",5A,"24V DC",-,"1 N.O. 0 N.C.",3
+100-KR-05-DJ-10-M,100-KR05DJ10M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",5A,"24V DC",-,"1 N.O. 0 N.C.",3
+100-KR-05-KF-01,100-KR05KF01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",5A,"230V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-KR-05-KF-01-M,100-KR05KF01M,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",5A,"230V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-KR-05-KF-10,100-KR05KF10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",5A,"230V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-KR-05-KJ-01,100-KR05KJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",5A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-KR-05-KJ-10,100-KR05KJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",5A,"24V AC 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-KR-05-ZD-01,100-KR05ZD01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",5A,"110V DC",-,"0 N.O. 1 N.C.",3
+100-KR-05-ZD-10,100-KR05ZD10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",5A,"110V DC",-,"1 N.O. 0 N.C.",3
+100-KR-05-ZJ-01,100-KR05ZJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",5A,"24V DC",-,"0 N.O. 1 N.C.",3
+100-KR-05-ZJ-10,100-KR05ZJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",5A,"24V DC",-,"1 N.O. 0 N.C.",3
+100-KR-09-D-01,100-KR09D01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",9A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 1 N.C.",3
+100-KR-09-D-10,100-KR09D10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",9A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","1 N.O. 0 N.C.",3
+100-KR-09-DJ-01,100-KR09DJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",9A,"24V DC",-,"0 N.O. 1 N.C.",3
+100-KR-09-DJ-10,100-KR09DJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",9A,"24V DC",-,"1 N.O. 0 N.C.",3
+100-KR-09-KF-01,100-KR09KF01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",9A,"230V 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-KR-09-KF-10,100-KR09KF10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",9A,"230V 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-KR-09-KJ-01,100-KR09KJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",9A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 1 N.C.",3
+100-KR-09-KJ-10,100-KR09KJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",9A,"24V AC 50/60Hz",50/60Hz,"1 N.O. 0 N.C.",3
+100-KR-09-ZD-01,100-KR09ZD01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",9A,"110V DC",-,"0 N.O. 1 N.C.",3
+100-KR-09-ZD-10,100-KR09ZD10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",9A,"110V DC",-,"1 N.O. 0 N.C.",3
+100-KR-09-ZJ-01,100-KR09ZJ01,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",9A,"24V DC",-,"0 N.O. 1 N.C.",3
+100-KR-09-ZJ-10,100-KR09ZJ10,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",9A,"24V DC",-,"1 N.O. 0 N.C.",3
+100-KR-FA-02-E,100-KRFA02E,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",-,-,-,-,-
+100-KR-FA-04-E,100-KRFA04E,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",-,-,-,-,-
+100-KR-FA-11-E,100-KRFA11E,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",-,-,-,-,-
+100-KR-FA-13-E,100-KRFA13E,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",-,-,-,-,-
+100-KR-FA-20-E,100-KRFA20E,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",-,-,-,-,-
+100-KR-FA-22-Z,100-KRFA22Z,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",-,-,-,-,-
+100-KR-FA-31-Z,100-KRFA31Z,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",-,-,-,-,-
+100-KR-FA-40-E,100-KRFA40E,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",-,-,-,-,-
+100-KR-FC-02,100-KRFC02,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",-,-,-,-,-
+100-KR-FC-04,100-KRFC04,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",-,-,-,-,-
+100-KR-FC-11,100-KRFC11,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",-,-,-,-,-
+100-KR-FC-13,100-KRFC13,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",-,-,-,-,-
+100-KR-FC-20,100-KRFC20,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",-,-,-,-,-
+100-KR-FC-22,100-KRFC22,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",-,-,-,-,-
+100-KR-FC-31,100-KRFC31,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",-,-,-,-,-
+100-KR-FC-40,100-KRFC40,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor","Spring Clamp",-,-,-,-,-
+100-K-T-30-S,100-KT30S,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-T-3-S,100-KT3S,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-W-453,100-KW453,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-W-454,100-KW454,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+100-K-WT,100-KWT,"MCS-C Non-Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,-,-,-,-,-
+104-K-05-B-02,104-K05B02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"480V 60Hz",60Hz,"0 N.O. 2 N.C.",3
+104-K-05-BO-2,104-K05BO2,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,-,-
+104-K-05-D-02,104-K05D02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 2 N.C.",3
+104-K-05-DJ-02,104-K05DJ02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 2 N.C.",3
+104-K-05-DJ-02,104-K05DJ02-A,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 2 N.C.",3
+104-K-05-KA-02,104-K05KA02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"240V 50/60Hz",50/60Hz,"0 N.O. 2 N.C.",3
+104-K-05-KF-02,104-K05KF02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"230V 50/60Hz",50/60Hz,"0 N.O. 2 N.C.",3
+104-K-05-KF-02,104-K05KF02-X14,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"230V 50/60Hz",50/60Hz,"0 N.O. 2 N.C.",3
+104-K-05-KJ-02,104-K05KJ02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 2 N.C.",3
+104-K-05-KN-02,104-K05KN02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"400V 50/60Hz",50/60Hz,"0 N.O. 2 N.C.",3
+104-K-05-VC-02,104-K05VC02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"600V 60Hz",60Hz,"0 N.O. 2 N.C.",3
+104-K-05-WJ-02,104-K05WJ02-X14,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,-,-,"0 N.O. 2 N.C.",3
+104-K-05-ZA-02,104-K05ZA02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"220V DC",-,"0 N.O. 2 N.C.",3
+104-K-05-ZD-02,104-K05ZD02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"110V DC",-,"0 N.O. 2 N.C.",3
+104-K-05-ZJ-02,104-K05ZJ02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"24V DC",-,"0 N.O. 2 N.C.",3
+104-K-05-ZQ-02,104-K05ZQ02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"12V DC",-,"0 N.O. 2 N.C.",3
+104-K-05-ZS-02,104-K05ZS02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"125V DC",-,"0 N.O. 2 N.C.",3
+104-K-05-ZT-02,104-K05ZT02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,5A,"250V DC",-,"0 N.O. 2 N.C.",3
+104-K-09-B-02,104-K09B02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"480V 60Hz",60Hz,"0 N.O. 2 N.C.",3
+104-K-09-D-02,104-K09D02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 2 N.C.",3
+104-K-09-DJ-02,104-K09DJ02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 2 N.C.",3
+104-K-09-KA-02,104-K09KA02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"240V 50/60Hz",50/60Hz,"0 N.O. 2 N.C.",3
+104-K-09-KF-02,104-K09KF02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"230V 50/60Hz",50/60Hz,"0 N.O. 2 N.C.",3
+104-K-09-KJ-02,104-K09KJ02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 2 N.C.",3
+104-K-09-KN-02,104-K09KN02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"400V 50/60Hz",50/60Hz,"0 N.O. 2 N.C.",3
+104-K-09-VC-02,104-K09VC02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"600V 60Hz",60Hz,"0 N.O. 2 N.C.",3
+104-K-09-ZA-02,104-K09ZA02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"220V DC",-,"0 N.O. 2 N.C.",3
+104-K-09-ZD-02,104-K09ZD02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"110V DC",-,"0 N.O. 2 N.C.",3
+104-K-09-ZJ-02,104-K09ZJ02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"24V DC",-,"0 N.O. 2 N.C.",3
+104-K-09-ZQ-02,104-K09ZQ02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"12V DC",-,"0 N.O. 2 N.C.",3
+104-K-09-ZS-02,104-K09ZS02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"125V DC",-,"0 N.O. 2 N.C.",3
+104-K-09-ZT-02,104-K09ZT02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,9A,"250V DC",-,"0 N.O. 2 N.C.",3
+104-K-12-B-02,104-K12B02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"480V 60Hz",60Hz,"0 N.O. 2 N.C.",3
+104-K-12-D-02,104-K12D02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"110V AC 50Hz, 120V AC 60Hz","50, 60Hz","0 N.O. 2 N.C.",3
+104-K-12-DJ-02,104-K12DJ02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 2 N.C.",3
+104-K-12-KA-02,104-K12KA02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"240V 50/60Hz",50/60Hz,"0 N.O. 2 N.C.",3
+104-K-12-KF-02,104-K12KF02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"230V 50/60Hz",50/60Hz,"0 N.O. 2 N.C.",3
+104-K-12-KJ-02,104-K12KJ02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V AC 50/60Hz",50/60Hz,"0 N.O. 2 N.C.",3
+104-K-12-KN-02,104-K12KN02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"400V 50/60Hz",50/60Hz,"0 N.O. 2 N.C.",3
+104-K-12-VC-02,104-K12VC02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"600V 60Hz",60Hz,"0 N.O. 2 N.C.",3
+104-K-12-WJ-02,104-K12WJ02-X14,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,-,-,"0 N.O. 2 N.C.",3
+104-K-12-ZA-02,104-K12ZA02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"220V DC",-,"0 N.O. 2 N.C.",3
+104-K-12-ZD-02,104-K12ZD02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"110V DC",-,"0 N.O. 2 N.C.",3
+104-K-12-ZJ-02,104-K12ZJ02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"24V DC",-,"0 N.O. 2 N.C.",3
+104-K-12-ZQ-02,104-K12ZQ02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"12V DC",-,"0 N.O. 2 N.C.",3
+104-K-12-ZS-02,104-K12ZS02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"125V DC",-,"0 N.O. 2 N.C.",3
+104-K-12-ZT-02,104-K12ZT02,"MCS-C Reversing Contactor","Allen Bradley","Miniature Frame IEC Contactor",Screw,12A,"250V DC",-,"0 N.O. 2 N.C.",3

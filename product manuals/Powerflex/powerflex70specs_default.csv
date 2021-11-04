@@ -1,0 +1,14 @@
+A -- 1-3,Manufacturer,Series,B -- 4-4,Voltage,Ph.,C2 -- 5-7 (240V),Amps,kW,HP,Frame,C3 -- 5-7 (400V),Amps,kW,HP,Frame,C4 -- 5-7 (480V),Amps,kW,HP,Frame,C5 -- 5-7 (600V),Amps,kW,HP,Frame,D -- 8-8,Enclosure,E -- 9-9,Interface Module,F -- 10-10,Type,G -- 11-11,w/Brake IGBT,H -- 12-12,w/Resistor,I -- 13-13,Rating,J -- 14-14,Network Type,K -- 15-15,Control,Safe-Off,L -- 16-16,Feedback
+20A,Allen Bradley/Rockwell Automation,PowerFlex70 Adjustable Frequency AC Drives,B,240V AC,3,2P2,2.2,0.37,0.5,A,1P3,1.3,0.37,0.5,A,1P1,1.1,0.37,0.5,A,0P9,0.9,0.37,0.5,A,A,"Panel Mount - IP 20, NEMA/UL Type 1",0,Blank Cover,A,Manual,Y,Yes,Y,Yes,A,"Filtered A & B Frames (Optional) C, D, & E Frames (Standard)",C,ControlNet (Coax),N,Standard,N/A,0,No Feedback  - Enhanced Control
+,,,C,400V AC,3,4P2,4.2,0.75,1,A,2P1,2.1,0.75,1,A,2P1,2.1,0.75,1,A,1P7,1.7,0.75,1,A,C,"Wall/Machine Mount = IP66, NEMA/UL Type 4X/12 for indoor use only",3,Full Numeric LCD,N,No Manual,,,N,No,N,"Not Filtered A & B Frames (Optional) C, D & E Frames",D,DeviceNet,C,Enhanced,No,1,5V/12V Encoder w/Enhanced Control
+,,,D,480V AC,3,6P8,6.8,1.5,2,B,3P5,3.5,1.5,2,A,3P4,3.4,1.5,2,A,2P7,2.7,1.5,2,A,F,"Flange Mount - Front Chassis = IP 20, NEMA/UL Type 1, Rear Heatsink = IP66, NEMA/UL Type 4X/12 for indoor/outdoor use",5,Prog. Only LCD,,,,,,,,,E,EtherNet/IP,G,Enhanced,Yes,,
+,,,E,600V AC,3,9P6,9.6,2.2,3,B,5P0,5,2.2,3,B,5P0,5,2.2,3,B,3P5,3.9,2.2,3,B,G,"Wall/Machine Mount - IP54, NEMA/UL Type 12",,,,,,,,,,,N,None,,,,,
+,,,,,,015,15.3,4,5,C,8P7,8.7,4,5,B,8P0,8,3.7,5,B,5P0,6.1,4,5,B,,,,,,,,,,,,,R,Remote I/O,,,,,
+,,,,,,022,22,5.5,7.5,D,011,11.5,5.5,7.5,C,011,11,5.5,7.5,C,8P7,9,5.5,7.5,C,,,,,,,,,,,,,,,,,,,
+,,,,,,028,28,7.5,10,D,015,15.4,7.5,10,C,014,14,7.5,10,C,011,11,7.5,10,C,,,,,,,,,,,,,,,,,,,
+,,,,,,042,42,11,15,D,022,22,11,15,D,022,22,11,15,D,017,17,11,15,D,,,,,,,,,,,,,,,,,,,
+,,,,,,054,54,15,20,E,030,30,15,20,D,027,27,15,20,D,022,22,15,20,D,,,,,,,,,,,,,,,,,,,
+,,,,,,070,70,18.5,25,E,037,37,18.5,25,D,034,34,18.5,25,D,027,27,18.5,25,D,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,043,43,22,30,D,040,40,22,30,D,032,32,22,30,D,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,060,60,30,40,E,052,52,30,40,E,041,41,30,40,E,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,072,72,37,50,E,065,65,37,50,E,052,52,37,50,E,,,,,,,,,,,,,,,,,,,

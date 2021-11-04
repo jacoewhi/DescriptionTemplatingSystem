@@ -1,0 +1,9 @@
+A -- 1-3,Manufacturer,Series,B -- 5-5,Voltage,Ph.,C1 -- 6-8 (120V),Amps,kW,HP,C2 -- 6-8 (240V),Amps,kW,HP,C3 -- 6-8 (480V),Amps,kW,HP,C4 -- 6-8 (600V),Amps,kW,HP,D -- 9-9 ,Enclosure,E -- 10-10,HIM Interface Module,F -- 11-11,Emission Class Rating,G -- 12-12,Type
+22B,Allen Bradley / Rockwell Automation,PowerFlex 40 Adjustable Frequency AC Drive,V,120V AC,1,2P3,2.3,0.4,0.5,2P3,2.3,0.4,0.5,1P4,1.4,0.4,0.5,1P7,1.7,0.75,1,N,"Panel Mount - IP20, NEMA/UL Type Open",1,Fixed Keypad,0,Not Filtered,3,No Brake IGBT
+,,,A,240V AC,1,5P0,5,0.75,1,5P0,5,0.75,1,2P3,2.3,0.75,1,3P0,3,1.5,2,C,"Panel Mount - IP66, NEMA/UL Type 4X",,,1,Filtered,4,Standard
+,,,B,240V AC,3,6P0,6,1.1,1.5,8P0,8,1.5,2,4P0,4,1.5,2,4P2,4.2,2.2,3,F,"Flange Mount - IP20, NEMA/UL Type Open",,,,,,
+,,,D,480V AC,3,,,,,012,12,2.2,3,6P0,6,2.2,3,6P6,6.6,4,5,H,"Replacement Plate Drive - IP20, NEMA/UL Type Open",,,,,,
+,,,E,600V AC,3,,,,,017,17.5,3.7,5,010,10.5,4,5,9P9,9.9,5.5,7.5,,,,,,,,
+,,,,,,,,,,024,24,5.5,7.5,012,12,5.5,7.5,012,12.2,7.5,10,,,,,,,,
+,,,,,,,,,,033,33,7.5,10,017,17,7.5,10,019,19,11,15,,,,,,,,
+,,,,,,,,,,,,,,024,24,11,15,,,,,,,,,,,,

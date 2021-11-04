@@ -1,0 +1,73 @@
+A -- 1-4,Manufacturer,Series,B -- 5-7,Product Type,Frame/Rating, Interrupting Rating/Breaking Capacity,Protection Type,C -- 8-10,Current Range,D -- 11-12,Miscellaneous,E -- 13-14,Auxillary Trip Contacts: Bottom Front | Right Side,F -- 15-16,UV and Shunt Trips
+140M,Allen Bradley,140M,C2E,Motor Protection Circuit Breaker,32A,Normal Break, Adj Thermal/ Fixed Mag(13 x In),A16,0.16,KN,Black Lockable Knob,XX,Placeholder | Placeholder,GJ,"Undervoltage Trip 24V AC, 60 Hz"
+,,,C2T,Motor Protection Circuit Breaker,32A,Normal Break,Adj Thermal/Fixed Mag (Fixed at 16...20 x In),A25,0.25,KRY,Red/Yellow Lockable Knob,XC,Placeholder | 1 N.O. + 1 N.C.,GK,"Undervoltage Trip 24V AC, 50 Hz"
+,,,C2V,Motor Protection Circuit Breaker,32A,Normal Break,Adj Thermal/Fixed Mag application at output of VFD (multi-motor),A40,0.4,TE,Spacing Adapter for Self-Protected Starters (Type E),XD,Placeholder | 2 N.O.,GD,"Undervoltage Trip 120V AC, 60 Hz"
+,,,C8E,Motor Protection Circuit Breaker,32A,High Break, Adj Thermal/ Fixed Mag(13 x In),A63,0.63,MT,"STD BusBar Mount, Top",XE,Placeholder | 2 N.C.,GC,"Undervoltage Trip 110V AC, 50 Hz"
+,,,C8T,Motor Protection Circuit Breaker,32A,High Break,Adj Thermal/Fixed Mag (Fixed at 16...20 x In),B10,1,,,XK,Placeholder | 1 N.C. (SC+OL) + 1 N.C. (SC),GH,"Undervoltage Trip 208V AC, 60 Hz"
+,,,C8V,Motor Protection Circuit Breaker,32A,High Break,Adj Thermal/Fixed Mag application at output of VFD (multi-motor),B16,1.6,,,XL,Placeholder | 1 N.O. (SC+OL) + 1 N.O. (SC),GF,"Undervoltage Trip 220...230V AC, 50 Hz"
+,,,D2E,Motor Protection Circuit Breaker,32A,Normal Break, Adj Thermal/ Fixed Mag(13 x In),B25,2.5,,,XM,Placeholder | 1 N.C. (SC + OL)+ 1 N.O. (SC),GA,"Undervoltage Trip 240V AC, 60Hz"
+,,,D2T,Motor Protection Circuit Breaker,32A,Normal Break,Adj Thermal/Fixed Mag (Fixed at 16...20 x In),B40,4,,,XN,Placeholder | 1 N.O. (SC + OL) + 1 N.C. (SC),GT,"Undervoltage Trip 277V AC, 60 Hz"
+,,,D2V,Motor Protection Circuit Breaker,32A,Normal Break,Adj Thermal/Fixed Mag application at output of VFD (multi-motor),B63,6.3,,,XQ,Placeholder | 1 N.O. (SC)+1 N.C.(SC),GN,"Undervoltage Trip 380...400V AC, 50 Hz"
+,,,D8E,Motor Protection Circuit Breaker,32A,High Break, Adj Thermal/ Fixed Mag(13 x In),C10,10,,,AX,1 N.C. | Placeholder,GB,"Undervoltage Trip 480V AC, 60Hz and 415V AC, 50 Hz"
+,,,D8T,Motor Protection Circuit Breaker,32A,High Break,Adj Thermal/Fixed Mag (Fixed at 16...20 x In),C16,16,,,AC,1 N.C. | 1 N.O. + 1 N.C.,GVC,"Undervoltage Trip 600V AC, 60Hz"
+,,,D8V,Motor Protection Circuit Breaker,32A,High Break,Adj Thermal/Fixed Mag application at output of VFD (multi-motor),C25,25,,,AD,1 N.C. | 2 N.O.,GM,"Undervoltage Trip 575V AC, 60Hz and 500V AC, 50 Hz"
+,,,F2E,Motor Protection Circuit Breaker,45A,Normal Break, Adj Thermal/ Fixed Mag(13 x In),C40,40,,,AE,1 N.C. | 2 N.C.,PJ,"Shunt Trip 24V AC, 60 Hz"
+,,,F2T,Motor Protection Circuit Breaker,45A,Normal Break,Adj Thermal/Fixed Mag (Fixed at 16...20 x In),C63,63,,,AK,1 N.C. | 1 N.C. (SC+OL) + 1 N.C. (SC),PK,"Shunt Trip 24V AC, 50 Hz"
+,,,F2V,Motor Protection Circuit Breaker,45A,Normal Break,Adj Thermal/Fixed Mag application at output of VFD (multi-motor),D10,100,,,AL,1 N.C. | 1 N.O. (SC+OL) + 1 N.O. (SC),PD,"Shunt Trip 120V AC, 60 Hz"
+,,,F8E,Motor Protection Circuit Breaker,45A,High Break, Adj Thermal/ Fixed Mag(13 x In),D16,160,,,AM,1 N.C. | 1 N.C. (SC + OL)+ 1 N.O. (SC),PC,"Shunt Trip 110V AC, 50 Hz"
+,,,F8T,Motor Protection Circuit Breaker,45A,High Break,Adj Thermal/Fixed Mag (Fixed at 16...20 x In),D25,250,,,AN,1 N.C. | 1 N.O. (SC + OL) + 1 N.C. (SC),PH,"Shunt Trip 208V AC, 60 Hz"
+,,,F8V,Motor Protection Circuit Breaker,45A,High Break,Adj Thermal/Fixed Mag application at output of VFD (multi-motor),D40,400,,,AQ,1 N.C. | 1 N.O. (SC)+1 N.C.(SC),PF,"Shunt Trip 220...230V AC, 50 Hz"
+,,,C2N,Motor Circuit Protector,32A,Normal Break,Fixed Mag only (13 x In),D63,630,,,BX,1 N.O. | Placeholder,PA,"Shunt Trip 240V AC, 60Hz"
+,,,C8N,Motor Circuit Protector,32A,High Break,Fixed Mag only (13 x In),E10,1000,,,BC,1 N.O. | 1 N.O. + 1 N.C.,PT,"Shunt Trip 277V AC, 60 Hz"
+,,,D2N,Motor Circuit Protector,32A,Normal Break,Fixed Mag only (13 x In),E16,1600,,,BD,1 N.O. | 2 N.O.,PN,"Shunt Trip 380...400V AC, 50 Hz"
+,,,D8N,Motor Circuit Protector,32A,High Break,Fixed Mag only (13 x In),E25,2500,,,BE,1 N.O. | 2 N.C.,PB,"Shunt Trip 480V AC, 60Hz and 415V AC, 50 Hz"
+,,,F2N,Motor Circuit Protector,45A,Normal Break,Fixed Mag only (13 x In),E40,4000,,,BK,1 N.O. | 1 N.C. (SC+OL) + 1 N.C. (SC),PVC,"Shunt Trip 600V AC, 60Hz"
+,,,F8N,Motor Circuit Protector,45A,High Break,Fixed Mag only (13 x In),E63,6300,,,BL,1 N.O. | 1 N.O. (SC+OL) + 1 N.O. (SC),PM,"Shunt Trip 575V AC, 60Hz and 500V AC, 50 Hz"
+,,,,,,,,,,,,BM,1 N.O. | 1 N.C. (SC + OL)+ 1 N.O. (SC),,
+,,,,,,,,,,,,BN,1 N.O. | 1 N.O. (SC + OL) + 1 N.C. (SC),,
+,,,,,,,,,,,,BQ,1 N.O. | 1 N.O. (SC)+1 N.C.(SC),,
+,,,,,,,,,,,,CX,1 N.O. + 1 N.C. | Placeholder,,
+,,,,,,,,,,,,CC,1 N.O. + 1 N.C. | 1 N.O. + 1 N.C.,,
+,,,,,,,,,,,,CD,1 N.O. + 1 N.C. | 2 N.O.,,
+,,,,,,,,,,,,CE,1 N.O. + 1 N.C. | 2 N.C.,,
+,,,,,,,,,,,,CK,1 N.O. + 1 N.C. | 1 N.C. (SC+OL) + 1 N.C. (SC),,
+,,,,,,,,,,,,CL,1 N.O. + 1 N.C. | 1 N.O. (SC+OL) + 1 N.O. (SC),,
+,,,,,,,,,,,,CM,1 N.O. + 1 N.C. | 1 N.C. (SC + OL)+ 1 N.O. (SC),,
+,,,,,,,,,,,,CN,1 N.O. + 1 N.C. | 1 N.O. (SC + OL) + 1 N.C. (SC),,
+,,,,,,,,,,,,CQ,1 N.O. + 1 N.C. | 1 N.O. (SC)+1 N.C.(SC),,
+,,,,,,,,,,,,DX,2 N.O. | Placeholder,,
+,,,,,,,,,,,,DC,2 N.O. | 1 N.O. + 1 N.C.,,
+,,,,,,,,,,,,DD,2 N.O. | 2 N.O.,,
+,,,,,,,,,,,,DE,2 N.O. | 2 N.C.,,
+,,,,,,,,,,,,DK,2 N.O. | 1 N.C. (SC+OL) + 1 N.C. (SC),,
+,,,,,,,,,,,,DL,2 N.O. | 1 N.O. (SC+OL) + 1 N.O. (SC),,
+,,,,,,,,,,,,DM,2 N.O. | 1 N.C. (SC + OL)+ 1 N.O. (SC),,
+,,,,,,,,,,,,DN,2 N.O. | 1 N.O. (SC + OL) + 1 N.C. (SC),,
+,,,,,,,,,,,,DQ,2 N.O. | 1 N.O. (SC)+1 N.C.(SC),,
+,,,,,,,,,,,,EX,2 N.C. | Placeholder,,
+,,,,,,,,,,,,EC,2 N.C. | 1 N.O. + 1 N.C.,,
+,,,,,,,,,,,,ED,2 N.C. | 2 N.O.,,
+,,,,,,,,,,,,EE,2 N.C. | 2 N.C.,,
+,,,,,,,,,,,,EK,2 N.C. | 1 N.C. (SC+OL) + 1 N.C. (SC),,
+,,,,,,,,,,,,EL,2 N.C. | 1 N.O. (SC+OL) + 1 N.O. (SC),,
+,,,,,,,,,,,,EM,2 N.C. | 1 N.C. (SC + OL)+ 1 N.O. (SC),,
+,,,,,,,,,,,,EN,2 N.C. | 1 N.O. (SC + OL) + 1 N.C. (SC),,
+,,,,,,,,,,,,EQ,2 N.C. | 1 N.O. (SC)+1 N.C.(SC),,
+,,,,,,,,,,,,RX,1 N.C. + 1 N.O. (SC + OL) | Placeholder,,
+,,,,,,,,,,,,RC,1 N.C. + 1 N.O. (SC + OL) | 1 N.O. + 1 N.C.,,
+,,,,,,,,,,,,RD,1 N.C. + 1 N.O. (SC + OL) | 2 N.O.,,
+,,,,,,,,,,,,RE,1 N.C. + 1 N.O. (SC + OL) | 2 N.C.,,
+,,,,,,,,,,,,RK,1 N.C. + 1 N.O. (SC + OL) | 1 N.C. (SC+OL) + 1 N.C. (SC),,
+,,,,,,,,,,,,RL,1 N.C. + 1 N.O. (SC + OL) | 1 N.O. (SC+OL) + 1 N.O. (SC),,
+,,,,,,,,,,,,RM,1 N.C. + 1 N.O. (SC + OL) | 1 N.C. (SC + OL)+ 1 N.O. (SC),,
+,,,,,,,,,,,,RN,1 N.C. + 1 N.O. (SC + OL) | 1 N.O. (SC + OL) + 1 N.C. (SC),,
+,,,,,,,,,,,,RQ,1 N.C. + 1 N.O. (SC + OL) | 1 N.O. (SC)+1 N.C.(SC),,
+,,,,,,,,,,,,SX,1 N.O. + 1 N.C. (SC + OL) | Placeholder,,
+,,,,,,,,,,,,SC,1 N.O. + 1 N.C. (SC + OL) | 1 N.O. + 1 N.C.,,
+,,,,,,,,,,,,SD,1 N.O. + 1 N.C. (SC + OL) | 2 N.O.,,
+,,,,,,,,,,,,SE,1 N.O. + 1 N.C. (SC + OL) | 2 N.C.,,
+,,,,,,,,,,,,SK,1 N.O. + 1 N.C. (SC + OL) | 1 N.C. (SC+OL) + 1 N.C. (SC),,
+,,,,,,,,,,,,SL,1 N.O. + 1 N.C. (SC + OL) | 1 N.O. (SC+OL) + 1 N.O. (SC),,
+,,,,,,,,,,,,SM,1 N.O. + 1 N.C. (SC + OL) | 1 N.C. (SC + OL)+ 1 N.O. (SC),,
+,,,,,,,,,,,,SN,1 N.O. + 1 N.C. (SC + OL) | 1 N.O. (SC + OL) + 1 N.C. (SC),,
+,,,,,,,,,,,,SQ,1 N.O. + 1 N.C. (SC + OL) | 1 N.O. (SC)+1 N.C.(SC),,
